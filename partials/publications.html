@@ -1,0 +1,20 @@
+<div id="content">
+	<div id="scrollbar0">
+		<div class="scrollbar"><div class="track"><img src="images/scrollbar.png" style="margin-top:-9px;"/><div class="thumb"><div class="end"></div></div></div></div>
+		<div class="viewport">
+			<div class="overview">
+				<h1>Publications</h1>
+				
+				<section ng-repeat="section in sections" scrollbar-directive>
+					<div class="column1">
+						<h2 ng-bind-html="section.t"></h2>
+						<p class="bold" ng-bind-html="section.b"></p>
+						<div class="pubdesc" ng-bind-html="section.d"></div>
+					</div>
+					<div class="column2"><img height="378" width="680" alt="{{section.a}}" ng-src="images/publications/{{section.i}}"/></div>
+				</section>
+							
+			</div>
+		</div>
+	</div>
+</div>

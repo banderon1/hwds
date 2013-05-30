@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hwdsHolidayXML>
+	<node header="THINK" subhead="about the holiday blessings" large="images/popups/ecards/Think_Large.jpg" small="images/popups/ecards/Think_Small.jpg" />
+	<node header="ENJOY" subhead="spending time with family" large="images/popups/ecards/Friends_Large.jpg" small="images/popups/ecards/Friends_Small.jpg" />
+	<node header="TASTE" subhead="some delicious food" large="images/popups/ecards/Gingerbread_Large.jpg"  small="images/popups/ecards/Gingerbread_Small.jpg" />
+	<node header="HEAR" subhead="the bells ringing" large="images/popups/ecards/Bell_Large.jpg" small="images/popups/ecards/Bell_Small.jpg" />
+	<node header="SMELL" subhead="the cookies in the oven" large="images/popups/ecards/Cookies_Large.jpg"  small="images/popups/ecards/Cookies_Small.jpg" />
+	<node header="CRUNCH" subhead="the sweet peppermint" large="images/popups/ecards/Peppermint_Large.jpg" small="images/popups/ecards/Peppermint_Small.jpg" />
+	<node header="RELISH" subhead="the scent of roasting chestnuts" large="images/popups/ecards/Chesnuts_Large.jpg" small="images/popups/ecards/Chesnuts_Small.jpg" />
+	<node header="CHEW" subhead="the gum drops" large="images/popups/ecards/Gumdrops_Large.jpg" small="images/popups/ecards/Gumdrops_Small.jpg" />
+	<node header="SAVOR" subhead="the richness of chocolate" large="images/popups/ecards/ChocolateCoins_Large.jpg" small="images/popups/ecards/ChocolateCoins_Small.jpg" />
+	<node header="ABSORB" subhead="the warm holiday feeling" large="images/popups/ecards/Fireplace_Large.jpg" small="images/popups/ecards/Fireplace_Small.jpg" />
+</hwdsHolidayXML>

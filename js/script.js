@@ -1,7 +1,7 @@
 'use strict';
 /* App Module */
 angular.module('hwds', ['ngSanitize']).
-  config(['$routeProvider', function($routeProvider){
+  config(['$routeProvider', '$locationProvider', function($routeProvider, $locationProvider){
   $routeProvider.
       when('/', {templateUrl: 'partials/index.html', controller: IndexCtrl}).
       when('/ourfirm', {templateUrl: 'partials/our-firm.html', controller: OurFirmCtrl}).
@@ -11,6 +11,8 @@ angular.module('hwds', ['ngSanitize']).
       when('/identity', {templateUrl: 'partials/identity.html', controller: IdentityCtrl}).
       when('/editorial', {templateUrl: 'partials/editorial.html', controller: EditorialCtrl}).
       otherwise({redirectTo: '/'});
+
+  $locationProvider.html5Mode(true);
 }]).directive('scrollbarDirective', function(){
   return function(scope, element, attrs){
     if (scope.$last){

@@ -13,6 +13,7 @@ angular.module('hwds', ['ngSanitize']).
       otherwise({redirectTo: '/'});
 
   $locationProvider.html5Mode(true);
+  $locationProvider.hashPrefix = '!';
 }]).directive('scrollbarDirective', function(){
   return function(scope, element, attrs){
     if (scope.$last){

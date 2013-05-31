@@ -84,45 +84,39 @@ angular.module('hwds', ['ngSanitize']).
 
 function IndexCtrl($scope){
 	setPageFunctions(0);
-	swfobject.embedSWF("images/HWIntro16.swf", "flashcontent", "1000", "445", "9.0.0",null,{},{wmode:"transparent"},{});
-
-	$(function(){
-		var image1 = document.createElement('img');
-		var image2 = document.createElement('img');
-		var image3 = document.createElement('img');
-		var image4 = document.createElement('img');
-		var image5 = document.createElement('img');
-		$(image1).attr('src','images/noflash/1.jpg').attr('width','816').attr('height','348');
-		$(image2).attr('src','images/noflash/2.jpg').attr('width','816').attr('height','348');
-		$(image3).attr('src','images/noflash/3.jpg').attr('width','816').attr('height','348');
-		$(image4).attr('src','images/noflash/4.jpg').attr('width','816').attr('height','348');
-		$(image5).attr('src','images/noflash/5.jpg').attr('width','816').attr('height','348');
-		$('#noflash').append(image1).delay(2000).animate({
-			opacity: 0.25,
-			height: 'toggle'
-		}, 7500, function(){
-			$('#noflash').empty().append(image2).animate({
-				opacity: 1,
-				width: 'toggle'
-			}, 7500, function(){
-				$('#noflash').empty().append(image3).animate({
-					opacity: .25,
-					height: 'toggle'
-				}, 7500, function(){
-					$('#noflash').empty().append(image4).animate({
-						opacity: 1,
-						width: 'toggle'
-					}, 7500, function(){
-						$('#noflash').empty().css({opacity:.25}).css({marginLeft:1000}).append(image5).animate({
-							opacity: 1,
-							marginLeft: '0'
-						}, 7500, function(){
-							//animation complete
-						});
-					});
-				});
-			});
-		});
+	$("#showcase").awShowcase(
+	{
+		content_width:			1000,
+		content_height:			300,
+		fit_to_parent:			false,
+		auto:					true,
+		interval:				3000,
+		continuous:				false,
+		loading:				true,
+		tooltip_width:			200,
+		tooltip_icon_width:		32,
+		tooltip_icon_height:	32,
+		tooltip_offsetx:		18,
+		tooltip_offsety:		0,
+		arrows:					false,
+		buttons:				true,
+		btn_numbers:			false,
+		keybord_keys:			true,
+		mousetrace:				false, /* Trace x and y coordinates for the mouse */
+		pauseonover:			true,
+		stoponclick:			false,
+		transition:				'hslide', /* hslide/vslide/fade */
+		transition_delay:		0,
+		transition_speed:		500,
+		show_caption:			'onload', /* onload/onhover/show */
+		thumbnails:				false,
+		thumbnails_position:	'outside-last', /* outside-last/outside-first/inside-last/inside-first */
+		thumbnails_direction:	'vertical', /* vertical/horizontal */
+		thumbnails_slidex:		1, /* 0 = auto / 1 = slide one thumbnail / 2 = slide two thumbnails / etc. */
+		dynamic_height:			false, /* For dynamic height to work in webkit you need to set the width and height of images in the source. Usually works to only set the dimension of the first slide in the showcase. */
+		speed_change:			true, /* Set to true to prevent users from swithing more then one slide at once. */
+		viewline:				false, /* If set to true content_width, thumbnails, transition and dynamic_height will be disabled. As for dynamic height you need to set the width and height of images in the source. */
+		custom_function:		null /* Define a custom function that runs on content change */
 	});
 }
 

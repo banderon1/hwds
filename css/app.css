@@ -83,8 +83,6 @@ ul.bigger li{margin-bottom:10px}
 li.h1{font-size:17px;list-style-type:none !important;height:60px}
 #clientspopup{width:800px}
 
-#noflash img{margin:40px 0 0 85px}
-
 #section1{background:url('/images/section1.png') bottom;width:130px}
 #section2{background:url('/images/section2.png') bottom;width:116px}
 #section3{background:url('/images/section3.png') bottom;width:124px}
@@ -111,5 +109,5 @@ area,#green,#contactus,#section1,#section2,#section3,#section4,#section5,#sectio
 .returnClick{padding:10px 30px !important;text-align:left}
 #contactus{float:left;padding-left:35px}
 #vica{clear:both;float:left;margin:-15px 0 0 5px}
-#blog{float:right;margin:-15px 0 0 155px}
+#blog{float:right;margin:-17px 0 0 155px}
 .newbutton{background:url('/images/NewButton.png') top no-repeat;width:60px;height:63px;padding-bottom:10px}

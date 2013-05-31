@@ -3,26 +3,26 @@
 angular.module('hwds', ['ngSanitize']).
   config(['$routeProvider', '$locationProvider', function($routeProvider, $locationProvider){
   $routeProvider.
-      when('/', {templateUrl: 'partials/index.html', controller: IndexCtrl}).
-      when('/ourfirm', {templateUrl: 'partials/our-firm.html', controller: OurFirmCtrl}).
-      when('/publications', {templateUrl: 'partials/publications.html', controller: PublicationsCtrl}).
-      when('/promotions', {templateUrl: 'partials/promotions.html', controller: PromotionsCtrl}).
-      when('/interactive', {templateUrl: 'partials/interactive.html', controller: InteractiveCtrl}).
-      when('/identity', {templateUrl: 'partials/identity.html', controller: IdentityCtrl}).
-      when('/editorial', {templateUrl: 'partials/editorial.html', controller: EditorialCtrl}).
-      otherwise({redirectTo: '/'});
+	  when('/', {templateUrl: 'partials/index.html', controller: IndexCtrl}).
+	  when('/ourfirm', {templateUrl: 'partials/our-firm.html', controller: OurFirmCtrl}).
+	  when('/publications', {templateUrl: 'partials/publications.html', controller: PublicationsCtrl}).
+	  when('/promotions', {templateUrl: 'partials/promotions.html', controller: PromotionsCtrl}).
+	  when('/interactive', {templateUrl: 'partials/interactive.html', controller: InteractiveCtrl}).
+	  when('/identity', {templateUrl: 'partials/identity.html', controller: IdentityCtrl}).
+	  when('/editorial', {templateUrl: 'partials/editorial.html', controller: EditorialCtrl}).
+	  otherwise({redirectTo: '/'});
 
   $locationProvider.html5Mode(true);
   $locationProvider.hashPrefix = '!';
 }]).directive('scrollbarDirective', function(){
   return function(scope, element, attrs){
-    if (scope.$last){
-    	$('#scrollbar0').tinyscrollbar();
-    }
+	if (scope.$last){
+		$('#scrollbar0').tinyscrollbar();
+	}
   };
 }).directive('popupsDirective', function(){
   return function(scope, element, attrs){
-    $("#green,#contactus,#section1,#section2,#section3,#section4,#section5,#section6,#section7,#section8").overlay({
+	$("#green,#contactus,#section1,#section2,#section3,#section4,#section5,#section6,#section7,#section8").overlay({
 		mask: { color: '#000', loadSpeed: 200, opacity: 0.75 },
 		onClose: function (){
 			$(".popupswap").hide();
@@ -84,6 +84,15 @@ angular.module('hwds', ['ngSanitize']).
 
 function IndexCtrl($scope){
 	setPageFunctions(0);
+
+	//setup the dropdown menu animation
+	$('#nyMenu li').hover(function(){
+		$('ul', this).slideDown('fast').show();
+	}, function () {
+		$('ul', this).slideUp('fast');
+	});
+
+	//add the slideshow
 	$("#showcase").awShowcase(
 	{
 		content_width:			1000,

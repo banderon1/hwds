@@ -1,8 +1,7 @@
 *{padding:0;margin:0;font-family:Verdana, Geneva, sans-serif}
+body{background-image:url('/images/index/bg.png')}
 /* -----------------------*/
 #entirepage{font-size:11px;line-height:16px;background-color:#FFFFFF;color:#666666;width:1000px;margin:0 auto;padding-right:20px}
-table#centered{height:100%;width:100%;background-color:#FFFFFF}
-table#centered td{vertical-align:middle}
 a{text-decoration:none;cursor:pointer}
 
 ul, li 	{list-style-type:none}

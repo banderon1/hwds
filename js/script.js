@@ -90,7 +90,7 @@ function IndexCtrl($scope){
 		content_height:			300,
 		fit_to_parent:			false,
 		auto:					true,
-		interval:				3000,
+		interval:				5000,
 		continuous:				false,
 		loading:				true,
 		tooltip_width:			200,
@@ -107,7 +107,7 @@ function IndexCtrl($scope){
 		stoponclick:			false,
 		transition:				'hslide', /* hslide/vslide/fade */
 		transition_delay:		0,
-		transition_speed:		500,
+		transition_speed:		1000,
 		show_caption:			'onload', /* onload/onhover/show */
 		thumbnails:				false,
 		thumbnails_position:	'outside-last', /* outside-last/outside-first/inside-last/inside-first */

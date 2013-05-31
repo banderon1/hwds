@@ -98,7 +98,7 @@ function IndexCtrl($scope){
 		tooltip_icon_height:	32,
 		tooltip_offsetx:		18,
 		tooltip_offsety:		0,
-		arrows:					false,
+		arrows:					true,
 		buttons:				true,
 		btn_numbers:			false,
 		keybord_keys:			true,

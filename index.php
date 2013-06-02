@@ -6,18 +6,18 @@
   <title>HWDS and Associates, Inc.</title>
   <link rel="stylesheet" href="css/app.css">
   <!--[if lte IE 8]>
-  	<script src="js/json3.js"></script>
+  	<script src="/js/json3.js"></script>
   <![endif]-->
-  <script src="js/jquery.tools.min.js"></script>
-  <script src="js/jquery.tinyscrollbar.min.js"></script>
-  <script src="lib/angular/angular.min.js"></script>
-  <script src="lib/angular/angular-sanitize.min.js"></script>
+  <script src="/js/jquery.tools.min.js"></script>
+  <script src="/js/jquery.tinyscrollbar.min.js"></script>
+  <script src="/lib/angular/angular.min.js"></script>
+  <script src="/lib/angular/angular-sanitize.min.js"></script>
   
   <link rel="stylesheet" href="css/awkward.css">
-  <script type="text/javascript" src="js/jquery.aw-showcase.min.js"></script>
+  <script type="text/javascript" src="/js/jquery.aw-showcase.min.js"></script>
 
-  <script src="js/swfobject.js"></script>
-  <script src="js/script.js"></script>
+  <script src="/js/swfobject.js"></script>
+  <script src="/js/script.js"></script>
   <script type="text/javascript">
     var _gaq = _gaq || [];
   	_gaq.push(['_setAccount', 'UA-31040007-1']);
@@ -32,12 +32,8 @@
 </head>
 <body popups-directive>
 	<div id="entirepage">
-	<!--div id="header" class="orange">
-		<div id="contactus" rel="#contactuspopup">Request a Quote</div>
-		818.707.4455 <span class="green">&bull;</span> e-mail: <a class="orange" href="mailto:hwdesign@west.net">hwdesign@west.net</a><br/>Our <span id="green" class="green" rel="#greenpopup">Green</span> Commitment
-	</div-->
 	<div id="sections">
-		<div id="logo"><a href="/"><img src="images/logo.png" alt="HWDS Logo"></a></div>
+		<div id="logo"><a href="/"><img src="/images/logo.png" alt="HWDS Logo"></a></div>
 		<ul id="nyMenu">
 			<li>
 				<div id="section1"/>The Firm</div>
@@ -88,6 +84,15 @@
 
 	<div ng-view></div>
 	<div id="footer">
+		<div class="contact-links">
+			<div class="social">
+				<a target="_blank" href="http://www.linkedin.com/in/harlanwest"><img src="/images/linked-in.png" width="30" height="25"/></a>
+				<a target="_blank" href="https://twitter.com/HWDSInc"><img src="/images/twitter.png" width="25" height="25"/></a>
+			</div>
+			<div class="personal">
+				818.707.4455 <span class="green">&bull;</span> e-mail: <a href="mailto:hwdesign@west.net">hwdesign@west.net</a>
+			</div>
+		</div>
 		<h1>
 			HWDS is a full-service creative agency that provides innovative solutions for corporate, governmental and institutional clients.<br/>We design communitcation solutions for print, online, multi-media and event promotions.
 		</h1>
@@ -113,6 +118,7 @@
 			<div rel="#contactuspopup">Contact Us</div>
 			<a href="#">Request A Quote</a>&nbsp;<span>&bull;</span>
 			<a href="#">Mini Sample Books</s>
+		</div>
 	</div>
 
 <?php include 'popups.php'; ?>

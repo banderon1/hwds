@@ -13,10 +13,14 @@
   <script src="js/jquery.tinyscrollbar.min.js"></script>
   <script src="lib/angular/angular.min.js"></script>
   <script src="lib/angular/angular-sanitize.min.js"></script>
+  
+  <link rel="stylesheet" href="css/awkward.css">
+  <script type="text/javascript" src="js/jquery.aw-showcase.min.js"></script>
+
   <script src="js/swfobject.js"></script>
   <script src="js/script.js"></script>
   <script type="text/javascript">
-  	var _gaq = _gaq || [];
+    var _gaq = _gaq || [];
   	_gaq.push(['_setAccount', 'UA-31040007-1']);
   	_gaq.push(['_trackPageview']);
 
@@ -29,23 +33,28 @@
 </head>
 <body popups-directive>
 	<div id="entirepage">
-	<div id="header" class="orange">
+	<!--div id="header" class="orange">
+		<div id="contactus" rel="#contactuspopup">Request a Quote</div>
+		818.707.4455 <span class="green">&bull;</span> e-mail: <a class="orange" href="mailto:hwdesign@west.net">hwdesign@west.net</a><br/>Our <span id="green" class="green" rel="#greenpopup">Green</span> Commitment
+	</div-->
+	<div id="sections">
+		<div id="logo"><a href="/"><img src="images/logo.png" alt="HWDS Logo"></a></div>
 		<ul id="nyMenu">
-		    <li>
-				<a href="#">Test 1</a>
-				<ul>
-					<li><a href="#">The HWDS Team</a></li>
+			<li>
+				<div id="section1" rel="#advertisingpopup"/>The Firm</div>
+				<ul id="section1drop">
+					<li><a href="/ourfirm">The HWDS Team</a></li>
 					<li><a href="#">Clients</a></li>
 					<li><a href="#">Memberships</a></li>
 				</ul>
-		    </li>
-		    <li>
-		    	<a href="#">Test 2</a>
-				<ul>
-					<li><a href="#">Printed Publications</a></li>
-					<li><a href="#">Promotional</a></li>
-					<li><a href="#">Interactive/Online</a></li>
-					<li><a href="#">Editorial/Illustrations</a></li>
+			</li>
+			<li>
+				<div id="section2" rel="#brandingpopup"/>The Work</div>
+				<ul id="section2drop">
+					<li><a href="/publications">Printed Publications</a></li>
+					<li><a href="/promotions">Promotional</a></li>
+					<li><a href="/interactive">Interactive/Online</a></li>
+					<li><a href="/editorial">Editorial/Illustrations</a></li>
 					<li><a href="#">Newsletters</a></li>
 					<li><a href="#">E-Cards</a></li>
 					<li><a href="#">Flipbooks</a></li>
@@ -53,60 +62,61 @@
 					<li><a href="#">Bilingual Publications</a></li>
 					<li><a href="#">Multi-year Projects</a></li>
 				</ul>
-		    </li>
-		    <li>
-		    	<a href="#">Test 3</a>
-				<ul>
+			</li>
+			<li>
+				<div id="section3" rel="#promotingpopup"/>The Approach</div>
+				<ul id="section3drop">
 					<li><a href="#">Advertising</a></li>
 					<li><a href="#">Branding</a></li>
 					<li><a href="#">Promoting</a></li>
 					<li><a href="#">Web Marketing</a></li>
 					<li><a href="#">Green Commitment</a></li>
 				</ul>
-		    </li>
-		    <li>
-		    	<a href="#">Test 4</a>
-				<ul>
-					<li><a href="#">Contact Us</a></li>
+			</li>
+			<li>
+				<a href="http://successfulcorporatecommunications.com/" target="_blank"><div id="section4"/>The Blog</div></a>
+			</li>
+			<li>
+				<div id="section5" rel="#clientspopup"/>The Connection</div>
+				<ul id="section5drop">
+					<li id="contactus" rel="#contactuspopup"><a href="#">Contact Us</a></li>
 					<li><a href="#">Request a Quote</a></li>
 					<li><a href="#">Mini Sample Books</a></li>
 				</ul>
-		    </li>
-		</ul>
-		<div id="contactus" rel="#contactuspopup">Request a Quote</div>
-		818.707.4455 &bull; e-mail: <a class="orange" href="mailto:hwdesign@west.net">hwdesign@west.net</a><br/>Our <span id="green" class="green" rel="#greenpopup">Green</span> Commitment
-	</div>
-	<div id="sections">
-		<ul>
-			<li><div id="section1" rel="#advertisingpopup"/>Advertising</div></li>
-			<li><div id="section2" rel="#brandingpopup"/>Branding</div></li>
-			<li><div id="section3" rel="#promotingpopup"/>Promoting</div></li>
-			<li><div id="section4" rel="#webmarketingpopup"/>Web Marketing</div></li>
-			<li><div id="section5" rel="#clientspopup"/>Clients</div></li>
-			<li><div id="section6" rel="#ecardspopup"/>eCards</div></li>
-			<li><div id="section7" rel="#flipbookspopup"/>Flip Books</div></li>
-			<li><div id="section8" rel="#timelesspopup"/>Timeless</div></li>
+			</li>
 		</ul>
 	</div>
 
 	<div ng-view></div>
-
-	<div id="pages">
-		<ul>
-			<li><a id="page1" href="/ourfirm">Our Firm</a></li>
-			<li><a id="page2" href="/publications">Publications</a></li>
-			<li><a id="page3" href="/promotions">Promotions</a></li>
-			<li><a id="page4" href="/interactive">Interactive</a></li>
-			<li><a id="page5" href="/identity">Identity</a></li>
-			<li><a id="page6" href="/editorial">Editorial</a></li>
-			<li id="logo"><a href="/"><img src="images/logo.gif" alt="HWDS Logo"></a></li>
-		</ul>
-		<div id="vica">
-			Member of Valley Industry and Commerce Association
-			<span id="blog">Visit our blog at <a target="_blank" href="http://successfulcorporatecommunications.com">successfulcorporatecommunications.com</a></span>
+	<div id="footer">
+		<h1>
+			HWDS is a full-service creative agency that provides innovative solutions for corporate, governmental and institutional clients.<br/>We design communitcation solutions for print, online, multi-media and event promotions.
+		</h1>
+		<div id="orange-bottom"></div>
+		<div id="pages">
+			<a href="#">The HWDS Team</a>&nbsp;<span>&bull;</span>
+			<a href="#">Clients</a>&nbsp;<span>&bull;</span>
+			<a href="#">Memberships</a>&nbsp;<span>&bull;</span>
+			<a href="#">Printed Publications</a>&nbsp;<span>&bull;</span>
+			<a href="#">Interactive/Online</a>&nbsp;<span>&bull;</span>
+			<a href="#">Editorial/Illustrations</a>&nbsp;<span>&bull;</span>
+			<a href="#">Newsletters</a>&nbsp;<span>&bull;</span>
+			<a href="#">E-Cards</a>&nbsp;<span>&bull;</span>
+			<a href="#">Flipbooks</a>&nbsp;<span>&bull;</span>
+			<a href="#">Events</a>&nbsp;<span>&bull;</span>
+			<a href="#">Multi-year Projects</a><br/>
+			<a href="#">Advertising</a>&nbsp;<span>&bull;</span>
+			<a href="#">Branding</a>&nbsp;<span>&bull;</span>
+			<a href="#">Promoting</a>&nbsp;<span>&bull;</span>
+			<a href="#">Web Marketing</a>&nbsp;<span>&bull;</span>
+			<a href="#">Green Commitment</a>&nbsp;<span>&bull;</span>
+			<a href="#">The Blog</a>&nbsp;<span>&bull;</span>
+			<a href="#">Contact Us</a>&nbsp;<span>&bull;</span>
+			<a href="#">Request A Quote</a>&nbsp;<span>&bull;</span>
+			<a href="#">Mini Sample Books</a>
 		</div>
 	</div>
-
+	
 <!-- popups -->
 <div id="advertisingpopup" class="popup">
 	<div class="popupContent">

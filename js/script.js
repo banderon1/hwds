@@ -22,7 +22,7 @@ angular.module('hwds', ['ngSanitize']).
   };
 }).directive('popupsDirective', function(){
   return function(scope, element, attrs){
-	$("#green,#contactus,#section1,#section2,#section3,#section4,#section5,#section6,#section7,#section8").overlay({
+	$("#green,#contactus,#section1,#section2,#section3,#section5").overlay({
 		mask: { color: '#000', loadSpeed: 200, opacity: 0.75 },
 		onClose: function (){
 			$(".popupswap").hide();
@@ -84,14 +84,6 @@ angular.module('hwds', ['ngSanitize']).
 
 function IndexCtrl($scope){
 	setPageFunctions(0);
-
-	//setup the dropdown menu animation
-	$('#nyMenu li').hover(function(){
-		$('ul', this).slideDown('fast').show();
-	}, function () {
-		$('ul', this).slideUp('fast');
-	});
-
 	//add the slideshow
 	$("#showcase").awShowcase(
 	{
@@ -222,4 +214,13 @@ function setPageFunctions(page){
 		$(".popupswap").hide();
 		$("#timeless2popup").show();
 	});
+
+	//setup the dropdown menu animation
+    $(function() {
+    	$('#nyMenu li').hover(function(){
+			$('ul', this).slideDown('fast').show();
+		}, function () {
+			$('ul', this).slideUp('fast');
+		});
+    });
 }

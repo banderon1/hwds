@@ -69,7 +69,7 @@
 					</ul>
 				</li>
 				<li>
-					<a href="http://successfulcorporatecommunications.com/" target="_blank"><div id="section4"/>The Blog</div></a>
+					<a href="http://successfulcorporatecommunications.com/" target="_blank"><div id="section4">The Blog</div></a>
 				</li>
 				<li>
 					<div id="section5">The Connection</div>

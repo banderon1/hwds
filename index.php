@@ -36,7 +36,7 @@
 			<div id="logo"><a href="/"><img src="/images/logo.png" alt="HWDS Logo"></a></div>
 			<ul id="nyMenu">
 				<li>
-					<div id="section1"/>The Firm</div>
+					<div id="section1">The Firm</div>
 					<ul id="section1drop">
 						<li><a href="/ourfirm">The HWDS Team</a></li>
 						<li><a href="#1">Clients</a></li>
@@ -44,7 +44,7 @@
 					</ul>
 				</li>
 				<li>
-					<div id="section2"/>The Work</div>
+					<div id="section2">The Work</div>
 					<ul id="section2drop">
 						<li><a href="/publications">Printed Publications</a></li>
 						<li><a href="/promotions">Promotional</a></li>
@@ -59,7 +59,7 @@
 					</ul>
 				</li>
 				<li>
-					<div id="section3"/>The Approach</div>
+					<div id="section3">The Approach</div>
 					<ul id="section3drop">
 						<li><div rel="#advertisingpopup">Advertising</div></li>
 						<li><div rel="#brandingpopup">Branding</div></li>
@@ -72,7 +72,7 @@
 					<a href="http://successfulcorporatecommunications.com/" target="_blank"><div id="section4"/>The Blog</div></a>
 				</li>
 				<li>
-					<div id="section5"/>The Connection</div>
+					<div id="section5">The Connection</div>
 					<ul id="section5drop">
 						<li><div rel="#contactuspopup">Contact Us</div></li>
 						<li><a href="#7">Request a Quote</a></li>
@@ -87,8 +87,8 @@
 		<div id="footer">
 			<div class="contact-links">
 				<div class="social">
-					<a target="_blank" href="http://www.linkedin.com/in/harlanwest"><img src="/images/linked-in.png" width="30" height="25"/></a>
-					<a target="_blank" href="https://twitter.com/HWDSInc"><img src="/images/twitter.png" width="25" height="25"/></a>
+					<a target="_blank" href="http://www.linkedin.com/in/harlanwest"><img alt="LinkedIn" src="/images/linked-in.png" width="30" height="25"/></a>
+					<a target="_blank" href="https://twitter.com/HWDSInc"><img alt="Twitter" src="/images/twitter.png" width="25" height="25"/></a>
 				</div>
 				<div class="personal">
 					818.707.4455 <span class="green">&bull;</span> e-mail: <a href="mailto:hwdesign@west.net">hwdesign@west.net</a>

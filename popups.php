@@ -68,14 +68,14 @@
 			<li><span>City of Santa Monica </span></li>
 			<li><span>Kaiser Permanente</span></li>
 			<li><span>LLG Engineers</span></li>
-			<li><span>Los Angeles Metropolitan </br>Transportation Authority (Metro)</span></li>
+			<li><span>Los Angeles Metropolitan<br/>Transportation Authority (Metro)</span></li>
 			<li><span>Metropolitan Washington Council of Governments</span></li>
 			<li><span>Southern California Regional Rail Authority (Metrolink)</span></li>
 			<li><span>Time Warner Cable</span></li>
 			
 		</ul>
         <ul class="bullets threecol">
-			<li class="h1 orange">Partnered with </br>Pathways for:</li>
+			<li class="h1 orange">Partnered with<br/>Pathways for:</li>
 			<li><span>Children's Hospital Los Angeles</span></li>
 			<li><span>Cherriots Rideshare (Salem, OR)</span></li>
 			<li><span>City of Norwalk</span></li>
@@ -87,8 +87,6 @@
 			<li><span>Washington D.C. Recycling Program</span></li>
             <li><span>WomenandWords.com</span></li>
 		</ul>
-        
-        </ul>
         <ul class="bullets threecol">
 			<li class="h1 orange">We have also designed materials for:</li>
 			<li><span>City of Los Angeles/National Preservation Partners</span></li>
@@ -108,14 +106,14 @@
 <div id="ecardspopup" class="popup popupBig">
 	<div class="popupContent" id="ecardsmain">
 		<img src="images/popups/ECardsscreens.png" usemap="#ecards-map" border="0" width="800" height="566" alt=""/>
-		<map id="_ecards-map" name="ecards-map">
-			<area shape="rect" coords="515,36,749,171" class="ecardflash" rel="#ecard0popup" alt="HWDS Holiday Card 2010" title="HWDS Holiday Card 2010"/>
-			<area shape="rect" coords="48,178,284,344" class="ecardflash" rel="#ecard1popup" alt="LLG Holiday Card 2009" title="LLG Holiday Card 2009"/>
-			<area shape="rect" coords="295,188,510,334" class="ecardflash" rel="#ecard2popup" alt="HWDS Halloween Card 2008" title="HWDS Halloween Card 2008"/>
-			<area shape="rect" coords="517,186,753,334" class="ecardflash" rel="#ecard3popup" alt="Metrolink Holiday Card 2010" title="Metrolink Holiday Card 2010"/>
-			<area shape="rect" coords="58,384,303,513" class="ecardflash" rel="#ecard4popup" alt="HWDS Holiday Card 2007" title="HWDS Holiday Card 2007"/>
-			<area shape="rect" coords="340,376,575,518" class="ecardflash" rel="#ecard5popup" alt="LLG 2011 Holiday Card" title="LLG 2011 Holiday Card"/>
-			<area shape="rect" coords="613,350,741,516" class="ecardflash" rel="#ecard6popup" alt="HWDS 2012 Holiday Card" title="HWDS 2012 Holiday Card"/>
+		<map id="ecards-map" name="ecards-map">
+			<area href="#" shape="rect" coords="515,36,749,171" class="ecardflash" rel="#ecard0popup" alt="HWDS Holiday Card 2010" title="HWDS Holiday Card 2010"/>
+			<area href="#" shape="rect" coords="48,178,284,344" class="ecardflash" rel="#ecard1popup" alt="LLG Holiday Card 2009" title="LLG Holiday Card 2009"/>
+			<area href="#" shape="rect" coords="295,188,510,334" class="ecardflash" rel="#ecard2popup" alt="HWDS Halloween Card 2008" title="HWDS Halloween Card 2008"/>
+			<area href="#" shape="rect" coords="517,186,753,334" class="ecardflash" rel="#ecard3popup" alt="Metrolink Holiday Card 2010" title="Metrolink Holiday Card 2010"/>
+			<area href="#" shape="rect" coords="58,384,303,513" class="ecardflash" rel="#ecard4popup" alt="HWDS Holiday Card 2007" title="HWDS Holiday Card 2007"/>
+			<area href="#" shape="rect" coords="340,376,575,518" class="ecardflash" rel="#ecard5popup" alt="LLG 2011 Holiday Card" title="LLG 2011 Holiday Card"/>
+			<area href="#" shape="rect" coords="613,350,741,516" class="ecardflash" rel="#ecard6popup" alt="HWDS 2012 Holiday Card" title="HWDS 2012 Holiday Card"/>
 		</map>
 	</div>
 	<!--start sub-popups for ecards -->
@@ -124,7 +122,7 @@
 		<div class="popupContent">
 			<div id="ecardflashcontent{{flashecard.id}}">
 				<h1>You need Flash to view the proper content.</h1>
-				<img height="{{flashecard.h}}" width="{{flashecard.w}}" ng-src="images/popups/ecards/{{flashecard.img}}"/>
+				<img alt="Flash E-Card" height="{{flashecard.h}}" width="{{flashecard.w}}" ng-src="images/popups/ecards/{{flashecard.img}}" src="images/popups/ecards/{{flashecard.img}}"/>
 			</div>
 		</div>
 	</div>
@@ -133,11 +131,11 @@
 <div id="flipbookspopup" class="popup popupBig">
 	<div class="popupContent" id="flipbooksmain">
 		<img src="images/popups/Flipbookspopup.png" usemap="#flipbooks-map" border="0" width="800" height="566" alt=""/>
-		<map id="_flipbooks-map" name="flipbooks-map">
-			<area shape="rect" coords="32,89,352,258" class="flipbookscontent" rel="#flipbook0popup" alt="Metrolink 20th Anniversary Report" title="Metrolink 20th Anniversary Report"/>
-			<area shape="rect" coords="458,90,785,259" class="flipbookscontent" rel="#flipbook1popup" alt="MWCOG State of the Commute Report" title="MWCOG State of the Commute Report"/>
-			<area shape="rect" coords="157,262,683,420" class="flipbookscontent" rel="#flipbook2popup" alt="Metrolink 15th Anniversary Annual Report" title="Metrolink 15th Anniversary Annual Report"/>
-			<area shape="rect" coords="152,422,790,561" class="flipbookscontent" rel="#flipbook3popup" alt="Norwalk Transit Annual Report" title="Norwalk Transit Annual Report"/>
+		<map id="flipbooks-map" name="flipbooks-map">
+			<area href="#" shape="rect" coords="32,89,352,258" class="flipbookscontent" rel="#flipbook0popup" alt="Metrolink 20th Anniversary Report" title="Metrolink 20th Anniversary Report"/>
+			<area href="#" shape="rect" coords="458,90,785,259" class="flipbookscontent" rel="#flipbook1popup" alt="MWCOG State of the Commute Report" title="MWCOG State of the Commute Report"/>
+			<area href="#" shape="rect" coords="157,262,683,420" class="flipbookscontent" rel="#flipbook2popup" alt="Metrolink 15th Anniversary Annual Report" title="Metrolink 15th Anniversary Annual Report"/>
+			<area href="#" shape="rect" coords="152,422,790,561" class="flipbookscontent" rel="#flipbook3popup" alt="Norwalk Transit Annual Report" title="Norwalk Transit Annual Report"/>
 		</map>
 	</div>
 	<div class="popupswap" id="flipbooks0popup">
@@ -176,10 +174,10 @@
 <div id="timelesspopup" class="popup popupBig">
 	<div id="timelessmain">
 		<img src="images/popups/Timeless.png" usemap="#timeless-map" border="0" width="800" height="566" alt=""/>
-		<map id="_timeless-map" name="timeless-map">
-			<area shape="rect" coords="76,107,687,209" class="timelesscontent" rel="#timeless0popup" alt="Stuff A Bus" title="Stuff A Bus"/>
-			<area shape="rect" coords="79,250,690,395" class="timelesscontent" rel="#timeless1popup" alt="CommuteSmart News" title="CommuteSmart News"/>
-			<area shape="rect" coords="73,402,684,547" class="timelesscontent" rel="#timeless2popup" alt="Holiday Train Poster" title="Holiday Train Poster"/>
+		<map id="timeless-map" name="timeless-map">
+			<area href="#" shape="rect" coords="76,107,687,209" class="timelesscontent" rel="#timeless0popup" alt="Stuff A Bus" title="Stuff A Bus"/>
+			<area href="#" shape="rect" coords="79,250,690,395" class="timelesscontent" rel="#timeless1popup" alt="CommuteSmart News" title="CommuteSmart News"/>
+			<area href="#" shape="rect" coords="73,402,684,547" class="timelesscontent" rel="#timeless2popup" alt="Holiday Train Poster" title="Holiday Train Poster"/>
 		</map>
 	</div>
 
@@ -189,18 +187,18 @@
 		<div id="stuffabusmain">
 			<div class="popupContent">
 				<img src="images/popups/timeless/Stuff-A-Bus/11-Years-of-Stuff-A-Bus-MAIN.png" usemap="#timeless-stuffabus-map" border="0" width="760" height="538" alt=""/>
-				<map id="_timeless-stuffabus-map" name="timeless-stuffabus-map">
-					<area shape="rect" coords="10,99,157,211" class="stuffabuscontent" rel="#2002" alt="Stuff-A-Bus 2002" title="Stuff-A-Bus 2002"/>
-					<area shape="rect" coords="182,94,351,208" class="stuffabuscontent" rel="#2003" alt="Stuff-A-Bus 2003" title="Stuff-A-Bus 2003"/>
-					<area shape="rect" coords="377,92,544,207" class="stuffabuscontent" rel="#2004" alt="Stuff-A-Bus 2004" title="Stuff-A-Bus 2004"/>
-					<area shape="rect" coords="564,105,747,206" class="stuffabuscontent" rel="#2005" alt="Stuff-A-Bus 2005" title="Stuff-A-Bus 2005"/>
-					<area shape="rect" coords="36,250,235,356" class="stuffabuscontent" rel="#2008" alt="Stuff-A-Bus 2008" title="Stuff-A-Bus 2008"/>
-					<area shape="rect" coords="248,248,487,357" class="stuffabuscontent" rel="#2007" alt="Stuff-A-Bus 2007" title="Stuff-A-Bus 2007"/>
-					<area shape="rect" coords="498,248,714,357" class="stuffabuscontent" rel="#2006" alt="Stuff-A-Bus 2006" title="Stuff-A-Bus 2006"/>
-					<area shape="rect" coords="42,402,204,511" class="stuffabuscontent" rel="#2009" alt="Stuff-A-Bus 2009" title="Stuff-A-Bus 2009"/>
-					<area shape="rect" coords="213,410,394,514" class="stuffabuscontent" rel="#2010" alt="Stuff-A-Bus 2010" title="Stuff-A-Bus 2010"/>
-					<area shape="rect" coords="408,400,572,513" class="stuffabuscontent" rel="#2011" alt="Stuff-A-Bus 2011" title="Stuff-A-Bus 2011"/>
-					<area shape="rect" coords="584,400,741,516" class="stuffabuscontent" rel="#2012" alt="Stuff-A-Bus 2012" title="Stuff-A-Bus 2012"/>
+				<map id="timeless-stuffabus-map" name="timeless-stuffabus-map">
+					<area href="#" shape="rect" coords="10,99,157,211" class="stuffabuscontent" rel="#2002" alt="Stuff-A-Bus 2002" title="Stuff-A-Bus 2002"/>
+					<area href="#" shape="rect" coords="182,94,351,208" class="stuffabuscontent" rel="#2003" alt="Stuff-A-Bus 2003" title="Stuff-A-Bus 2003"/>
+					<area href="#" shape="rect" coords="377,92,544,207" class="stuffabuscontent" rel="#2004" alt="Stuff-A-Bus 2004" title="Stuff-A-Bus 2004"/>
+					<area href="#" shape="rect" coords="564,105,747,206" class="stuffabuscontent" rel="#2005" alt="Stuff-A-Bus 2005" title="Stuff-A-Bus 2005"/>
+					<area href="#" shape="rect" coords="36,250,235,356" class="stuffabuscontent" rel="#2008" alt="Stuff-A-Bus 2008" title="Stuff-A-Bus 2008"/>
+					<area href="#" shape="rect" coords="248,248,487,357" class="stuffabuscontent" rel="#2007" alt="Stuff-A-Bus 2007" title="Stuff-A-Bus 2007"/>
+					<area href="#" shape="rect" coords="498,248,714,357" class="stuffabuscontent" rel="#2006" alt="Stuff-A-Bus 2006" title="Stuff-A-Bus 2006"/>
+					<area href="#" shape="rect" coords="42,402,204,511" class="stuffabuscontent" rel="#2009" alt="Stuff-A-Bus 2009" title="Stuff-A-Bus 2009"/>
+					<area href="#" shape="rect" coords="213,410,394,514" class="stuffabuscontent" rel="#2010" alt="Stuff-A-Bus 2010" title="Stuff-A-Bus 2010"/>
+					<area href="#" shape="rect" coords="408,400,572,513" class="stuffabuscontent" rel="#2011" alt="Stuff-A-Bus 2011" title="Stuff-A-Bus 2011"/>
+					<area href="#" shape="rect" coords="584,400,741,516" class="stuffabuscontent" rel="#2012" alt="Stuff-A-Bus 2012" title="Stuff-A-Bus 2012"/>
 				</map>
 			</div>
 		</div>
@@ -209,16 +207,16 @@
 		<div class="returnClick"><a class="timelessreturn" href="#">Return to Timeless Section</a></div>
 		<div id="csnmain">
 			<img src="images/popups/timeless/CommuteSmart News/9-Years-of-Commute-Smart-News-MAIN.png" usemap="#timeless-csn-map" border="0" width="760" height="538" alt=""/>
-			<map id="_timeless-csn-map" name="timeless-csn-map">
-				<area shape="rect" coords="50,78,228,207" class="csncontent" rel="#2005" alt="CommuteSmart News 2005" title="CommuteSmart News 2005"/>
-				<area shape="rect" coords="270,75,448,204" class="csncontent" rel="#2006" alt="CommuteSmart News 2006" title="CommuteSmart News 2006"/>
-				<area shape="rect" coords="485,73,663,202" class="csncontent" rel="#2007" alt="CommuteSmart News 2007" title="CommuteSmart News 2007"/>
-				<area shape="rect" coords="517,225,695,354" class="csncontent" rel="#2008" alt="CommuteSmart News 2008" title="CommuteSmart News 2008"/>
-				<area shape="rect" coords="314,227,492,356" class="csncontent" rel="#2009" alt="CommuteSmart News 2009" title="CommuteSmart News 2009"/>
-				<area shape="rect" coords="101,223,279,352" class="csncontent" rel="#2010" alt="CommuteSmart News 2010" title="CommuteSmart News 2010"/>
-				<area shape="rect" coords="58,383,236,520" class="csncontent" rel="#2011" alt="CommuteSmart News 2011" title="CommuteSmart News 2011"/>
-				<area shape="rect" coords="272,381,450,518" class="csncontent" rel="#2012" alt="CommuteSmart News 2012" title="CommuteSmart News 2012"/>
-				<area shape="rect" coords="479,383,657,516" class="csncontent" rel="#2013" alt="CommuteSmart News 2013" title="CommuteSmart News 2013"/>
+			<map id="timeless-csn-map" name="timeless-csn-map">
+				<area href="#" shape="rect" coords="50,78,228,207" class="csncontent" rel="#2005" alt="CommuteSmart News 2005" title="CommuteSmart News 2005"/>
+				<area href="#" shape="rect" coords="270,75,448,204" class="csncontent" rel="#2006" alt="CommuteSmart News 2006" title="CommuteSmart News 2006"/>
+				<area href="#" shape="rect" coords="485,73,663,202" class="csncontent" rel="#2007" alt="CommuteSmart News 2007" title="CommuteSmart News 2007"/>
+				<area href="#" shape="rect" coords="517,225,695,354" class="csncontent" rel="#2008" alt="CommuteSmart News 2008" title="CommuteSmart News 2008"/>
+				<area href="#" shape="rect" coords="314,227,492,356" class="csncontent" rel="#2009" alt="CommuteSmart News 2009" title="CommuteSmart News 2009"/>
+				<area href="#" shape="rect" coords="101,223,279,352" class="csncontent" rel="#2010" alt="CommuteSmart News 2010" title="CommuteSmart News 2010"/>
+				<area href="#" shape="rect" coords="58,383,236,520" class="csncontent" rel="#2011" alt="CommuteSmart News 2011" title="CommuteSmart News 2011"/>
+				<area href="#" shape="rect" coords="272,381,450,518" class="csncontent" rel="#2012" alt="CommuteSmart News 2012" title="CommuteSmart News 2012"/>
+				<area href="#" shape="rect" coords="479,383,657,516" class="csncontent" rel="#2013" alt="CommuteSmart News 2013" title="CommuteSmart News 2013"/>
 			</map>
 		</div>
 	</div>
@@ -226,16 +224,16 @@
 		<div class="returnClick"><a class="timelessreturn" href="#">Return to Timeless Section</a></div>
 		<div id="trainmain">
 			<img src="images/popups/timeless/Holiday Train Posters/9-Years-of-Holiday-Train-Poster-MAIN.png" usemap="#timeless-train-map" border="0" width="760" height="538" alt=""/>
-			<map id="_timeless-train-map" name="timeless-train-map">
-				<area shape="rect" coords="70,75,227,207" class="traincontent" rel="#2003" alt="Holiday Train Poster 2003" title="Holiday Train Poster 2003"/>
-				<area shape="rect" coords="277,75,447,205" class="traincontent" rel="#2004" alt="Holiday Train Poster 2004" title="Holiday Train Poster 2004"/>
-				<area shape="rect" coords="488,75,665,208" class="traincontent" rel="#2005" alt="Holiday Train Poster 2005" title="Holiday Train Poster 2005"/>
-				<area shape="rect" coords="95,223,272,356" class="traincontent" rel="#2008" alt="Holiday Train Poster 2008" title="Holiday Train Poster 2008"/>
-				<area shape="rect" coords="313,226,480,359" class="traincontent" rel="#2007" alt="Holiday Train Poster 2007" title="Holiday Train Poster 2007"/>
-				<area shape="rect" coords="519,224,688,357" class="traincontent" rel="#2006" alt="Holiday Train Poster 2006" title="Holiday Train Poster 2006"/>
-				<area shape="rect" coords="69,383,235,517" class="traincontent" rel="#2009" alt="Holiday Train Poster 2009" title="Holiday Train Poster 2009"/>
-				<area shape="rect" coords="276,382,447,516" class="traincontent" rel="#2010" alt="Holiday Train Poster 2010" title="Holiday Train Poster 2010"/>
-				<area shape="rect" coords="483,383,654,517" class="traincontent" rel="#2011" alt="Holiday Train Poster 2011" title="Holiday Train Poster 2011"/>
+			<map id="timeless-train-map" name="timeless-train-map">
+				<area href="#" shape="rect" coords="70,75,227,207" class="traincontent" rel="#2003" alt="Holiday Train Poster 2003" title="Holiday Train Poster 2003"/>
+				<area href="#" shape="rect" coords="277,75,447,205" class="traincontent" rel="#2004" alt="Holiday Train Poster 2004" title="Holiday Train Poster 2004"/>
+				<area href="#" shape="rect" coords="488,75,665,208" class="traincontent" rel="#2005" alt="Holiday Train Poster 2005" title="Holiday Train Poster 2005"/>
+				<area href="#" shape="rect" coords="95,223,272,356" class="traincontent" rel="#2008" alt="Holiday Train Poster 2008" title="Holiday Train Poster 2008"/>
+				<area href="#" shape="rect" coords="313,226,480,359" class="traincontent" rel="#2007" alt="Holiday Train Poster 2007" title="Holiday Train Poster 2007"/>
+				<area href="#" shape="rect" coords="519,224,688,357" class="traincontent" rel="#2006" alt="Holiday Train Poster 2006" title="Holiday Train Poster 2006"/>
+				<area href="#" shape="rect" coords="69,383,235,517" class="traincontent" rel="#2009" alt="Holiday Train Poster 2009" title="Holiday Train Poster 2009"/>
+				<area href="#" shape="rect" coords="276,382,447,516" class="traincontent" rel="#2010" alt="Holiday Train Poster 2010" title="Holiday Train Poster 2010"/>
+				<area href="#" shape="rect" coords="483,383,654,517" class="traincontent" rel="#2011" alt="Holiday Train Poster 2011" title="Holiday Train Poster 2011"/>
 			</map>
 		</div>
 	</div>

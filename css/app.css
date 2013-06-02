@@ -14,7 +14,7 @@ img 	{border:0}
 .popupflash h1{margin:10px}
 .popup{display:none;width:700px;top:25% !important;border:5px solid #888;border-radius:10px;-webkit-border-radius:10px;-moz-border-radius:10px;behavior:url("css/PIE.htc");background:#fff;-moz-box-shadow:0 0 30px #000;-webkit-box-shadow:0 0 30px #000;box-shadow:0 0 30px #000;z-index:9999;font-size:13px;line-height:26px}
 .popup .popupContent{padding:30px}
-.popup .popupContent h1{width:inherit}
+.popup h1{width:inherit}
 .popup p{padding:10px}
 .popupBig{width:830px;top:10% !important}
 .popupswap{display:none;text-align:center}
@@ -99,8 +99,9 @@ area,#green,#contactus,#section1,#section2,#section3,#section4,#section5,.popfla
 #footer h1{font-size:15px;line-height:23px;margin-bottom:10px;color:#666666;width:100%;border:none}
 #orange-bottom{background:url('/images/orange-bottom.png') top no-repeat;width:100%;height:100px}
 #pages span{color:#FAA61B}
-#pages a{color:#BDBDBD}
-#pages a:hover{color:#A6CE39}
+#pages a,#pages div{color:#BDBDBD;display:inline}
+#pages a:hover,#pages div:hover{color:#A6CE39;cursor:pointer}
+
 /* nyMenu */
 ul#nyMenu{padding-top:25px}
 #nyMenu li{display:inline-block;position:relative;z-index:500;float:left}
@@ -108,6 +109,6 @@ ul#nyMenu{padding-top:25px}
 #nyMenu li ul li {width:220px;white-space:nowrap;padding:4px 0;border-bottom:1px solid #FAA61B}
 #nyMenu li ul li:last-of-type {border-bottom:none;padding-bottom:0}
 #nyMenu li ul li:first-of-type {padding-top:0}
-#nyMenu li ul li a {width:220px;display:block;padding:4px 0;text-decoration:none;color:#FAA61B;font-size:13px;text-align:center}
-#nyMenu li ul li:hover a{color:#A6CE39}
+#nyMenu li ul li a,#nyMenu li ul li div {width:220px;display:block;padding:4px 0;text-decoration:none;color:#FAA61B;font-size:13px;text-align:center}
+#nyMenu li ul li:hover a,#nyMenu li ul li:hover div{color:#A6CE39;cursor:pointer}
 /* nyMenu ends */

@@ -22,7 +22,7 @@ angular.module('hwds', ['ngSanitize']).
   };
 }).directive('popupsDirective', function(){
   return function(scope, element, attrs){
-	$("#green,#contactus,#section1,#section2,#section3,#section5").overlay({
+	$("div[rel]").overlay({
 		mask: { color: '#000', loadSpeed: 200, opacity: 0.75 },
 		onClose: function (){
 			$(".popupswap").hide();

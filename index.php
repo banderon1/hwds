@@ -7,6 +7,7 @@
   <link rel="stylesheet" href="css/app.css">
   <!--[if lte IE 8]>
   	<script src="/js/json3.js"></script>
+  	<link rel="stylesheet" href="css/ie8.css">
   <![endif]-->
   <script src="/js/jquery.tools.min.js"></script>
   <script src="/js/jquery.tinyscrollbar.min.js"></script>
@@ -105,11 +106,11 @@
 				<a href="/publications">Printed Publications</a>&nbsp;<span>&bull;</span>
 				<a href="/interactive">Interactive/Online</a>&nbsp;<span>&bull;</span>
 				<a href="/editorial">Editorial/Illustrations</a>&nbsp;<span>&bull;</span>
-				<a href="#10">Newsletters</a>&nbsp;<span>&bull;</span>
+				<a href="http://www.westdesign.com/Issuez1/">Newsletters</a>&nbsp;<span>&bull;</span>
 				<div rel="#ecardspopup">E-cards</div>&nbsp;<span>&bull;</span>
 				<div rel="#flipbookspopup">Flipbooks</div>&nbsp;<span>&bull;</span>
 				<a href="#11">Events</a>&nbsp;<span>&bull;</span>
-				<a href="#12">Multi-year Projects</a><br/>
+				<div rel="#timelesspopup">Multi-year Projects</div>
 				<div rel="#advertisingpopup">Advertising</div>&nbsp;<span>&bull;</span>
 				<div rel="#brandingpopup">Branding</div>&nbsp;<span>&bull;</span>
 				<div rel="#promotingpopup">Promoting</div>&nbsp;<span>&bull;</span>
@@ -124,4 +125,4 @@
 <?php include 'popups.php'; ?>
 	</div>
 </body>
-</html
+</html>

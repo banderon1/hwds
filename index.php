@@ -6,7 +6,6 @@
   <title>HWDS and Associates, Inc.</title>
   <link rel="stylesheet" href="css/app.css">
   <!--[if lte IE 8]>
-  	<script src="/js/json3.js"></script>
   	<link rel="stylesheet" href="css/ie8.css">
   <![endif]-->
   <script src="/js/jquery.tools.min.js"></script>

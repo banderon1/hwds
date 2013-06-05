@@ -8,17 +8,6 @@
   <!--[if lte IE 8]>
   	<script src="/js/json3.js"></script>
   	<link rel="stylesheet" href="css/ie8.css">
-  	<script type="text/javascript"> 
-		var $buoop = {} 
-		$buoop.ol = window.onload; 
-		window.onload=function(){ 
-		 try {if ($buoop.ol) $buoop.ol();}catch (e) {} 
-		 var e = document.createElement("script"); 
-		 e.setAttribute("type", "text/javascript"); 
-		 e.setAttribute("src", "http://browser-update.org/update.js"); 
-		 document.body.appendChild(e); 
-		}
-	</script> 
   <![endif]-->
   <script src="/js/jquery.tools.min.js"></script>
   <script src="/js/jquery.tinyscrollbar.min.js"></script>
@@ -44,6 +33,9 @@
 </head>
 <body popups-directive>
 	<div id="entirepage">
+		<!--[if lt IE 7]>
+		    <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
+		<![endif]-->
 		<div id="sections">
 			<div id="logo"><a href="/"><img src="/images/logo.png" alt="HWDS Logo"></a></div>
 			<ul id="nyMenu">

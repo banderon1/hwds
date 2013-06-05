@@ -1,1 +1,1 @@
-#nyMenu li ul {background:rgba(255,255,255)}
+#nyMenu li ul {-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";filter: alpha(opacity=90)}

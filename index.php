@@ -8,6 +8,17 @@
   <!--[if lte IE 8]>
   	<script src="/js/json3.js"></script>
   	<link rel="stylesheet" href="css/ie8.css">
+  	<script type="text/javascript"> 
+		var $buoop = {} 
+		$buoop.ol = window.onload; 
+		window.onload=function(){ 
+		 try {if ($buoop.ol) $buoop.ol();}catch (e) {} 
+		 var e = document.createElement("script"); 
+		 e.setAttribute("type", "text/javascript"); 
+		 e.setAttribute("src", "http://browser-update.org/update.js"); 
+		 document.body.appendChild(e); 
+		}
+	</script> 
   <![endif]-->
   <script src="/js/jquery.tools.min.js"></script>
   <script src="/js/jquery.tinyscrollbar.min.js"></script>

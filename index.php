@@ -34,7 +34,7 @@
 <body popups-directive>
 	<div id="entirepage">
 		<!--[if lte IE 8]>
-		    <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
+		    <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a target="_blank" href="http://browsehappy.com/">upgrade your browser</a> or <a target="_blank" href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
 		<![endif]-->
 		<div id="sections">
 			<div id="logo"><a href="/"><img src="/images/logo.png" alt="HWDS Logo"></a></div>

@@ -4,25 +4,29 @@ body{background-image:url('/images/bg.jpg')}
 #entirepage{font-size:11px;line-height:16px;background-color:#FFFFFF;color:#666666;vertical-align:middle;height:100%;width:1015px;margin:0 auto}
 a{text-decoration:none;cursor:pointer}
 
-ul, li 	{list-style-type:none}
-img 	{border:0}
+ul,li{list-style-type:none}
+img{border:0}
 
-.orange	{color:#FAA61B !important}
-.green	{color:#A6CE39 !important}
+.orange{color:#FAA61B !important}
+.green{color:#A6CE39 !important}
+.gray,ul.gray li,ul.gray li span{color:#999 !important}
 
 .popupflash{display:none;border:5px solid #888;border-radius:10px;-webkit-border-radius:10px;-moz-border-radius:10px;behavior:url("/css/PIE.htc");background:#fff;-moz-box-shadow:0 0 30px #000;-webkit-box-shadow:0 0 30px #000;box-shadow:0 0 30px #000;z-index:9999}
 .popupflash h1{margin:10px}
-.popup{display:none;width:700px;top:25% !important;border:5px solid #888;border-radius:10px;-webkit-border-radius:10px;-moz-border-radius:10px;behavior:url("css/PIE.htc");background:#fff;-moz-box-shadow:0 0 30px #000;-webkit-box-shadow:0 0 30px #000;box-shadow:0 0 30px #000;z-index:9999;font-size:13px;line-height:26px}
-.popup .popupContent{padding:30px}
-.popup h1{width:inherit}
+.popup{display:none;width:700px;border:5px solid #888;border-radius:10px;-webkit-border-radius:10px;-moz-border-radius:10px;behavior:url("css/PIE.htc");background:#fff;-moz-box-shadow:0 0 30px #000;-webkit-box-shadow:0 0 30px #000;box-shadow:0 0 30px #000;z-index:9999;font-size:13px;line-height:18px}
+.popup .popupContent{padding:10px;color:#999}
+.popup h1{width:inherit;color:#A6CE39;border-bottom:none}
+.popup h2{color:#FAA61B;margin:10px 0 0 0}
 .popup p{padding:10px}
 .popupBig{width:830px;top:10% !important}
 .popupswap{display:none;text-align:center}
 .popupswap div{padding:10px 30px}
-#greenpopup {padding:30px}
-#greenpopup ul{padding:10px 30px 0 30px}
+#greenpopup ul{padding-left:20px}
 .close{position:absolute;display:block;right:-15px;top:-15px;width:26px;height:26px;background:transparent url("/images/close.png") no-repeat 0 0;text-indent:-5000px;z-index:9999}
-
+.contact-link{padding-top:10px}
+.firstcol,.secondcol{float:left}
+.firstcol{width:220px}
+.secondcol ul{float:left}
 #logo{float:left}
 #sections{height:153px}
 #sections ul{text-align:center;z-index:999}
@@ -34,7 +38,7 @@ h7{color:#666666;font-size:17px;font-weight:normal}
 ol.letters,ol.letters li{list-style-type:upper-alpha;margin:5px 0 0 10px}
 ul.bullets,ul.bullets li{list-style-type:disc;color:#A6CE39}
 ul.bullets li span{color:#666666}
-ul.threecol{float:left;width:205px;padding:20px}
+ul.threecol{float:left;width:190px;padding:5px 20px;line-height:15px}
 ul.threecol li span{font-size:12px}
 
 #scrollbar0{float:left;width:990px;margin:10px 0}
@@ -74,7 +78,6 @@ ul.bigger li{margin-bottom:10px}
 .firmbio h2,.firmbio p{margin:10px 0 0 0 !important}
 #publications h2{padding-top:50px}
 li.h1{font-size:17px;list-style-type:none !important;height:60px}
-#clientspopup{width:800px}
 
 #section1{background:url('/images/section1.png') bottom;width:105px}
 #section2{background:url('/images/section2.png') bottom;width:165px}
@@ -107,6 +110,14 @@ area,#green,#contactus,#section1,#section2,#section3,#section4,#section5,.popfla
 #pages a,#pages div{color:#BDBDBD;display:inline}
 #pages a:hover,#pages div:hover{color:#A6CE39;cursor:pointer}
 
+.masthead{width:700px;height:115px}
+#advertisingpopup .masthead{background-image:url('/images/popups/masthead/advertising.png')}
+#brandingpopup .masthead{background-image:url('/images/popups/masthead/branding.png')}
+#promotingpopup .masthead{background-image:url('/images/popups/masthead/promoting.png')}
+#webmarketingpopup .masthead{background-image:url('/images/popups/masthead/web-marketing.png')}
+#clientspopup .masthead{background-image:url('/images/popups/masthead/clients.png')}
+#greenpopup .masthead{background-image:url('/images/popups/masthead/green-commitment.png')}
+#client-list{margin-top:-20px}
 /* nyMenu */
 ul#nyMenu{padding-top:25px}
 #nyMenu li{display:inline-block;position:relative;z-index:500;float:left}

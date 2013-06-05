@@ -39,7 +39,7 @@
 					<div id="section1">The Firm</div>
 					<ul id="section1drop">
 						<li><a href="/ourfirm">The HWDS Team</a></li>
-						<li><a href="#1">Clients</a></li>
+						<li><div rel="#clientspopup">Clients</div></li>
 						<li><a href="#2">Memberships</a></li>
 					</ul>
 				</li>
@@ -50,12 +50,12 @@
 						<li><a href="/promotions">Promotional</a></li>
 						<li><a href="/interactive">Interactive/Online</a></li>
 						<li><a href="/editorial">Editorial/Illustrations</a></li>
-						<li><a href="#3">Newsletters</a></li>
+						<li><a href="http://www.westdesign.com/Issuez1/">Newsletters</a></li>
 						<li><div rel="#ecardspopup">E-Cards</div></li>
 						<li><div rel="#flipbookspopup">Flipbooks</div></li>
 						<li><a href="#4">Events</a></li>
 						<li><a href="#5">Bilingual Publications</a></li>
-						<li><a href="#6">Multi-year Projects</a></li>
+						<li><div rel="#timelesspopup">Multi-year Projects</div></li>
 					</ul>
 				</li>
 				<li>

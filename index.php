@@ -99,7 +99,7 @@
 				</div>
 			</div>
 			<h1>
-				HWDS is a full-service creative agency that provides innovative solutions for corporate, governmental and institutional clients.<br/>We design communitcation solutions for print, online, multi-media and event promotions.
+				HWDS is a full-service creative agency that provides innovative solutions for corporate, governmental and institutional clients.<br/>We design communication solutions for print, online, multi-media and event promotions.
 			</h1>
 			<div id="orange-bottom"></div>
 			<div id="pages">

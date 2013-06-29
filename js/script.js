@@ -190,8 +190,8 @@ function setPopupLoaders(){
 		$("#pages div[rel=#imagspopup]").click();
 	} else if(query == 'timeless'){
 		$("#pages div[rel=#timelesspopup]").click();
-	} else if(query == 'advertisinig'){
-		$("#pages div[rel=#advertisinigpopup]").click();
+	} else if(query == 'advertising'){
+		$("#pages div[rel=#advertisingpopup]").click();
 	} else if(query == 'branding'){
 		$("#pages div[rel=#brandingpopup]").click();
 	} else if(query == 'promoting'){

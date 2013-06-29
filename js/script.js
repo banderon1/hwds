@@ -84,6 +84,7 @@ angular.module('hwds', ['ngSanitize']).
 
 function IndexCtrl($scope){
 	setPageFunctions(0);
+	setPopupLoaders();
 	//add the slideshow
 	$("#showcase").awShowcase(
 	{
@@ -178,6 +179,30 @@ function EditorialCtrl($scope,$http){
 	$http.get('data/editorial.json').success(function(data){
 		$scope.sections = data;
 	});
+}
+function setPopupLoaders(){
+	var query = window.location.search.substring(1);
+	if(query == 'clients'){
+		$("#pages div[rel=#clientspopup]").click();
+	} else if(query == 'ecards'){
+		$("#pages div[rel=#ecardspopup]").click();
+	} else if(query == 'imags'){
+		$("#pages div[rel=#imagspopup]").click();
+	} else if(query == 'timeless'){
+		$("#pages div[rel=#timelesspopup]").click();
+	} else if(query == 'advertisinig'){
+		$("#pages div[rel=#advertisinigpopup]").click();
+	} else if(query == 'branding'){
+		$("#pages div[rel=#brandingpopup]").click();
+	} else if(query == 'promoting'){
+		$("#pages div[rel=#promotingpopup]").click();
+	} else if(query == 'webmarketing'){
+		$("#pages div[rel=#webmarketingpopup]").click();
+	} else if(query == 'green'){
+		$("#pages div[rel=#greenpopup]").click();
+	} else if(query == 'contactus'){
+		$("#pages div[rel=#contactuspopup]").click();
+	}
 }
 function setPageFunctions(page){
 	$('#page1,#page2,#page3,#page4,#page5,#page6').removeAttr('style');

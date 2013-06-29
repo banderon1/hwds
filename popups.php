@@ -42,7 +42,7 @@
 	<div class="popupContent">
 		<h1>Online Solutions to Maximize Your Company's Marketing Potential</h1>
 		<h2>The best interactive solution</h2>
-		<div>Whether it's a new website, web portal, e-commerce site, Flash animation, e-newsletter, e-card, e-blast or flipbook, we can tailor the right interactive solution for your company.</div>
+		<div>Whether it's a new website, web portal, e-commerce site, Flash animation, e-newsletter, e-card, e-blast or iMag, we can tailor the right interactive solution for your company.</div>
 		<h2>Your message delivered effectively and efficiently</h2>
 		<div>Let us demonstrate how you can use the Web effectively and efficiently to promote your company, save print costs and deliver your message quickly and effectively.</div>
 		<h2>Differentiate your company and drive visitors to your website</h2>
@@ -106,7 +106,7 @@
 		<h2>Green Products</h2>
 		<ul class="gray bullets">
 			<li><span>We design publications that employ recycled papers and soy-based inks.</span></li>
-			<li><span>We develop digital solutions including e-newsletters, e-blasts, e-cards, Web sites, and flipbooks.</span></li>
+			<li><span>We develop digital solutions including e-newsletters, e-blasts, e-cards, Web sites, and iMags.</span></li>
 		</ul>
 		<h2>Green Mindset</h2>
 		<ul class="gray bullets">
@@ -152,45 +152,45 @@
 	</div>
 	<!--end sub-popups for ecards -->
 </div>
-<div id="flipbookspopup" class="popup popupBig">
-	<div class="popupContent" id="flipbooksmain">
-		<img src="/images/popups/Flipbookspopup.png" usemap="#flipbooks-map" border="0" width="800" height="566" alt=""/>
-		<map id="flipbooks-map" name="flipbooks-map">
-			<area href="#" shape="rect" coords="32,89,352,258" class="flipbookscontent" rel="#flipbook0popup" alt="Metrolink 20th Anniversary Report" title="Metrolink 20th Anniversary Report"/>
-			<area href="#" shape="rect" coords="458,90,785,259" class="flipbookscontent" rel="#flipbook1popup" alt="MWCOG State of the Commute Report" title="MWCOG State of the Commute Report"/>
-			<area href="#" shape="rect" coords="157,262,683,420" class="flipbookscontent" rel="#flipbook2popup" alt="Metrolink 15th Anniversary Annual Report" title="Metrolink 15th Anniversary Annual Report"/>
-			<area href="#" shape="rect" coords="152,422,790,561" class="flipbookscontent" rel="#flipbook3popup" alt="Norwalk Transit Annual Report" title="Norwalk Transit Annual Report"/>
+<div id="imagspopup" class="popup popupBig">
+	<div class="popupContent" id="imagsmain">
+		<img src="/images/popups/iMagspopup.png" usemap="#imags-map" border="0" width="800" height="566" alt=""/>
+		<map id="imags-map" name="imags-map">
+			<area href="#" shape="rect" coords="32,89,352,258" class="imagscontent" rel="#imag0popup" alt="Metrolink 20th Anniversary Report" title="Metrolink 20th Anniversary Report"/>
+			<area href="#" shape="rect" coords="458,90,785,259" class="imagscontent" rel="#imag1popup" alt="MWCOG State of the Commute Report" title="MWCOG State of the Commute Report"/>
+			<area href="#" shape="rect" coords="157,262,683,420" class="imagscontent" rel="#imag2popup" alt="Metrolink 15th Anniversary Annual Report" title="Metrolink 15th Anniversary Annual Report"/>
+			<area href="#" shape="rect" coords="152,422,790,561" class="imagscontent" rel="#imag3popup" alt="Norwalk Transit Annual Report" title="Norwalk Transit Annual Report"/>
 		</map>
 	</div>
-	<div class="popupswap" id="flipbooks0popup">
-		<div class="returnClick"><a class="flipbooksreturn" href="#">Return to Flipbooks Section</a></div>
+	<div class="popupswap" id="imags0popup">
+		<div class="returnClick"><a class="imagsreturn" href="#">Return to iMags Section</a></div>
 		<div class="popupContent">
 			<div>
 				<iframe src="http://www.metrolinktrains.com/pdfs/20thAnniversaryReport/" width="700" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 			</div>
 		</div>
 	</div>
-	<div class="popupswap" id="flipbooks1popup">
-		<div class="returnClick"><a class="flipbooksreturn" href="#">Return to Flipbooks Section</a></div>
+	<div class="popupswap" id="imags1popup">
+		<div class="returnClick"><a class="imagsreturn" href="#">Return to iMags Section</a></div>
 		<div class="popupContent">
 			<div>
-				<iframe src="/UniflipBooks/StateofCommute/" width="700" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+				<iframe src="/Uniimags/StateofCommute/" width="700" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 			</div>
 		</div>
 	</div>
-	<div class="popupswap" id="flipbooks2popup">
-		<div class="returnClick"><a class="flipbooksreturn" href="#">Return to Flipbooks Section</a></div>
+	<div class="popupswap" id="imags2popup">
+		<div class="returnClick"><a class="imagsreturn" href="#">Return to iMags Section</a></div>
 		<div class="popupContent">
 			<div>
-				<iframe src="/UniflipBooks/Metrolink15thAnniversaryReport/" width="700" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+				<iframe src="/Uniimags/Metrolink15thAnniversaryReport/" width="700" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 			</div>
 		</div>
 	</div>
-	<div class="popupswap" id="flipbooks3popup">
-		<div class="returnClick"><a class="flipbooksreturn" href="#">Return to Flipbooks Section</a></div>
+	<div class="popupswap" id="imags3popup">
+		<div class="returnClick"><a class="imagsreturn" href="#">Return to iMags Section</a></div>
 		<div class="popupContent">
 			<div>
-				<iframe src="/UniflipBooks/NTAnnualReport/" width="700" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+				<iframe src="/Uniimags/NTAnnualReport/" width="700" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 			</div>
 		</div>
 	</div>

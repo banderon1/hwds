@@ -26,7 +26,7 @@ angular.module('hwds', ['ngSanitize']).
 		mask: { color: '#000', loadSpeed: 200, opacity: 0.75 },
 		onClose: function (){
 			$(".popupswap").hide();
-			$("#ecardsmain,#flipbooksmain,#timelessmain,#stuffabusmain").show();
+			$("#ecardsmain,#imagsmain,#timelessmain,#stuffabusmain").show();
 		}
 	});
 	
@@ -48,10 +48,10 @@ angular.module('hwds', ['ngSanitize']).
 		$("#ecardsmain").hide();
 		$("#ecard"+id+"popup").show();
 	});
-	$(".flipbookscontent").click(function(){
+	$(".imagscontent").click(function(){
 		var id = getID(this);
-		$("#flipbooksmain").hide();
-		$("#flipbooks"+id+"popup").show();
+		$("#imagsmain").hide();
+		$("#imags"+id+"popup").show();
 	});
 	$(".timelesscontent").click(function(){
 		var id = getID(this);
@@ -189,10 +189,10 @@ function setPageFunctions(page){
 		$(".popupswap").hide();
 		$("#ecardsmain").show();
 	});
-	$("a.flipbooksreturn").on("click",function(e){
+	$("a.imagsreturn").on("click",function(e){
 		e.preventDefault();
 		$(".popupswap").hide();
-		$("#flipbooksmain").show();
+		$("#imagsmain").show();
 	});
 	$("a.timelessreturn").on("click",function(e){
 		e.preventDefault();

@@ -161,6 +161,14 @@
 			<area href="#" shape="rect" coords="157,262,683,420" class="imagscontent" rel="#imag2popup" alt="Metrolink 15th Anniversary Annual Report" title="Metrolink 15th Anniversary Annual Report"/>
 			<area href="#" shape="rect" coords="152,422,790,561" class="imagscontent" rel="#imag3popup" alt="Norwalk Transit Annual Report" title="Norwalk Transit Annual Report"/>
 		</map>
+		<map id="imags-map" name="imags-map">
+			<area href="#" shape="rect" class="imagscontent" rel="#imag0popup" coords="24,84,360,257" alt="Metrolink 20th Anniversary Report" title="metrolink 20th Anniversary Report" />
+			<area href="#" shape="rect" class="imagscontent" rel="#imag1popup" coords="455,83,791,256" alt="MWCOG state of the CommuteReport" title="mwcog state of the CommuteReport" />
+			<area href="#" shape="rect" class="imagscontent" rel="#imag2popup" coords="9,260,487,413" alt="Metrolink 15th Anniversary Annual Report" title="metrolink 15th Anniversary Annual Report" />
+			<area href="#" shape="rect" class="imagscontent" rel="#imag3popup" coords="493,260,789,413" alt="KP Carson Medical Office Opening" title="KP Carson Medical Office Opening" />
+			<area href="#" shape="rect" class="imagscontent" rel="#imag4popup" coords="13,420,479,561" alt="Norwalk Transit Annual Report" title="norwalk Transit Annual Report" />
+			<area href="#" shape="rect" class="imagscontent" rel="#imag5popup" coords="513,420,780,561" alt="KP Fontana Grand Opening Invite" title="KP Fontana Grand Opening Invite" />
+		</map>
 	</div>
 	<div class="popupswap" id="imags0popup">
 		<div class="returnClick"><a class="imagsreturn" href="#">Return to iMags Section</a></div>

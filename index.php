@@ -52,6 +52,7 @@
 					<ul id="section2drop">
 						<li><a href="/publications">Printed Publications</a></li>
 						<li><a href="/promotions">Promotional</a></li>
+						<li><a href="/identity">Identity</a></li>
 						<li><a href="/interactive">Interactive/Online</a></li>
 						<li><a href="/editorial">Editorial/Illustrations</a></li>
 						<li><a href="http://www.westdesign.com/Issuez1/">Newsletters</a></li>
@@ -107,12 +108,13 @@
 				<div rel="#clientspopup">Clients</div>&nbsp;<span>&bull;</span>
 				<a href="#9">Memberships</a>&nbsp;<span>&bull;</span>
 				<a href="/publications">Printed Publications</a>&nbsp;<span>&bull;</span>
+				<a href="/identity">Identity</a>&nbsp;<span>&bull;</span>
 				<a href="/interactive">Interactive/Online</a>&nbsp;<span>&bull;</span>
 				<a href="/editorial">Editorial/Illustrations</a>&nbsp;<span>&bull;</span>
 				<a href="http://www.westdesign.com/Issuez1/">Newsletters</a>&nbsp;<span>&bull;</span>
 				<div rel="#ecardspopup">E-cards</div>&nbsp;<span>&bull;</span>
 				<div rel="#imagspopup">iMags/e-Pubs</div>&nbsp;<span>&bull;</span>
-				<a href="#11">Events</a>&nbsp;<span>&bull;</span>
+				<a href="#11">Events</a><br/>
 				<div rel="#timelesspopup">Multi-year Projects</div>
 				<div rel="#advertisingpopup">Advertising</div>&nbsp;<span>&bull;</span>
 				<div rel="#brandingpopup">Branding</div>&nbsp;<span>&bull;</span>

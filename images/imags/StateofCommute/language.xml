@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PageflipLanguage>
+	<Language
+		langcode="en"
+		
+		prevpage="Previous page"
+		prevpagetooltip=""
+		
+		nextpage="Next page"
+		nextpagetooltip=""
+		
+		leftprint="Print"
+		leftprinttooltip="Print this page"
+		
+		rightprint="Print"
+		rightprinttooltip="Print this page"
+		
+		leftzoom="Zoom"
+		leftzoomtooltip="Use the zoom tool on this page"
+		
+		rightzoom="Zoom"
+		rightzoomtooltip="Use the zoom tool on this page"
+		
+		downloadpdf="PDF download"
+		downloadpdftooltip="Download PDF file here"
+		
+		search="Search"
+		searchtooltip="Search for Sentences, key words, and figures."
+		searchheading="Search"
+		searchclosetooltip="Close"
+		searchtxt="Search"
+		searchstatus1="Loading"
+		searchstatus2="Page "
+		searchstatus3="Search results:"
+		searchstatus4=" on "
+		searchstatus5=" out of "
+		searchstatus6="Can't find any data matching your criteria!"
+		searchstatus7="Go to page "
+		searchstatus8="matches"
+		searchstatus9="match"
+		searchstatus10="pages"
+		searchstatus11="page"
+		
+		allpages="Index"
+		allpagestooltip="View all pages"
+		
+		sendtofriend="Share"
+		sendtofriendtooltip="Share"
+		sendtofriendheading="Share"
+		sendtofriendclosetooltip="Close"
+		sendtofriendmailto="To (email)"
+		sendtofriendmailfrom="From (email)"
+		sendtofriendmessage="Message"
+		sendtofriendsubmit="Send"
+		
+		soundswitch="Sound on"
+		soundswitch2="Sound off"
+		soundswitchtooltip="Turn the sound off"
+		soundswitchtooltip2="Turn the sound on"
+		
+		pageof1="Page "
+		pageof2="+"
+		pageof3=" / "
+		pagethumbs="Index"
+		
+		fullscreen="Full screen"
+	/>
+	<IntroText><![CDATA[
+<B> </B><BR> 
+	]]></IntroText>
+	<IntrotwoText><![CDATA[
+		<b>Welcome!</b><br/>This is an online publication from UniFlip with virtual pages that can be turned with the mouse or by clicking the navigation bar.
+You can search inside the publication for words, figures and full sentences; print and zoom; download the publication in PDF format; send to a friend; and much more.
+The UniFlip system reduces unnecessary print-outs and saves on expensive toner cartridges, making it environmentally friendly.
+The online service can be used by anyone FREE of charge. 
+It is fast and easy to create and publish an online publication directly from Word, PDF, Excel or PowerPoint files.
+Try it today for free!
+<a href="http://www.uniflip.com/"target="_blank">www.UniFlip.com</a>
+	]]></IntrotwoText>
+	<FreeversionText><![CDATA[
+This publication is created and distributed via <a href="http://www.uniflip.com/"target="_blank">www.uniflip.com</a> FREE OF CHARGE and, according to the license agreement, must only be used by private and non-profitable associations and not for the advertisement/distribution of any services and/or products.
+Private users and non-commercial associations may create and distribute publications FREE OF CHARGE via <a href="http://www.uniflip.com/"target="_blank"> www.uniflip.com
+Upon the purchase of the license by companies and profitable organisations, this text and advertising banners will no longer appear and this page can be replaced with contents for commercial use, personal welcome text and logos.
+	]]></FreeversionText>
+	<FreeversiontwoText><![CDATA[
+This publication is created and distributed via <a href="http://www.uniflip.com/"target="_blank">www.uniflip.com</a> FREE OF CHARGE and, according to the license agreement, must only be used by private and non-profitable associations and not for the advertisement/distribution of any services and/or products.
+Private users and non-commercial associations may create and distribute publications FREE OF CHARGE via <a href="http://www.uniflip.com/"target="_blank"> www.uniflip.com
+Upon the purchase of the license by companies and profitable organisations, this text and advertising banners will no longer appear and this page can be replaced with contents for commercial use, personal welcome text and logos.
+	]]></FreeversiontwoText>
+</PageflipLanguage>

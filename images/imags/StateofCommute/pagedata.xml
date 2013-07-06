@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PageflipDataSet>
+	<Settings  PageWidth="500" PageHeight="647"
+			  AllowDownload="true"
+			  AllowPrint="true"
+			  AllowSendToFriend="true"
+			  AllowSearch="true"
+			  AllowSound="true"
+			  AllowPagesTxt="true"
+			  rl="0"
+			  bgsound="0"
+			  AutoSize="false"
+			  StartPage="1"
+			  Hardcover="false"
+			  Hardpage="false"
+			  LargeCover="true"
+			  HcoverAngle="-30" 
+			  ClickArea="64" AutoFlipArea="56"
+			  GotoPageSpeed="2" MousePursuitSpeed="5" OnReleaseSpeed="3"
+			  FlippingEnabled="true"
+			  TransparencyEnabled="true"
+			  TearDistance="80"
+			  
+			  
+			  PDFlink="document.pdf"
+			  BackgroundColour="0x1668b0"
+			  FontColour="0xffffff"
+			  MenuColour="0x000000"
+			  MenuFontColour="0xFFFFFF"
+			  SendMailMethod="1"
+			  
+			  
+			  ZoomAreaWidth="760"
+			  ZoomAreaHeight="480"
+			  ZoomFollowSpeed="5"
+			  
+			  ThumbnailsEnabled="true"
+			  ThumbnailsOnEachSide="false"			
+			  ThumbnailsOnFacingPages="true"
+			  ThumbnailMargin="0"
+			  ThumbnailPadding="20"
+			  ThumbnailBorderWidth="0"
+			  ThumbnailBorderColor="0x000000"
+			  ThumbnailBorderHoverColor="0x000000"			  
+			  
+			  MouseHandler="true"
+			  FlipBeforeLoaded="false"
+			  MinPagesBeforeFlip="3"
+			  LogoURL=""
+			  TopLogo="toplogo.png"
+        
+        BackgroundImage=""
+			  LoaderIndex="3"
+			  LoaderSwf=""
+			  FirstPageBtnImage=""
+			  PreviousPageBtnImage=""
+			  NextPageBtnImage=""
+			  LastPageBtnImage=""
+			  DonwloadBtnImage=""
+			  IndexBtnImage=""
+			  PrintBtnImage=""
+			  ShareBtnImage=""
+			  SoundBtnImage=""
+			  ZoomBtnImage=""
+			  BigLogoImage="logobig.png"
+			  FullscreenBtnImage=""
+			  FullscreenOffBtnImage=""
+			  AllowUpscaling="false"
+        AllowUpscalingMax="100"
+        AllowUpscalingMin="50"
+        UsePagesSideBar="false"
+        pubid="294199"
+        PagesPrefix="0"
+        PagesEndfix="0"
+        showshadows="true">
+			  
+			  <Sounds Enabled="true"
+			  		  Start="pf1.mp3"
+					  End="pf2.mp3"
+					  TearOff="pf3.mp3" />
+					  
+	</Settings>
+	<PageOrder>
+		<PageData PageFile="images/small/00001.jpg" LargeFile="images/big/00001.jpg" TearOff="false" />
+<PageData PageFile="images/small/00002.jpg" LargeFile="images/big/00002.jpg" TearOff="false" />
+<PageData PageFile="images/small/00003.jpg" LargeFile="images/big/00003.jpg" TearOff="false" />
+<PageData PageFile="images/small/00004.jpg" LargeFile="images/big/00004.jpg" TearOff="false" />
+<PageData PageFile="images/small/00005.jpg" LargeFile="images/big/00005.jpg" TearOff="false" />
+<PageData PageFile="images/small/00006.jpg" LargeFile="images/big/00006.jpg" TearOff="false" />
+<PageData PageFile="images/small/00007.jpg" LargeFile="images/big/00007.jpg" TearOff="false" />
+<PageData PageFile="images/small/00008.jpg" LargeFile="images/big/00008.jpg" TearOff="false" />
+<PageData PageFile="images/small/00009.jpg" LargeFile="images/big/00009.jpg" TearOff="false" />
+<PageData PageFile="images/small/00010.jpg" LargeFile="images/big/00010.jpg" TearOff="false" />
+<PageData PageFile="images/small/00011.jpg" LargeFile="images/big/00011.jpg" TearOff="false" />
+<PageData PageFile="images/small/00012.jpg" LargeFile="images/big/00012.jpg" TearOff="false" />
+<PageData PageFile="images/small/00013.jpg" LargeFile="images/big/00013.jpg" TearOff="false" />
+<PageData PageFile="images/small/00014.jpg" LargeFile="images/big/00014.jpg" TearOff="false" />
+<PageData PageFile="images/small/00015.jpg" LargeFile="images/big/00015.jpg" TearOff="false" />
+<PageData PageFile="images/small/00016.jpg" LargeFile="images/big/00016.jpg" TearOff="false" />
+<PageData PageFile="images/small/00017.jpg" LargeFile="images/big/00017.jpg" TearOff="false" />
+<PageData PageFile="images/small/00018.jpg" LargeFile="images/big/00018.jpg" TearOff="false" />
+<PageData PageFile="images/small/00019.jpg" LargeFile="images/big/00019.jpg" TearOff="false" />
+<PageData PageFile="images/small/00020.jpg" LargeFile="images/big/00020.jpg" TearOff="false" />
+<PageData PageFile="images/small/00021.jpg" LargeFile="images/big/00021.jpg" TearOff="false" />
+<PageData PageFile="images/small/00022.jpg" LargeFile="images/big/00022.jpg" TearOff="false" />
+<PageData PageFile="images/small/00023.jpg" LargeFile="images/big/00023.jpg" TearOff="false" />
+<PageData PageFile="images/small/00024.jpg" LargeFile="images/big/00024.jpg" TearOff="false" />
+<PageData PageFile="images/small/00025.jpg" LargeFile="images/big/00025.jpg" TearOff="false" />
+<PageData PageFile="images/small/00026.jpg" LargeFile="images/big/00026.jpg" TearOff="false" />
+<PageData PageFile="images/small/00027.jpg" LargeFile="images/big/00027.jpg" TearOff="false" />
+<PageData PageFile="images/small/00028.jpg" LargeFile="images/big/00028.jpg" TearOff="false" />
+<PageData PageFile="images/small/00029.jpg" LargeFile="images/big/00029.jpg" TearOff="false" />
+<PageData PageFile="images/small/00030.jpg" LargeFile="images/big/00030.jpg" TearOff="false" />
+<PageData PageFile="images/small/00031.jpg" LargeFile="images/big/00031.jpg" TearOff="false" />
+<PageData PageFile="images/small/00032.jpg" LargeFile="images/big/00032.jpg" TearOff="false" />
+<PageData PageFile="images/small/00033.jpg" LargeFile="images/big/00033.jpg" TearOff="false" />
+<PageData PageFile="images/small/00034.jpg" LargeFile="images/big/00034.jpg" TearOff="false" />
+<PageData PageFile="images/small/00035.jpg" LargeFile="images/big/00035.jpg" TearOff="false" />
+<PageData PageFile="images/small/00036.jpg" LargeFile="images/big/00036.jpg" TearOff="false" />
+<PageData PageFile="images/small/00037.jpg" LargeFile="images/big/00037.jpg" TearOff="false" />
+<PageData PageFile="images/small/00038.jpg" LargeFile="images/big/00038.jpg" TearOff="false" />
+<PageData PageFile="images/small/00039.jpg" LargeFile="images/big/00039.jpg" TearOff="false" />
+<PageData PageFile="images/small/00040.jpg" LargeFile="images/big/00040.jpg" TearOff="false" />
+<PageData PageFile="images/small/00041.jpg" LargeFile="images/big/00041.jpg" TearOff="false" />
+<PageData PageFile="images/small/00042.jpg" LargeFile="images/big/00042.jpg" TearOff="false" />
+<PageData PageFile="images/small/00043.jpg" LargeFile="images/big/00043.jpg" TearOff="false" />
+<PageData PageFile="images/small/00044.jpg" LargeFile="images/big/00044.jpg" TearOff="false" />
+<PageData PageFile="images/small/00045.jpg" LargeFile="images/big/00045.jpg" TearOff="false" />
+<PageData PageFile="images/small/00046.jpg" LargeFile="images/big/00046.jpg" TearOff="false" />
+<PageData PageFile="images/small/00047.jpg" LargeFile="images/big/00047.jpg" TearOff="false" />
+<PageData PageFile="images/small/00048.jpg" LargeFile="images/big/00048.jpg" TearOff="false" />
+<PageData PageFile="images/small/00049.jpg" LargeFile="images/big/00049.jpg" TearOff="false" />
+<PageData PageFile="images/small/00050.jpg" LargeFile="images/big/00050.jpg" TearOff="false" />
+<PageData PageFile="images/small/00051.jpg" LargeFile="images/big/00051.jpg" TearOff="false" />
+<PageData PageFile="images/small/00052.jpg" LargeFile="images/big/00052.jpg" TearOff="false" />
+<PageData PageFile="images/small/00053.jpg" LargeFile="images/big/00053.jpg" TearOff="false" />
+<PageData PageFile="images/small/00054.jpg" LargeFile="images/big/00054.jpg" TearOff="false" />
+<PageData PageFile="images/small/00055.jpg" LargeFile="images/big/00055.jpg" TearOff="false" />
+<PageData PageFile="images/small/00056.jpg" LargeFile="images/big/00056.jpg" TearOff="false" />
+<PageData PageFile="images/small/00057.jpg" LargeFile="images/big/00057.jpg" TearOff="false" />
+<PageData PageFile="images/small/00058.jpg" LargeFile="images/big/00058.jpg" TearOff="false" />
+<PageData PageFile="images/small/00059.jpg" LargeFile="images/big/00059.jpg" TearOff="false" />
+<PageData PageFile="images/small/00060.jpg" LargeFile="images/big/00060.jpg" TearOff="false" />
+<PageData PageFile="images/small/00061.jpg" LargeFile="images/big/00061.jpg" TearOff="false" />
+<PageData PageFile="images/small/00062.jpg" LargeFile="images/big/00062.jpg" TearOff="false" />
+<PageData PageFile="images/small/00063.jpg" LargeFile="images/big/00063.jpg" TearOff="false" />
+<PageData PageFile="images/small/00064.jpg" LargeFile="images/big/00064.jpg" TearOff="false" />
+<PageData PageFile="images/small/00065.jpg" LargeFile="images/big/00065.jpg" TearOff="false" />
+<PageData PageFile="images/small/00066.jpg" LargeFile="images/big/00066.jpg" TearOff="false" />
+<PageData PageFile="images/small/00067.jpg" LargeFile="images/big/00067.jpg" TearOff="false" />
+<PageData PageFile="images/small/00068.jpg" LargeFile="images/big/00068.jpg" TearOff="false" />
+<PageData PageFile="images/small/00069.jpg" LargeFile="images/big/00069.jpg" TearOff="false" />
+<PageData PageFile="images/small/00070.jpg" LargeFile="images/big/00070.jpg" TearOff="false" />
+<PageData PageFile="images/small/00071.jpg" LargeFile="images/big/00071.jpg" TearOff="false" />
+<PageData PageFile="images/small/00072.jpg" LargeFile="images/big/00072.jpg" TearOff="false" />
+<PageData PageFile="images/small/00073.jpg" LargeFile="images/big/00073.jpg" TearOff="false" />
+<PageData PageFile="images/small/00074.jpg" LargeFile="images/big/00074.jpg" TearOff="false" />
+<PageData PageFile="images/small/00075.jpg" LargeFile="images/big/00075.jpg" TearOff="false" />
+<PageData PageFile="images/small/00076.jpg" LargeFile="images/big/00076.jpg" TearOff="false" />
+<PageData PageFile="images/small/00077.jpg" LargeFile="images/big/00077.jpg" TearOff="false" />
+<PageData PageFile="images/small/00078.jpg" LargeFile="images/big/00078.jpg" TearOff="false" />
+<PageData PageFile="images/small/00079.jpg" LargeFile="images/big/00079.jpg" TearOff="false" />
+<PageData PageFile="images/small/00080.jpg" LargeFile="images/big/00080.jpg" TearOff="false" />
+<PageData PageFile="images/small/00081.jpg" LargeFile="images/big/00081.jpg" TearOff="false" />
+<PageData PageFile="images/small/00082.jpg" LargeFile="images/big/00082.jpg" TearOff="false" />
+<PageData PageFile="images/small/00083.jpg" LargeFile="images/big/00083.jpg" TearOff="false" />
+<PageData PageFile="images/small/00084.jpg" LargeFile="images/big/00084.jpg" TearOff="false" />
+<PageData PageFile="images/small/00085.jpg" LargeFile="images/big/00085.jpg" TearOff="false" />
+<PageData PageFile="images/small/00086.jpg" LargeFile="images/big/00086.jpg" TearOff="false" />
+<PageData PageFile="images/small/00087.jpg" LargeFile="images/big/00087.jpg" TearOff="false" />
+<PageData PageFile="images/small/00088.jpg" LargeFile="images/big/00088.jpg" TearOff="false" />
+<PageData PageFile="images/small/00089.jpg" LargeFile="images/big/00089.jpg" TearOff="false" />
+<PageData PageFile="images/small/00090.jpg" LargeFile="images/big/00090.jpg" TearOff="false" />
+<PageData PageFile="images/small/00091.jpg" LargeFile="images/big/00091.jpg" TearOff="false" />
+<PageData PageFile="images/small/00092.jpg" LargeFile="images/big/00092.jpg" TearOff="false" />
+<PageData PageFile="images/small/00093.jpg" LargeFile="images/big/00093.jpg" TearOff="false" />
+<PageData PageFile="images/small/00094.jpg" LargeFile="images/big/00094.jpg" TearOff="false" />
+<PageData PageFile="images/small/00095.jpg" LargeFile="images/big/00095.jpg" TearOff="false" />
+<PageData PageFile="images/small/00096.jpg" LargeFile="images/big/00096.jpg" TearOff="false" />
+<PageData PageFile="images/small/00097.jpg" LargeFile="images/big/00097.jpg" TearOff="false" />
+<PageData PageFile="images/small/00098.jpg" LargeFile="images/big/00098.jpg" TearOff="false" />
+<PageData PageFile="images/small/00099.jpg" LargeFile="images/big/00099.jpg" TearOff="false" />
+<PageData PageFile="images/small/00100.jpg" LargeFile="images/big/00100.jpg" TearOff="false" />
+<PageData PageFile="images/small/00101.jpg" LargeFile="images/big/00101.jpg" TearOff="false" />
+<PageData PageFile="images/small/00102.jpg" LargeFile="images/big/00102.jpg" TearOff="false" />
+<PageData PageFile="images/small/00103.jpg" LargeFile="images/big/00103.jpg" TearOff="false" />
+<PageData PageFile="images/small/00104.jpg" LargeFile="images/big/00104.jpg" TearOff="false" />
+
+	</PageOrder>
+	<TableOfContents>
+		<Link Name="Page 1" TargetPage="1" />
+<Link Name="Page 2" TargetPage="2" />
+<Link Name="Page 3" TargetPage="3" />
+<Link Name="Page 4" TargetPage="4" />
+<Link Name="Page 5" TargetPage="5" />
+<Link Name="Page 6" TargetPage="6" />
+<Link Name="Page 7" TargetPage="7" />
+<Link Name="Page 8" TargetPage="8" />
+<Link Name="Page 9" TargetPage="9" />
+<Link Name="Page 10" TargetPage="10" />
+<Link Name="Page 11" TargetPage="11" />
+<Link Name="Page 12" TargetPage="12" />
+<Link Name="Page 13" TargetPage="13" />
+<Link Name="Page 14" TargetPage="14" />
+<Link Name="Page 15" TargetPage="15" />
+<Link Name="Page 16" TargetPage="16" />
+<Link Name="Page 17" TargetPage="17" />
+<Link Name="Page 18" TargetPage="18" />
+<Link Name="Page 19" TargetPage="19" />
+<Link Name="Page 20" TargetPage="20" />
+<Link Name="Page 21" TargetPage="21" />
+<Link Name="Page 22" TargetPage="22" />
+<Link Name="Page 23" TargetPage="23" />
+<Link Name="Page 24" TargetPage="24" />
+<Link Name="Page 25" TargetPage="25" />
+<Link Name="Page 26" TargetPage="26" />
+<Link Name="Page 27" TargetPage="27" />
+<Link Name="Page 28" TargetPage="28" />
+<Link Name="Page 29" TargetPage="29" />
+<Link Name="Page 30" TargetPage="30" />
+<Link Name="Page 31" TargetPage="31" />
+<Link Name="Page 32" TargetPage="32" />
+<Link Name="Page 33" TargetPage="33" />
+<Link Name="Page 34" TargetPage="34" />
+<Link Name="Page 35" TargetPage="35" />
+<Link Name="Page 36" TargetPage="36" />
+<Link Name="Page 37" TargetPage="37" />
+<Link Name="Page 38" TargetPage="38" />
+<Link Name="Page 39" TargetPage="39" />
+<Link Name="Page 40" TargetPage="40" />
+<Link Name="Page 41" TargetPage="41" />
+<Link Name="Page 42" TargetPage="42" />
+<Link Name="Page 43" TargetPage="43" />
+<Link Name="Page 44" TargetPage="44" />
+<Link Name="Page 45" TargetPage="45" />
+<Link Name="Page 46" TargetPage="46" />
+<Link Name="Page 47" TargetPage="47" />
+<Link Name="Page 48" TargetPage="48" />
+<Link Name="Page 49" TargetPage="49" />
+<Link Name="Page 50" TargetPage="50" />
+<Link Name="Page 51" TargetPage="51" />
+<Link Name="Page 52" TargetPage="52" />
+<Link Name="Page 53" TargetPage="53" />
+<Link Name="Page 54" TargetPage="54" />
+<Link Name="Page 55" TargetPage="55" />
+<Link Name="Page 56" TargetPage="56" />
+<Link Name="Page 57" TargetPage="57" />
+<Link Name="Page 58" TargetPage="58" />
+<Link Name="Page 59" TargetPage="59" />
+<Link Name="Page 60" TargetPage="60" />
+<Link Name="Page 61" TargetPage="61" />
+<Link Name="Page 62" TargetPage="62" />
+<Link Name="Page 63" TargetPage="63" />
+<Link Name="Page 64" TargetPage="64" />
+<Link Name="Page 65" TargetPage="65" />
+<Link Name="Page 66" TargetPage="66" />
+<Link Name="Page 67" TargetPage="67" />
+<Link Name="Page 68" TargetPage="68" />
+<Link Name="Page 69" TargetPage="69" />
+<Link Name="Page 70" TargetPage="70" />
+<Link Name="Page 71" TargetPage="71" />
+<Link Name="Page 72" TargetPage="72" />
+<Link Name="Page 73" TargetPage="73" />
+<Link Name="Page 74" TargetPage="74" />
+<Link Name="Page 75" TargetPage="75" />
+<Link Name="Page 76" TargetPage="76" />
+<Link Name="Page 77" TargetPage="77" />
+<Link Name="Page 78" TargetPage="78" />
+<Link Name="Page 79" TargetPage="79" />
+<Link Name="Page 80" TargetPage="80" />
+<Link Name="Page 81" TargetPage="81" />
+<Link Name="Page 82" TargetPage="82" />
+<Link Name="Page 83" TargetPage="83" />
+<Link Name="Page 84" TargetPage="84" />
+<Link Name="Page 85" TargetPage="85" />
+<Link Name="Page 86" TargetPage="86" />
+<Link Name="Page 87" TargetPage="87" />
+<Link Name="Page 88" TargetPage="88" />
+<Link Name="Page 89" TargetPage="89" />
+<Link Name="Page 90" TargetPage="90" />
+<Link Name="Page 91" TargetPage="91" />
+<Link Name="Page 92" TargetPage="92" />
+<Link Name="Page 93" TargetPage="93" />
+<Link Name="Page 94" TargetPage="94" />
+<Link Name="Page 95" TargetPage="95" />
+<Link Name="Page 96" TargetPage="96" />
+<Link Name="Page 97" TargetPage="97" />
+<Link Name="Page 98" TargetPage="98" />
+<Link Name="Page 99" TargetPage="99" />
+<Link Name="Page 100" TargetPage="100" />
+<Link Name="Page 101" TargetPage="101" />
+<Link Name="Page 102" TargetPage="102" />
+<Link Name="Page 103" TargetPage="103" />
+<Link Name="Page 104" TargetPage="104" />
+
+	</TableOfContents>
+	<PageLinks>
+
+	</PageLinks>
+
+</PageflipDataSet>

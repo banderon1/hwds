@@ -1,0 +1,280 @@
+<!doctype html>
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="Content-Script-Type" content="text/javascript">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Cache-Control" content="no-store">
+    <meta http-equiv="Expires" content="-1">
+    <title>Metrolink 20th Anniversary Report</title>
+    <meta property="og:title" content="Metrolink 20th Anniversary Report"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <meta name="apple-mobile-web-app-status-bar-style" content="black"/><!--black-translucent-->
+    <meta name="apple-touch-fullscreen" content="yes" />
+    <script type="text/javascript" charset="UTF-8" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script type="text/javascript" charset="UTF-8" src="http://m.uniflip.com/v/phone_src.js.php?noredirect=1"></script>
+    <!--<link rel="apple-touch-icon" href="/custom_icon.png"/>-->
+    <!--<meta name="viewport" content="height:510; user-scalable=no; initial-scale=0.3; maximum-scale=0.3; maximum-scale=0.6;"/>-->
+    <!--<meta name="viewport" content="initial-scale=0.4; maximum-scale=0.4; minimum-scale=0.4;"/>-->
+    <!--<meta name="viewport" content="height:510; user-scalable=no; initial-scale=0.30; maximum-scale=0.30; maximum-scale=0.3;"/>--><!--width=device-width; height=device-height; user-scalable=1; initial-scale=0.4; maximum-scale=1.0-->
+    <style>
+      body{ font-family: 'Lucida Grande', Verdana, Arial, sans-serif; font-size:11px; }
+      h1, h2, h3{ color: #3b5998; }
+      h1 a{ text-decoration: none; color: #3b5998; }
+      h1 a:hover{ text-decoration: underline; }
+      a{ color: #3b5998; }
+      .viewerDiv{ width:100%; overflow:hidden;height:100%; position:absolute; top:0px; }
+      .viewerTable{ table-layout:fixed; width:100%; height:100%; background-color:#c0c0c0; }
+      .viewerTopbar{ background-color:#000000; height:50px; vertical-align:middle; }
+      .viewerTopbar h2{ color:#FFFFFF; height:50px; vertical-align:middle; }
+      .viewerLeft, .viewerRight{ vertical-align:middle; font-size:31px; font-weight:bold;padding:0px; }
+      .viewerLeft div, .viewerRight div{background-color:#000000; color:#FFFFFF; cursor:pointer; text-align:center; height:212px; padding-top:45px;}
+      .viewerBottombar, .viewerTopbar{ background-color:#000000; background-image:url('http://m.uniflip.com/v/ipad_design_ktr_topbar_effect.png'); color:#FFFFFF; height:50px; text-align:center; vertical-align:middle; }
+      .viewerBottombar a, .viewerTopbar a, .viewerBottombar td, .viewerTopbar td{ color:#FFFFFF; }
+      .viewerImgTD{padding:0px;color:#FFFFFF;font-size:20px;}
+      #viewerBottombarPager{font-size:20px;}
+      *{margin:0px;padding:0px;}
+      html,body{overflow:hidden;height:100%;}
+    </style>
+    <script type="text/javascript">
+    /** New variables */
+    var layoutBackgroundColor = "#000000";
+    var layoutButtonColor = "#FFFFFF";
+    var layoutPageWidth = 500;
+    var layoutPageHeight = 647;
+    /** Script variables */
+    var baseURL = "./";
+var maxPages = 0;
+var pagesObj = {};
+var linksObj = {};
+var videosObj = {};
+var langPageof1 = "Page ";
+var settingsrl = 0;
+var currentPage = (settingsrl==0 ? 1 : maxPages);
+var fbAppId = "0";
+var fbSession = null;
+var rDebug = false;
+    var xmlURL=""+baseURL+"pagedata.xml";
+    var hasFlash=false;
+    try{hasFlash=(navigator.mimeTypes["application/x-shockwave-flash"]!=undefined)}catch(e){}
+    if($.browser.safari && $.browser.version <= 533.1){
+      window.location=hasFlash?"uniflip.swf":"document.pdf";
+    }
+    //window.prompt("test",xmlURL);
+    (function(){
+      w.setTimeout(function(){
+        $.ajax({
+          async:false,
+          cache:false,
+          type:"GET",
+          url:xmlURL,
+          dataType:"xml",
+          error:function(jqXHR, textStatus, errorThrown){
+            alert("error:\ntextStatus = " + textStatus + "\nerrorThrown = " + errorThrown);
+          },
+          success:function(xmlObj, status, requestObj){
+            tt=loadPageDataXML(xmlObj);
+                          displayFBPublication();
+                      },
+          complete:function(){}
+        });
+        return true;
+      },500);
+      return true;
+    })();
+    </script>
+    <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-3687797-18']);
+    _gaq.push(['_trackPageview']);
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+    </script>
+  </head>
+  <body scroll="no">
+    <div id="viewerDiv" class="viewerDiv">
+      <table class="viewerTable" cellspacing="0" cellpadding="2" border="0">
+  		<tbody id="pubViewerTBODY" style="height:auto;display:none;">
+  			<tr id="pubViewerTR">
+  				<td id="pubViewerTD" class="viewerImgTD" style="vertical-align:middle;"><center>
+  					              <table id="pubViewerTable" cellspacing="0" cellpadding="0" border="0" align="center" style="table-layout:fixed;width:500px;height:647px;margin:0px;background-color:#000;">
+    						<tr>
+    							<td valign="top" style="vertical-align:top;">
+    								<div id="viewerObjects1" style="width:500px;height:647px;overflow:hidden;"><center>
+                      <div id="viewerObjects3" style="width:500px;height:647px;overflow:hidden;">
+                        <table id="viewerObjects3table" cellspacing="0" cellpadding="0" border="0" style="table-layout:fixed;width:1000px;height:647px;margin:0px;padding:0px;position:relative;left:0px;-webkit-transition:left 1s ease-in;">
+                        <tr>
+                        <td width="500" height="647">
+                          <img src="./images/small/00001.jpg" id="viewerImage" name="viewerImage" border="0" hspace="0" vspace="0" style="width:500px;height:647px;display:inline;float:left;image-rendering:optimizeQuality;" />
+                        </td>
+                        <td width="500" height="647">
+                          <img src="./images/small/00001.jpg" id="viewerImage2" name="viewerImage2" border="0" hspace="0" vspace="0" style="width:500px;height:647px;display:inline;float:left;image-rendering:optimizeQuality;" />  
+                        </td>
+                        </tr>
+                        </table>
+                      </div>
+                      <div id="viewerObjects2" ontouchstart="//alert('testhansi0');" style="width:500px;height:647px;overflow:hidden;position:relative;top:-647px;padding:0px;"></div><!--filter:alpha(opacity=0);-khtml-opacity:0;-moz-opacity:0;opacity:0;-->
+                    </center></div>
+                  </td>
+    						</tr>
+    					</table>
+  					  				</center></td>
+  			</tr>
+  		</tbody>
+  		<tbody id="pubViewerIndexTBODY" style="height:auto;display:none;">
+  		  <tr id="pubViewerIndexTR">
+          <td id="pubViewerIndexTD" style="padding:15px;padding-top:50px;padding-bottom:50px;"><div id="pubViewerIndexDIV" style="width:100%;height:100%;overflow-y:auto;text-align:left;"></div></td>
+        </tr>
+      </tbody>
+    </table>
+	</div>
+	<div id="navLeftDiv" style="position:absolute;top:0px;left:0px;width:33px;height:100%;overflow:hidden;">
+    <table cellspacing="0" cellpadding="2" border="0" style="table-layout:fixed;width:100%;height:100%;">
+    <tbody>
+      <tr>
+        <td class="viewerLeft">
+          <canvas id="canvasPreviousPageSideButton" width="33" height="212" onclick="viewerPreviousPage();" style="cursor:pointer;"></canvas>
+          <!--<div onclick="viewerPreviousPage();" title="Previous page" style="">&lsaquo;</div>-->
+        </td>
+      </tr>
+    </tbody>
+    </table>
+	</div>
+	<div id="navRightDiv" style="position:absolute;top:0px;right:0px;width:33px;height:100%;overflow:hidden;">
+    <table cellspacing="0" cellpadding="2" border="0" style="table-layout:fixed;width:100%;height:100%;">
+    <tbody>
+      <tr>
+        <td class="viewerLeft">
+          <canvas id="canvasNextPageSideButton" width="33" height="212" onclick="viewerNextPage();" style="cursor:pointer;"></canvas>
+        </td>
+      </tr>
+    </tbody>
+    </table>
+  </div>
+  <div style="position:absolute;top:0px;left:0px;width:100%;height:50px;overflow:hidden;">
+    <table class="viewerTableTop" cellspacing="0" cellpadding="2" border="0" style="height:50px;width:100%;">
+  		<colgroup>
+  		  <col style="width:25px;"></col>
+  		  <col style="width:auto;"></col>
+  		  <col style="width:25px;"></col>
+  		</colgroup>
+  	  <tbody id="viewerTopbar1" style="height:30px!important;min-height:30px;">
+  			<tr id="viewerTopbar2" style="height:30px!important;min-height:30px;">
+  			  <td class="viewerTopbar"></td>
+  				<td class="viewerTopbar">
+  					<table cellspacing="0" cellpadding="0" border="0" style="width:100%;height:30px!important;">
+  					<colgroup>
+  						<col style="width:150px;"></col>
+  						<col style="width:10px;"></col>
+  						<col style="width:auto;"></col>
+  						<col style="width:10px;"></col>
+  						<col style="width:150px;"></col>
+  					</colgroup>
+  					<tbody>
+  						<tr>
+  							<td align="left">
+                  <img src="toplogo.png" border="0" hspace="6" vspace="6" style="float:left;" />                </td>
+                <td></td>
+  							<td id="viewerBottombarPager" style="text-align:center;">&nbsp;</td>
+                <td></td>
+  							<td align="right">
+                  <canvas id="canvasInfoBeta" height="50" width="100" style="display:none;"></canvas>
+                </td>
+  						</tr>
+  					</table>
+  				</td>
+  				<td class="viewerTopbar"></td>
+  			</tr>
+  		</tbody>
+  	</table>
+	</div>
+	<div id="navBottomDiv" style="position:absolute;bottom:0px;left:0px;width:100%;height:50px;overflow:hidden;">
+	  <table cellspacing="0" cellpadding="2" border="0" style="table-layout:fixed;width:100%;height:100%;">
+		<tbody>
+			<tr style="height:50px;">
+				<td class="viewerBottombar" id="viewerBottombarTD">
+					<table cellspacing="0" cellpadding="0" border="0" style="width:100%;">
+					<colgroup>
+						<col style="width:150px;"></col>
+						<col style="width:20px;"></col>
+						<col style="width:auto;"></col>
+						<col style="width:20px;"></col>
+						<col style="width:150px;"></col>
+					</colgroup>
+					<tbody>
+						<tr>
+							<td style="text-align:left;">
+                <canvas id="canvasFirstPageButton" height="50" width="75" onclick="viewerLoadPage('page1');" style="opacity:1;cursor:pointer;"></canvas>
+                <canvas id="canvasSeperator1" height="50" width="6"></canvas>
+                <canvas id="canvasPreviousPageButton" height="50" width="50" onclick="viewerPreviousPage();" style="cursor:pointer;"></canvas>
+                <canvas id="canvasSeperator2" height="50" width="6"></canvas>
+              </td>
+							<td></td>
+							<td style="text-align:center;">
+                <canvas id="canvasSeperator3" height="50" width="6"></canvas>
+							  <canvas id="canvasInfoButton" height="50" width="50" onclick="infoButtonOnClick();" style="cursor:pointer;"></canvas>
+							  <canvas id="canvasSeperator4" height="50" width="6"></canvas>
+              </td>
+							<td></td>
+							<td style="text-align:right;">
+                <canvas id="canvasSeperator5" height="50" width="6"></canvas>
+                <canvas id="canvasNextPageButton" height="50" width="50" onclick="viewerNextPage();" style="cursor:pointer;"></canvas>
+                <canvas id="canvasSeperator6" height="50" width="6"></canvas>
+                <canvas id="canvasLastPageButton" height="50" width="75" onclick="viewerLoadPage('page0');" style="cursor:pointer;"></canvas>
+              </td>
+						</tr>
+					</tbody>
+					</table>
+				</td>
+			</tr>
+		</tbody>
+		</table>
+	</div>
+	<div id="infoPopupDiv" style="position:absolute;bottom:48px;left:0px;width:100%;height:auto;overflow:hidden;display:none;opacity:0.0;">
+	  <center>
+    <table cellspacing="0" cellpadding="0" border="0" style="table-layout:fixed;width:365px;height:auto;">
+	  <tbody>
+	  <tr>
+	    <td style="background-image:url(http://m.uniflip.com/images/box1_1.png);height:55px;">
+        <table style="table-layout:fixed;height:45px;width:355px;position:relative;top:1px;left:5px;background-color:#000000;background-image:url('http://m.uniflip.com/v/ipad_design_ktr_topbar_effect.png');background-position:0px -3px;text-align:center;vertical-align:middle;">
+        <tr><td style="vertical-align:middle;">
+	        <img src="http://m.uniflip.com/images/icon_close.png" border="0" onclick="infoButtonOnClick();" style="float:right;position:relative;right:8px;cursor:pointer;">
+	        <img src="toplogo.png" border="0" hspace="6" vspace="6" />	      </td></tr>
+        </table>
+	    </td>
+	  </tr>
+	  <tr>
+	    <td style="background-image:url(http://m.uniflip.com/images/box1_2.png);background-repeat:repeat-y;">
+        <div style="padding-top:15px;padding-bottom:15px;padding-left:8px;color:gray;font-weight:bold;font-size:14px;">
+          Metrolink 20th Anniversary Report        </div>
+        <div>
+          <center>
+                    <div onclick="viewerSwitchIndex();infoButtonOnClick();" style="background-image:url(http://m.uniflip.com/images/box2_1.png);width:345px;height:36px;cursor:pointer;">
+            <img src="http://m.uniflip.com/images/icon_index.png" border="0" valign="middle" style="float:right;position:relative;top:8px;left:-8px;"/>
+            <span style="float:left;position:relative;top:8px;left:8px;font-size:18px;">Index of all pages</span>
+          </div>
+                              </center>
+        </div>
+        <div style="text-align:center;padding-top:15px;padding-bottom:13px;">
+                    <a href="http://www.uniflip.com/" target="_blank" title="UniFlip online publication reader." style="text-decoration:underline;color:Gray;font-size:14px;">Powered by UniFlip</a>
+                  </div>
+	    </td>
+	  </tr>
+	  <tr>
+	    <td style="background-image:url(http://m.uniflip.com/images/box1_3.png);height:29px;text-align:center;"></td>
+	  </tr>
+	  </tbody>
+	  </table>
+	  </center>
+	</div>
+	<div style="display:none;">
+	  <a href="javascript:viewerSwitchIndex();" target="_self" title="View all pages" style="padding:3px;">Index</a>
+	  &nbsp;
+  </div>
+  <!-- customhtml -->
+    <!-- /customhtml -->
+	</body>
+</html>

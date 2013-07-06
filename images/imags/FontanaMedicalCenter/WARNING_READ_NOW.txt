@@ -1,0 +1,21 @@
+##### IMPORTANT NOTICE – READ CAREFULLY!!! #####
+
+You have decided to download the publication from UniFlip and therefore we will inform about an important issue:
+
+You must not make changes inside the files and names of folders and files – the license will be corrupted immediately and you need to make a new download of the entire zip. 
+The only files you may edit is the html file in the root folder and in the html folder.
+
+If you make any changes to the files in the folder the license check will roll back the publication to a free version included banner advertisements and UniFlip Disclaimer!
+
+Therefore do NOT:
+
+•	Replace jpg pictures
+•	Create or change text in the txt files
+•	Change the name of the files or folders
+•	Try to decrypt the flash file
+
+Please note that by any support questions, we maybe will ask you to send the entire folder and we will be able to see if any changes have been made.
+
+Best regards
+
+UniFlip

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PageflipDataSet>
+	<Settings  PageWidth="486" PageHeight="680"
+			  AllowDownload="true"
+			  AllowPrint="true"
+			  AllowSendToFriend="true"
+			  AllowSearch="true"
+			  AllowSound="true"
+			  AllowPagesTxt="true"
+			  rl="0"
+			  bgsound="0"
+			  AutoSize="false"
+			  StartPage="1"
+			  Hardcover="false"
+			  Hardpage="false"
+			  LargeCover="true"
+			  HcoverAngle="-30" 
+			  ClickArea="64" AutoFlipArea="56"
+			  GotoPageSpeed="2" MousePursuitSpeed="5" OnReleaseSpeed="3"
+			  FlippingEnabled="true"
+			  TransparencyEnabled="true"
+			  TearDistance="80"
+			  
+			  
+			  PDFlink="document.pdf"
+			  BackgroundColour="0xd96f41"
+			  FontColour="0xffffff"
+			  MenuColour="0x39ADA2"
+			  MenuFontColour="0xFFFFFF"
+			  SendMailMethod="1"
+			  
+			  
+			  ZoomAreaWidth="760"
+			  ZoomAreaHeight="480"
+			  ZoomFollowSpeed="5"
+			  
+			  ThumbnailsEnabled="true"
+			  ThumbnailsOnEachSide="false"			
+			  ThumbnailsOnFacingPages="true"
+			  ThumbnailMargin="0"
+			  ThumbnailPadding="20"
+			  ThumbnailBorderWidth="0"
+			  ThumbnailBorderColor="0x000000"
+			  ThumbnailBorderHoverColor="0x000000"			  
+			  
+			  MouseHandler="true"
+			  FlipBeforeLoaded="false"
+			  MinPagesBeforeFlip="3"
+			  LogoURL=""
+			  TopLogo="toplogo.png"
+        
+        BackgroundImage=""
+			  LoaderIndex="3"
+			  LoaderSwf=""
+			  FirstPageBtnImage=""
+			  PreviousPageBtnImage=""
+			  NextPageBtnImage=""
+			  LastPageBtnImage=""
+			  DonwloadBtnImage=""
+			  IndexBtnImage=""
+			  PrintBtnImage=""
+			  ShareBtnImage=""
+			  SoundBtnImage=""
+			  ZoomBtnImage=""
+			  BigLogoImage="logobig.png"
+			  FullscreenBtnImage=""
+			  FullscreenOffBtnImage=""
+			  AllowUpscaling="false"
+        AllowUpscalingMax="100"
+        AllowUpscalingMin="50"
+        UsePagesSideBar="false"
+        pubid="302799"
+			  ssEnabled="false"
+			  ssACancel="false"
+			  ssF1=""
+			  ssF1t=""
+			  ssF2=""
+			  ssF2t=""
+			  ssF3=""
+			  ssF3t=""
+			  ssF4=""
+			  ssF4t=""
+			  ssF5=""
+			  ssF5t=""
+			  ssF6=""
+			  ssF6t=""
+			  ssFH=""
+			  ssFF=""
+			  ssFT=""
+			  ssEnabledPW="false"
+        PagesPrefix="0"
+        PagesEndfix="0"
+        showshadows="true">
+			  
+			  <Sounds Enabled="true"
+			  		  Start="pf1.mp3"
+					  End="pf2.mp3"
+					  TearOff="pf3.mp3" />
+					  
+	</Settings>
+	<PageOrder>
+		<PageData PageFile="images/small/00001.jpg" LargeFile="images/big/00001.jpg" TearOff="false" />
+<PageData PageFile="images/small/00002.jpg" LargeFile="images/big/00002.jpg" TearOff="false" />
+<PageData PageFile="images/small/00003.jpg" LargeFile="images/big/00003.jpg" TearOff="false" />
+<PageData PageFile="images/small/00004.jpg" LargeFile="images/big/00004.jpg" TearOff="false" />
+<PageData PageFile="images/small/00005.jpg" LargeFile="images/big/00005.jpg" TearOff="false" />
+<PageData PageFile="images/small/00006.jpg" LargeFile="images/big/00006.jpg" TearOff="false" />
+
+	</PageOrder>
+	<TableOfContents>
+		<Link Name="Page 1" TargetPage="1" />
+<Link Name="Page 2" TargetPage="2" />
+<Link Name="Page 3" TargetPage="3" />
+<Link Name="Page 4" TargetPage="4" />
+<Link Name="Page 5" TargetPage="5" />
+<Link Name="Page 6" TargetPage="6" />
+
+	</TableOfContents>
+	<PageLinks>
+		<PageLink pageno="3" linkno="1" url="mailto:SouthBay.Public-Affairs@kp.org" target="_self" description="" x="88" y="514" width="201" height="19" />
+
+	</PageLinks>
+	<PageVideos>
+
+	</PageVideos>
+
+
+</PageflipDataSet>

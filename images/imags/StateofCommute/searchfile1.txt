@@ -1,0 +1,1500 @@
+2010 STATE OF THE COMMUTE
+SURVEY REPORT
+From the Metropolitan Washington DC Region
+
+National Capital Region Transportation Planning Board Metropolitan Washington Council of Governments
+
+
+<!----##SPLITTER##-->
+2010 STATE OF THE COMMUTE
+SURVEY REPORT
+From the Metropolitan Washington DC Region
+
+JUNE 2011
+
+
+<!----##SPLITTER##-->
+State of the Commute 2010 Survey Report Published by Commuter Connections® All Rights Reserved
+Author: Research: Nicholas W. Ramfos, Director, Alternative Commute Programs LDA Consulting CIC Research, Inc. Editing: Design: C. Daniel Tighe, The Tighe Group, Inc. HWDS and Associates, Inc. Mark Pfoutz
+
+This report was prepared with funding by the District of Columbia Department of Transportation, the Maryland Department of Transportation, and the Virginia Department of Transportation. This publication is also funded in part by the USDOT Federal Highway Administration, under the Transportation Equity Act for the 21st Century (TEA-21). Price: Order Additional Copies From: $40 Metropolitan Washington Council of Governments 777 North Capitol Street, NE Suite 300 Washington, DC 20002-4290 (202)962-3200 www.mwcog.org ADA and Limited English Proficiency (LEP) Alternative formats of this publication are available upon request. Phone: 202.962.3300 or 202.962.3213 (TDD). Email: accommodations@mwcog.org. Please allow seven working days for preparation of the material. Title VI Compliance COG fully complies with Title VI of the Civil Rights Act of 1964 and related statutes and regulations in all programs and activities. For more information, or to file a Title VI related complaint, visit www.mwcog.org or call 202.962.3200.
+
+1
+
+
+<!----##SPLITTER##-->
+LIST OF TABLES AND FIGURES ............................................................................................................................3 EXECUTIVE SUMMARY ..............................................................................................................................................6 SURVEY AND SAMPLING METHODOLOGY ................................................................................................... 14 SURVEY RESULTS ..................................................................................................................................................... 17
+TRANSPORTATION SATISFACTION .......................................................................................................................... 18
+- Quality of Life - Transportation Satisfaction - Benefits of Ridesharing - Ease of Commute and Commute Satisfaction
+
+CONTENTS
+2
+
+AVAILABILITY OF AND ATTITUDES TOWARD TRANSPORTATION OPTIONS ............................................. 26
+- Public transportation - High occupancy vehicle (HOV) and high occupancy toll lanes - Park and Ride lots - Attitudes toward transportation options
+
+AWARENESS OF COMMUTE ADVERTISING AND SERVICES ............................................................................ 33
+- Commute advertising recall - Commute advertising impact
+
+AWARENESS AND USE OF COMMUTER ASSISTANCE RESOURCES ............................................................... 37
+- Awareness of commuter assistance numbers/websites - Awareness and use of Commuter Connections Program - Awareness and use of local commuter assistance programs
+
+EMPLOYER-PROVIDED COMMUTER ASSISTANCE SERVICES .......................................................................... 41
+- Incentives/support services - Parking facilities and services - Use and impact of commuter assistance services/benefits
+
+TELECOMMUTING ......................................................................................................................................................... 47
+- Current and potential telecommuting - Telecommute patterns
+
+GUARANTEED RIDE HOME PROGRAM ................................................................................................................... 54
+- Awareness and use of GRH
+
+COMMUTE PATTERNS .................................................................................................................................................. 56
+- Number of days worked per week and work hours - Current commute mode - Primary commute mode by demographic group - Length of commute - Non-standard work schedules - Alternative mode use characteristics - Mode shifts and trial use of modes
+
+CHARACTERISTICS OF THE SAMPLE ...................................................................................................................... 67
+- Demographic characteristics - Home and work locations - Employment characteristics
+
+COMPARISONS OF KEY SOC RESULTS ............................................................................................................ 71 APPENDIX – SURVEY QUESTIONNAIRE ....................................................................................................... 79
+
+
+<!----##SPLITTER##-->
+Tables
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44
+
+Page
+
+LIST OF TABLES
+
+Commute Compared to Last Year by Made a Change in Home or Work Location ....................................................................... 22 Importance of Commute Ease Relative to Other Factors Considered in Home or Work Location Changes ............................ 23 Transit Service Operating in Home Area and Work Area ................................................................................................................ 26 Public Transportation Companies that Provide Service in Home Area and Work Area .............................................................. 26 Mean Distance from Home to Bus Stop and Train Station by Type of Transit Service Operating in Home Area Bus and Train Service by Home Area
+................. 27 .............................................................................................................................................. 28
+
+Availability and Use of HOV Lanes by Residence Jurisdiction ..................................................................................................... 30 Reasons for Not Using Carpool/Vanpool to Work ........................................................................................................................... 32 Reasons for Not Using Transit to Work ............................................................................................................................................ 32 Recall of Advertising Sponsors ......................................................................................................................................................... 34 Advertising Sources/Media ................................................................................................................................................................ 34 Recall of Regional Commuter Assistance Telephone Number or Web Site .................................................................................. 37 Commuter Connections Program Referral Sources .......................................................................................................................... 38 Information and Services Sought in Contact to Commuter Connections.................................................................................... 39 Information and Services Sought from Local Commute Assistance Programs............................................................................ 40 Commuter Services/Benefits Offered, by Employer Type ............................................................................................................... 42 Commuter Services/Benefits Offered, by Employer Size................................................................................................................ 42 Commuter Services/Benefits Offered, by Employer Location........................................................................................................ 43 Parking Facilities/Services Offered by Employers – 2010, 2007, 2004....................................................................................... 43 Summary of Current and Potential Telecommuting – All Respondents who are not Self-Employed/Work at Home ............. 48 Telecommuters by Demographic and Travel Characteristics
+........................................................................................................ 49
+
+Telecommuters by Employment Characteristics .............................................................................................................................. 50 Formal or Informal Telecommute Arrangements by Employer Type ............................................................................................. 52 Formal or Informal Telecommute Arrangements by Employer Size .............................................................................................. 52 Frequency of Telecommute ................................................................................................................................................................ 53 Access Mode to Non-Home Telecommute Locations ...................................................................................................................... 53 Awareness of Regional GRH Program by Current Primary Mode ................................................................................................... 54 Awareness of Regional GRH Program by Home and Work Location ............................................................................................. 55 Primary Mode by Ethnic Group .......................................................................................................................................................... 59 Primary Mode by Age .......................................................................................................................................................................... 59 Primary Mode by Annual Household Income .................................................................................................................................. 60 Primary Mode by Number of Vehicles in the Household................................................................................................................ 60 Primary Mode by Sex .......................................................................................................................................................................... 60 Primary Mode by State of Residence and State of Employment................................................................................................... 61 Commute Distance by Primary Mode ................................................................................................................................................ 63 Commute Distance by Home and Work Area ................................................................................................................................... 63 Primary Mode by Use of Non-Standard Schedules .......................................................................................................................... 64 Means of Getting from Home to Alternative Mode Meeting Place ............................................................................................... 64 Distance Traveled from Home to Alternative Mode Meeting Point .............................................................................................. 65 Ethnic Background .............................................................................................................................................................................. 67 Home and Work Locations ................................................................................................................................................................. 69 Home and Work Locations – Inner Core, Middle Ring, and Outer Ring ....................................................................................... 69 Employment Characteristics .............................................................................................................................................................. 70 Occupation ........................................................................................................................................................................................... 70
+
+3
+
+
+<!----##SPLITTER##-->
+Figures
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41
+
+Page
+
+LIST OF FIGURES
+4
+
+Ratings for Quality of Life ................................................................................................................................................................. 18 Ratings for Transportation Satisfaction ........................................................................................................................................... 18 Ratings for Quality of Life and Transportation by Home Location .............................................................................................. 18 Ratings for Transportation Satisfaction by Primary Commute Mode ........................................................................................... 19 Ratings for Transportation Satisfaction by Commute Travel Time ............................................................................................... 19 Ratings for Transportation Satisfaction by Distance from Home to Bus Stop and Distance From Home to Rail Station.... 19 Recommendations to Improve Regional Transportation ............................................................................................................... 20 Personal Benefits of Alternative Mode Use ..................................................................................................................................... 20 Regional/Community Benefits of Alternative Mode Use ............................................................................................................... 21 Commute Easier, More Difficult, or Same as Last Year................................................................................................................... 21 Reasons Commute is More Difficult or Easier .................................................................................................................................. 22 Factors Considered in Home or Work Location Changes ................................................................................................................ 23 Satisfaction with Commute ............................................................................................................................................................... 24 Satisfaction with Commute – Percent Rating Commute a 4 or 5 by Ease of Commute ............................................................ 24 Satisfaction with Commute – Percent Rating Commute a 4 or 5 by Home and Work Location............................................... 25 Satisfaction with Commute – Percent Rating Commute a 4 or 5 by Length of Commute in Minutes .................................... 25 Satisfaction with Commute – Percent Rating Commute a 4 or 5 by Primary Commute Mode ................................................. 25 Distance from Home to Bus Stop and Train Station
+..................................................................................................................... 27
+
+Distance from Home to Bus Stop by Home Location..................................................................................................................... 28 Commute Mode by Distance from Home to Bus Stop Travel Time Savings of HOV Users
+................................................................................................................... 29 ................................................................................................................................................... 29
+
+Availability and Use of HOV Lanes by Home Area .......................................................................................................................... 29 Primary Commute Mode by Availability of HOV Lanes ................................................................................................................... 30 HOV Influence on Choice of Commute Mode and Time Saved by HOV Lane Use by Home Location....................................... 30 Likely to Try Carpool/Vanpool or to Register Existing Carpool/Vanpool to Receive HOT Lane Discount ............................... 31 Awareness of Park & Ride Lots Along Route to Work – By Home Location ................................................................................ 31 Commute Information/Advertising Messages Recalled ................................................................................................................. 33 Likely to Consider Ridesharing After Hearing/Seeing Ads by Respondent Age ......................................................................... 35 Actions Taken to Change Commute After Hearing/Seeing Commute Advertising ..................................................................... 36 Likely to Try Using an Alternative Mode Within the Next Year .................................................................................................... 36 Awareness of Regional Commute Information Resources ............................................................................................................. 37 Awareness of Commuter Connections (Prompted or Unprompted) .............................................................................................. 38 Awareness of Commuter Connections Services ............................................................................................................................... 38 Heard of Local Jurisdiction Commute Assistance Program ........................................................................................................... 39 Used Local Jurisdiction Commute Assistance Program ................................................................................................................. 40 Employer Offers Any Incentives/Support Services - 2004, 2007, 2010...................................................................................... 41 Alternative Mode Incentives and Support Services Offered by Employers – 2007 and 2010 .................................................. 41 On-site Free Parking Availability by Employer Type, Employer Size, and Work Area ................................................................ 44 Use of Employer Provided Incentives/Support Services ................................................................................................................ 45 Primary Commute Mode by Commuter Services/Benefits Reported Offered ............................................................................... 45 Primary Commute Mode by Free Parking Available at Work ................................................................................. 46
+
+
+<!----##SPLITTER##-->
+Figures (continued)
+42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69
+
+LIST OF FIGURES
+MWCOG-Commuter Connections— 2010 State of the Commute Report
+
+Page
+
+Percentage of Commuters who Telecommute – 2001, 2004, 2007, 2010................................................................ 47 Telecommute Status Distribution ................................................................................................................... 48 Sources of Information About Telecommute – 2007, 2010 .................................................................................. 50 Length of Time Telecommuting......................................................................................................................................................... 51 Formal or Informal Telecommute Arrangements ............................................................................................................................. 51 Telecommute Arrangements – 2004, 2007, 2010........................................................................................................................... 52 Awareness of Regional GRH Program – 2004, 2007, 2010 ........................................................................................................... 54 Weekly Commute Trips by Mode – 2010 .......................................................................................................................................... 56 Weekly Trips by Mode – 2001, 2004, 2007, 2010 .......................................................................................................................... 57 Primary Modes and Modes Used as Primary or Secondary ............................................................................................................. 57 Average Days Modes Used .................................................................................................................................................................. 58 Composition of Alternative Mode Groupings – Modes Used 1+ Days per Week ......................................................................... 58 Duration of Mode Use ......................................................................................................................................................................... 59 Primary Mode by Residence “Ring” .................................................................................................................................................. 61 Primary Mode by Employment “Ring” .............................................................................................................................................. 62 Commute Distance (miles)................................................................................................................................................................. 62 Commute Distance (minutes) ............................................................................................................................................................ 62 Non-Standard Schedule Types Used.................................................................................................................................................. 63 Previous Mode of Current Alternative Mode Users ......................................................................................................................... 65 Alternative Modes Used/Tried in Past Two Years............................................................................................................................ 65 Motivations to Start Using Current Mode or Try Another Alternative Mode ............................................................................... 66 Respondent Age Distribution ............................................................................................................................................................ 67 Annual Household Income................................................................................................................................................................. 67 Household Size .................................................................................................................................................................................... 68 Household Vehicles – Owned or Leased........................................................................................................................................... 68 Household Vehicles – All Respondents by Home Area – Inner Core, Middle Ring, Outer Ring................................................ 68 Home and Work Locations – Inner Core, Middle Ring, and Outer Ring ....................................................................................... 69 Employer Type ..................................................................................................................................................................................... 70
+
+5
+
+
+<!----##SPLITTER##-->
+EXECUTIVE SUMMARY
+
+6
+
+
+<!----##SPLITTER##-->
+The primary purpose of Commuter Connections’ program services is to inform commuters of the availability and benefits of traveling to and from work in a manner other than driving alone.
+
+Executive Summary
+
+MWCOG-Commuter Connections— 2010 State of the Commute Report
+
+In 2010, the Commuter Connections program administered by the National Capital Region Transportation Planning Board (TPB) at the Metropolitan Washington Council of Governments (COG) conducted the regional State of the Commute survey. Commuter Connections is funded by the District Department of Transportation, the Maryland Department of Transportation, and the Virginia Department of Transportation, with state and federal funds. Commuter Connections is a network of organizations that provides a wide range of transportation program information and commute assistance services in the Washington metropolitan region. The primary purpose of the program services is to inform commuters of the availability and benefits of traveling to and from work in a manner other than driving alone. Another purpose is to assist commuters to find alternatives that fit their commute needs. COG/TPB administers regional commuting services called Transportation Emission Reduction Measures (TERMs) with the goal to reduce vehicle trips, vehicle miles of travel, and emissions. COG has been evaluating the effectiveness of its commuter services since 1997. An established evaluation framework that outlines a detailed methodology and data collection activities to evaluate several regional commuter programs has been updated and revised every three years since 2001. One of the major additions to the framework was the State of the Commute (SOC) survey, which was added in 2001. The SOC is a random sample survey of employed persons in the Washington metropolitan region and serves several purposes. First, it documents trends in commuting behavior, such as commute mode shares and distance traveled, and attitudes about specific commuter transportation services available in the region. The SOC survey is also used to help estimate the impacts of some TERMs, such as Commuter Connections’ Telecommute Assistance and Mass Marketing, two TERMs that might influence the population-at-large as well as commuters who directly participate in Commuter Connections’ programs. By asking commuters about sources of information on alternative modes and their reasons for choosing alternative modes for commuting, the survey examines how other commute alternative programs
+
+and marketing efforts might influence commuting behavior in the region. This report summarizes the survey methodology, presents key results of the survey, and offers conclusions about regional commute travel based on the results, and is divided into several sections which highlight survey results. The survey questionnaire can be found in the Appendix section of this report. The SOC survey documents trends in regional commute behavior, awareness, and attitudes. In some instances, the results are compared against past results as measured in past survey reports. The SOC survey also collects data to support the upcoming TERM evaluation, scheduled for spring 2011. Additional analysis of 2010 SOC data, along with other TERM data collected between 2008 and 2011, is underway and will lead to a final TERM Analysis report that will be prepared and distributed in 2011. Key highlights of the data collected from the 2010 SOC data include: n	 Transportation satisfaction and alternative mode benefits n	 Awareness and attitudes toward transportation options, commute advertising, and commute assistance programs n	 Commuter assistance services provided by employers n	 Telecommuting n	 Regional Guaranteed Ride Home Program n	 Commute patterns
+
+EXECUTIVE SUMMARY
+
+ALTERNATIVE MODE BENEFITS AND SATISFACTION WITH TRANSPORTATION SYSTEM Commuters recognize both personal and societal benefits of ridesharing.
+n
+
+	 When asked what personal benefits users of alternative modes receive from using alternative modes, 90% of respondents named at least one benefit and 53% reported two or more personal benefits. 55% of respondents cited saving money or gas as the top benefit, and eleven percent noted a related cost-saving benefit of reducing wear and tear on one’s personal vehicle. Almost two in ten respondents
+
+7
+
+
+<!----##SPLITTER##-->
+Nearly two-thirds (64%) of respondents said that use of alternative modes could benefit society by reducing traffic congestion and 45% said it could reduce pollution or help the environment.
+
+said alternative mode users received a benefit of reducing stress (17%) and using travel time productively (17%). n	 Respondents noted three benefits related to environmental concerns. Fifteen percent said commuters who use alternative modes help the environment, indicating recognition that use of alternative modes has an impact of environmental quality and suggesting that alternative mode users can take pleasure in contributing to cleaner air. Four percent noted reducing greenhouse gases and four percent said saving gas or energy, a benefit related to sustainability. n	 Nearly two-thirds (64%) of respondents said that use of alternative modes could benefit society by reducing traffic congestion and 45% said it could reduce pollution or help the environment. One in ten (11%) cited reduced greenhouse gases and six percent noted that society could benefit because roads did not deteriorate as quickly, presumably reducing the cost to maintain or repair roads. Smaller percentages of respondents noted energy savings, reduced government costs, reducing road rage, and reducing accidents.
+
+n
+
+Inner Core and Middle Ring. 	 Commute satisfaction declined dramatically as commute length increased. More than nine in ten commuters who had very short commutes – 10 minutes or less – gave a 4 or 5 rating for satisfaction. When the commute was 21 to 30 minutes, satisfaction dropped to 71%. Less than half of commuters who traveled 31 to 45 minutes were satisfied and when travel time exceeded 60 minutes, only 30% rated their commute a 4 or 5.
+
+Commuters believe the regional transportation system could be improved.
+	 About four in ten regional commuters gave high ratings for satisfaction with transportation in the region. While about a quarter (27%) said they were not satisfied (rating of 1 or 2). n	 Respondents who drove alone and those who carpooled/ vanpooled gave the lowest ratings for transportation satisfaction; only 35% were satisfied. Respondents who used transit or bike/walk for commuting gave higher satisfaction ratings. n	 Respondents who lived close to transit gave higher marks for transportation satisfaction than did respondents who lived farther away. Almost six in ten respondents who lived within easy walking distance of a train station were satisfied with transportation, compared with only four in ten or less respondents who lived one mile or more from a train station. n	 There was a clear pattern between commute travel time and transportation satisfaction. Satisfaction declined as the length of the commute increased, from a high of 47% satisfaction for those who had a commute of 10 minutes or less, to 29% for respondents who traveled more than an hour to work. n	 When asked how to improve transportation in the region, respondents focused primarily on ways to improve transit service, with particular emphasis on increasing transit availability and safety. Two in ten respondents proposed Metrorail expansions to more destinations and 17% wanted more bus and train service. Eight percent suggested that Metrorail safety be enhanced.
+n
+
+More than half of commuters say they are satisfied with their current commute, but not all commuters are equally satisfied.
+	 Six in ten commuters rated their commute satisfaction as a “4” or “5” on a 5-point scale, where “5” meant “very satisfied.” But 16% rated their satisfaction as either a “1 – not at all satisfied” or “2.” n	 Respondents’ commute satisfaction was influenced by the ease of the commute. Three quarters (76%) of respondents who said they had an easier commute than last year and 71% who said their commute had not changed were satisfied with their commute, compared to only 36% who said their commute had become more difficult. n	 Commute satisfaction also differed by where the respondent lived and worked. Respondents who lived in the Inner Core were notably more satisfied with their commute than were respondents who lived in the Middle Ring or Outer Ring. But respondents who worked in the Outer Ring were more satisfied than were respondents who worked in the
+n
+
+MWCOG-Commuter Connections— 2010 State of the Commute Report
+
+8
+
+Executive Summary
+
+
+<!----##SPLITTER##-->
+AWARENESS AND ATTITUDES TOWARD TRANSPORTATION OPTIONS, COMMUTE ASSISTANCE PROGRAMS, AND COMMUTE ADVERTISING Commutes appear to be getting somewhat more difficult, but commuters are making changes to improve their commutes.
+n
+
+Most respondents reported access to some transit service in their home area.
+	 Respondents were asked to name bus and train companies that provided service in the areas where they lived and worked. Nine in ten said bus and/or train operated in their home area; a similar percentage said service operated in the area where they worked. n	 More than half (54%) of respondents said Metrobus operated near their home and almost six in ten (59%) reported Metrobus in the area where they worked. Similar percentages said that Metrorail/subway operated in their home area (55%) and at work (60%). n	 More than half (53%) of respondents said they lived less than ½ mile from a bus stop and 67% said they lived less than one mile. Train station access was less convenient; only 16% lived less than one mile from a train station. The average distances were 1.4 miles to the nearest bus stop and 6.4 miles to the nearest train station. Respondents who lived in the Inner Core jurisdictions of the District of Columbia, Alexandria, and Arlington said the closest bus stop was an average of 0.3 miles away and a train station was 1.5 miles away on average. Eighty-five percent of commuters in this area lived less than ½ mile from a bus stop.
+n
+
+	 A quarter (25%) of respondents said their commute was more difficult than it was a year ago. The primary reason for it being worse was that the route was more congested now (59%), but 14% said it was more difficult due to construction along the route to work.
+
+n
+
+		About 12% of respondents said their commute was easier than last year. The primary reasons were that the trip was a shorter distance (34%), took less time (29%), or was less congested (26%). Eight percent said the commute was easier because they started using an alternative mode. Eleven percent said it was easier because construction along the route had ended.
+
+Respondents considered commuting factors when making job or home change decisions.
+n
+
+	 About 17% of respondents said they made a job or home change in the past year. Two in ten of these respondents said they considered a commuting factor, such as the ease or cost of commuting to the new location, when making their location decision and nearly three in ten (29%) said commute ease was more important than other factors in the decision.
+
+n
+
+More than half (54%) of the respondents who used the HOV lanes for commuting said availability of an HOV lane influenced their decision to carpool, vanpool, or ride transit for their commute.
+
+Executive Summary
+
+MWCOG-Commuter Connections— 2010 State of the Commute Report
+
+		Three groups of respondents were more likely than were others to cite commute factors as important to their decision: 1) respondents who lived in the Inner Core jurisdictions, 2) respondents who worked in the Middle Ring jurisdictions, and 3) respondents who moved from another location in the Washington region. Presumably, these three groups expected to encounter a more difficult commute with their move or wanted to improve their commute through the move.
+
+Three in ten respondents have access to HOV lanes for their commutes and HOV availability influences mode choice.
+	 Three in ten respondents said there was an HOV lane along their route to work. A quarter (27%) of these commuters said they use the lanes. This equated to about nine percent of commuters region-wide, essentially the same percentages that reported HOV availability and HOV use in 2007. n	 More than half (54%) of the respondents who used HOV lanes for commuting said availability of the lanes influenced their decision to carpool, vanpool, or ride transit for their commute. This is borne out by a comparison of rideshare mode use with and without HOV. The carpool/vanpool mode share was 11% for commuters who had access to an HOV lane for commuting, compared to six percent carpool/vanpool use
+n
+
+9
+
+
+<!----##SPLITTER##-->
+Two-thirds (66%) of respondents said they knew of a telephone number or web site they could use to obtain commute information.
+
+n
+
+for commuters who did not have access to HOV. 	 Respondents who used the HOV lane for commuting estimated that using the lane saved them an average of 23 minutes for each one-way trip. But HOV users who lived in the outer jurisdictions of the region saved an average of 28 minutes one-way. They also were more likely to say the HOV lane had influenced their mode choice. More than half (53%) of Middle Ring respondents (Fairfax, Montgomery, Prince George’s) and 63% of Outer Ring respondents (Calvert, Charles, Frederick, Loudoun, and Prince William) said the HOV lanes influenced their commute mode choice.
+
+Commuters appear interested in HOT lanes and willing to consider ridesharing to use the lanes for a discount.
+	 A quarter (26%) of commuters who don’t currently carpool or vanpool said they would be very likely or somewhat likely to start ridesharing to use a High Occupancy Toll (HOT) lane if they would be able to use the lanes for free or a discounted price. n	 A large share of current ridesharers said they were willing to register their carpools/vanpools to receive a discount on HOT lanes; two-thirds said they were either very likely (39%) or somewhat likely (27%) to register their carpool/vanpool to use the lanes at a discount.
+n
+
+Awareness of commuter information and assistance resources has grown dramatically since 2001.
+	 Two-thirds (66%) of respondents said they knew of a telephone number or web site they could use to obtain commute information. This was higher than the 51% who knew of these resources in 2007 and considerably higher than the 33% of respondents who knew of these resouces in 2001 n	 About 25% of respondents could name a specific number or web site; 12% named a Metro/WMATA phone number or website and three percent mentioned Metro/WMATA, but did not specify the number or website. Almost three percent named a phone number or website administered by Commuter Connections.
+n
+
+MWCOG-Commuter Connections— 2010 State of the Commute Report
+
+Awareness of Commuter Connections has grown since 2007.
+	 In 2010, 64% of all regional commuters said they had heard of an organization in the Washington region called Commuter Connections. This was higher than the 53% who knew of Commuters Connections in 2007 and about the same percentage as knew of the program in 2004 (66%). n	 When asked to name Commuter Connections services, respondents largely cited services that Commuter Connections actually does provide. Six in ten knew the program offered either general rideshare information (30%) or help finding a carpool or vanpool partner (30%). About a quarter (26%) knew that Commuter Connections offered a regional Guaranteed Ride Home program. Nine percent said Commuter Connections offered transit route and schedule information, which can be accessed through links on Commuter Connections’ web site. Awareness of each individual service was higher in 2010 than in 2007.
+n
+
+Most local jurisdiction services are known to at least a quarter of their target populations.
+	 Respondents were asked about local commute assistance services provided in the counties where they lived and worked. Awareness of these programs ranged from 10% to 53% of respondents who were asked the questions. Five of the nine programs examined were known to at least a third of their target area respondents. n Use of the services ranged from two percent to 28% of respondents who had heard of the services. Use was generally higher for programs in outer jurisdictions and for programs associated with transit agencies or with a strong transit component. The relationship to the location in the region is likely because outer jurisdiction commuters encounter more congestion in their
+n
+
+10
+
+Executive Summary
+
+
+<!----##SPLITTER##-->
+travel and have longer commute times and distances, which would encourage them to seek options for travel to work. The transit connection might be due to higher visibility of the services, but 65% of respondents who contacted a local program said they were seeking transit information. In the inner jurisdictions, transit assistance is provided by transit organizations that are separate from the local commute assistance program.
+
+Awareness of commute information advertising remained high.
+	 Nearly six in ten (58%) respondents said they had seen, heard, or read advertising for commuting in the six months prior to the survey and 70% of these respondents could cite a specific advertising message. Both the general recall and specific message recall were higher than was observed in the 2007 survey (52% general recall and 65% message recall). n	 More than four in ten respondents who had heard ads could name the sponsor. WMATA was named by 20% as the advertising sponsor. Commuter Connections was named by 13%, a slightly higher percentage than named Commuter Connections in 2007 (9%).
+n
+
+respondents who were between 45 and 54 years old. 	 About 19% of respondents who said they were likely to consider ridesharing or public transportation for commuting had taken some action to try to change their commute. These respondents cormprised about two percent of all regional commuters. A large majority (83%) of respondents who took an action to change their commute said the advertising they saw or heard encouraged the action. n	 Most of these respondents sought more information about commuting options but five percent tried or started using a bus, train, or bicycling or walking to work. Prior to starting these new modes, half of the respondents had been driving alone to work. The other half had been using a different alternative mode.
+n
+
+COMMUTER ASSISTANCE SERVICES PROVIDED BY EMPLOYERS Availability of worksite commute assistance services is higher than in 2007.
+	 Six in ten (61%) respondents said their employers offered one or more alternative mode incentives or support services to employees at their worksites. This is slightly higher than 54% noted in the 2007 and the 53% reported in 2004. n	 The most commonly offered services were transit/vanpool subsidies (45% of respondents), commute information (26%), services for bikers and walkers (24%) and preferential parking (21%). In all cases, these services were more available in 2010 than they had been in 2007. n	 Respondents who worked for federal agencies were most likely to have incentive/support services available (89%), compared with 46-64% of respondents who worked for other types of employers. Respondents who worked for large firms reported greater access to incentive/support services than did respondents who worked for small firms. And incentives and support services were far more common among respondents who worked in the Inner Core jurisictions (Alexandria, Arlington, and District of Columbia); 74% of these respondents had access to services compared to 53% of
+n
+
+Commute advertising appears to influence commuters’ consideration of travel options.
+	 Almost a quarter (24%) of respondents who had seen advertising said they were more likely to consider ridesharing or public transportation after seeing or hearing the advertising. This was higher than the 18% who noted this willingness in 2007. n	 Respondents who were using alternative modes were more likely to be influenced by the advertising. Almost half of bus riders, 25% of Metrorail riders, and 30% of carpooolers/ vanpoolers said they were likely to consider alternative modes after hearing the ads, compared with 21% of commuters who drove alone. n	 The advertising appeared to have more impact on younger respondents. A third of respondents who were between 25 and 34 years old said they were likely to consider ridesharing compared with only about two in ten
+n
+
+Almost a quarter (24%) of respondents who had seen advertising said they were more likely to consider ridesharing or public transportation after seeing or hearing the advertising.
+
+Executive Summary
+
+11
+
+MWCOG-Commuter Connections— 2010 State of the Commute Report
+
+
+<!----##SPLITTER##-->
+n
+
+those in the Middle Ring (Fairfax, Montgomery, and Prince George’s Counties) and 40% of those in jurisdictions outside these areas. 	 Transit/vanpool subsidies and commute information were the most widely used commuter assistance services, used, respectively, by 54% and 33% of respondents who had access to these incentives.
+
+Most commuters continue to have free worksite parking.
+	 The majority of respondents (63%) said their employers offered free on-site or off-site parking, about the same percentage as that resported in 2007 (65%), 2004 (66%), and 2001 (65%). n	 Respondents who worked for federal agencies and those who worked for non-profit organizations were least likely to have free parking; only half of these respondents said they had free parking, compared with 71% who worked for private firms and 77% who worked for state/local governments. Free parking was also much less common in the Inner Core area of the region. Only a third of respondents who worked in these areas had free parking, compared with nearly nine in ten respondents who worked in the Middle Ring and Outer Ring.
+n
+
+Worksite commuter assistance services appear to encourage use of alternative modes.
+	 Driving alone was less common for respondents who had access to incentive/support services. Only 57% of respondents with these services drove alone to work, compared with 80% of respondents whose employers did not provide these services. n	 Respondents whose employers did not offer free parking also used alternative modes at much higher rates. Only four in ten (41%) respondents who did not have free parking drove alone, compared with 82% of respondents who did have free parking.
+n
+
+TELECOMMUTING The percentage of workers who telecommute continued to grow between 2007 and 2010, reaching a milestone of one-quarter of the regional commuting population. Even with this growth, potential exists for additional telecommuting.
+n
+
+The percentage
+
+	 A quarter (25%) of regional commuters said they of regional telecommuted at least occasionally. “Commuters” telecommuting are defined as workers who were not self-employed has more than and would otherwise travel to a worksite outside their homes if not telecommuting. doubled since n	 The percentage of regional telecommuting has more 2001. than doubled since 2001 and grew in nearly every demographic and occupational segment in which telecommuting is feasible. n	 The 2010 survey showed that an additional 21% of commuters do not telecommute today but “could and would” telecommute if given the opportunity. These respondents said their job responsibilities would allow them to, and they would like to telecommute. n	 Telecommuting continues to be concentrated in certain demographic and employment groups, but the percentage of all regional commuters who said their jobs were incompatible with telecommuting dropped, from 65% in 2004 to 45% in 2010. Because it seems unlikely that the composition of jobs changed substantially in the region, these results suggest a shift in commuters’ perception of their ability to perform work away from their primary work location. This could be related to increasing availability of communication and computer technology or perhaps from a broader definition of what responsibilities are “telecommute-compatible.”
+
+MWCOG-Commuter Connections— 2010 State of the Commute Report
+
+The percentage of telecommuters who work under “formal” telecommute arrangements equals the percentage who telecommute under informal arrangements with supervisors.
+	 About 29% of all respondents (both telecommuters and non-telecommuters) said their employer had a formal telecommute program and 25% said telecommuting is permitted under informal arrangements between a supervisor and employee. Formal programs were most common at federal agencies and among respondents who worked for employers with more than 1,000 employees. n	 Among current telecommuters, 50% telecommute under a formal arrangement. This represents a shift from 2007, when only 39% of telecommuters had a formal agreement and an even greater shift from 2004, when formal programs comprised only 32% of all
+n
+
+12
+
+Executive Summary
+
+
+<!----##SPLITTER##-->
+telecommuting. This appears to signal a greater acceptance of formal telecommuting.
+
+Telecommuters get information on telecommuting from a variety of sources.
+n	The
+
+largest source of telecommute information, by far, was “special program at work/employer,” named by 71% of respondents. This percentage was considerably higher than in the 2007 survey, in which only 55% of telecommuters cited their employer as the source of information and higher still compared with the 34% who gave this answer in 2004. n	Six percent of telecommuters said they received telecommute information directly from Commuter Connections or MWCOG. This was about the same percentage that mentioned Commuter Connections/MWCOG in each of the previous three SOC surveys: 2007 (7%), 2004 (5%), and 2001 (4%).
+
+The most popular alternative mode was train, which was used by about 15% of respondents as their primary mode.
+
+COMMUTE PATTERNS The share of commute trips made by driving alone has fallen since 2004 and train use has risen.
+	 Drive alone continued to be the most popular commute mode in the Washington metropolitan region but the share of weekly commute trips made to worksites outside the home (excluding telecommuting) declined from 71% in 2001 to 64% in 2010. This represents a drop of seven percentage points over the nine year period. n	 Weekly trips made by transit modes increased from 2001 to 2010. Train use increased from 12.4% in 2001 to 14.5% and bus use grew from 4.6% to 5.7%. The shares of weekly commute trips made by carpool/vanpool remained essentially constant. n	 Three in ten (30%) regional commuters used an alternative mode (carpool, vanpool, bus, Metrorail, commuter rail, bicycle, or walk) as their primary mode, that is, the mode they used most days in a typical week. An additional four percent of commuters used an alternative mode one or two days per week, resulting in more than a third of all regional commuters using a non-drive alone mode at least once per week. n	 The most popular alternative mode was train, which was used by about 15% of respondents as their primary mode. An additional one percent of commuters said they used the train one or two days per week. n	 Bus was the primary commute mode for about six percent of respondents. An additional one percent occasionally rode the bus to work. n	 Carpooling/vanpooling was used by about seven percent of commuters most days during the week and one percent used these modes one or two days per week. The majority of carpoolers used a “traditional” form of carpooling, with the same partner(s) all the time. About one in ten carpoolers/vanpool trips was made by “casual” carpooling (slug).
+n
+
+Regional commuters continue to try new alternative modes.
+MWCOG-Commuter Connections— 2010 State of the Commute Report
+
+	 Almost a quarter (23%) of respondents had used or tried an alternative mode, other than one they were currently using, within the two years prior to the survey. This represented an increase over the 14% of respondents who said in the 2007 survey that they tried another mode and about the same percentage as reported trial use of alternative modes in the 2004 (22%) and 2001 (24%) SOC surveys. n	 Transit was the mode mentioned most often; 13% of all regional commuters had used or tried the train in the past two years and seven percent tried or used a bus. Four percent tried or used bicycle or walk for commuting. n	 More than half (53%) of the respondents who made a switch to an alternative mode in the past three years switched from driving alone. The other 47% switched from another, different alternative mode. These “retention” switches are important to maintain the congestion mitigation and environmental benefits of past alternative mode shifts.
+n
+
+A sizeable portion of commuters who use alternative modes drive alone part of the trip.
+n
+
+	 Nearly three in ten (28%) respondents who used an alternative mode said they drove alone to the alternative mode meeting spot (park & ride lot, train station, carpool driver’s home, etc.) and left their cars at those places. Respondents traveled an average of 2.6 miles to these meeting points. A third (35%) of respondents walked to the meeting point and the remaining respondents who used an alternative mode either took transit, or were dropped off by a carpool partner or picked up at home.
+
+Commute lengths remained the same as in 2004.
+n
+
+Respondents traveled an average of 16.3 miles and 36 minutes in 2010, essentially the same as in 2007 (16.3 miles, 35 minutes) and 2004 (16.2 miles, 34 minutes).
+
+Executive Summary
+
+13
+
+
+<!----##SPLITTER##-->
+SURVEY AND SAMPLING METHODOLOGY
+
+14
+
+
+<!----##SPLITTER##-->
+OVERVIEW
+The geographic scope of COG/TPB’s responsibility encompasses the 11 independent cities and counties that make up the Washington metropolitan region. All households within this geographic area that had at least one employed person residing in the household were eligible for selection in the 2010 study. A minimum of 600 random telephone surveys were conducted in each of the 11 jurisdictions of the study area, resulting in 6,629 completed interviews. The primary purpose of conducting this survey was to meet multiple objectives, including trend analysis and TERM evaluation. Wherever possible, an attempt was made to replicate questions used in previous transportation demand management studies to allow for trend analysis. Additionally, the SOC Survey included survey modules specific to four TERMs: Maryland and Virginia Telework, Guaranteed Ride Home, Employer Outreach, and Mass Marketing.
+
+finalized with the study team and translated into Spanish. The survey instrument was designed for telephone administration using Computer Assisted Telephone Interviewing (CATI). A copy of the English questionnaire is included in the Appendix section of this report.
+
+SURVEY AND SAMPLING METHODOLOGY
+
+Survey Administration
+The telephone survey was conducted in CIC’s telephone survey facility. Interviews were conducted using the Voxco CATI system. The Voxco system is an integrated survey system encompassing both CATI and Web applications which simplifies survey management while boosting interviewer performance. Before beginning the full survey effort, CIC conducted an interviewer-training session. Items included in the session were: n	 Explanation of the purpose of the study n	 Identification of the group to be sampled n	 Overview of COG and its function n	 Review of the definition and instruction sheet to familiarize interviewers with the terminology n	 Verbatim reading of the questionnaire n	 Paper/CATI review of skip-patterns to familiarize interviewers with questionnaire flow n	 Practice session on CATI systems in full operational mode Interviews were conducted between January 22 and April 30, 2010. A survey pretest was conducted on January 22 and 23 tested the changes to the questionnaire and sample administration. Following the successful pretest, interviewing continued on January 28, 2010. All calls were made to the respondents’ home numbers. Weekday calls were made from 5:30 pm to 8:30 pm local time and weekend calls from 10:00 am to 6:30 pm local time. CIC interviewers conducted a minimum of five callback attempts at different times and over different days throughout the data collection period. CIC adopted measures to assure confidentiality of responses. Bilingual interviewers surveyed all Spanish-speaking respondents using the Spanish version of the questionnaire. A total of 74 interviews (1.1%) were completed in Spanish. All interviewing was conducted with survey supervisors present. The survey supervisors were responsible for overseeing
+
+Questionnaire Design
+The 2010 SOC questionnaire was based on the questionnaire used in 2007, with modifications and additions as needed. LDA Consulting, CIC Research, and COG/TPB staff modified the survey questionnaire, with input from a TDM Evaluation Group comprised of representatives from the District of Columbia, Maryland, and Virginia. The survey was intended to meet multiple objectives, including trend analysis and evaluation of two of the TERMs: Telecommuting and Mass Marketing. Wherever possible, the study team retained the 2007 SOC questions to allow trend analysis, but changes were made when the revisions were expected to add substantially to the accuracy of the data. Minor changes were made to the 2007 questionnaire to enhance respondents’ understanding of the question and several questions were deleted to shorten the survey. Several new questions were added to examine significant new transportation topics, including quality of life and satisfaction with the regional transportation system. Before the full survey was conducted, CIC completed a pretest of the questionnaire. The pretest was conducted on January 22 and 23, 2010 resulting in 128 completed interviews. Using the responses to these interviews, the questionnaire was
+
+The primary purpose of conducting this survey was to meet multiple objectives, including trend analysis and program evaluation.
+
+Survey and Sampling Methodology
+
+15
+
+MWCOG-Commuter Connections— 2010 State of the Commute Report
+
+
+<!----##SPLITTER##-->
+A minimum of 600 interviews were completed in each of the 11 jurisdictions, resulting in a total sample size of 6,629 completed surveys.
+
+the CATI server, checking quotas, editing call-back appointment times, monitoring interviews, answering questions, and reviewing completed surveys. To insure quality control, the survey supervisors monitored a minimum of 10% of each surveyor’s interviews. Other quality assurance logical checks were applied as the survey data was collected. A minimum of 600 interviews were completed in each of the 11 jurisdictions, resulting in a total sample size of 6,629 completed surveys.
+
+Frederick County
+
+Washington Metropolitan Federally Designated Non-Attainment Region
+
+Virginia Maryland Loudoun County Montgomery County
+
+Fairfax County
+
+Washington, Arlington DC County City of Alexandria
+
+Inner Core*
+Prince George’s County
+
+Middle Ring*
+Calvert County
+
+Survey Data Expansion
+
+Prince William County
+
+Outer Ring* Charles Survey responses were expanded County numerically to align the sampled survey results with published employment information for the study area. A two-part *Lines showing ring areas are an approximation of the geographical areas within each ring. process was implemented to ensure that the survey results were representative of the region and of each of the 11 study areas. First, data from the Bureau of Labor Geographic Sub-Areas – Inner Core, Middle Ring, Outer Ring Statistics’ (BLS) Local Area Unemployment Statistics (LAUS) were utilized to estimate the number of workers for each of the 11 sampled jurisdictions. This employment information was used to compute jurisdiction-level expansion factors, which were applied to the survey results to determine their proportion for regional analysis. Second, survey results were adjusted to align the sample for ethnicity: Black, Hispanic, White and Other groups. Weighting factors were calculated from ethnicity distributions published in the U.S. Census Bureau’s American Community Survey (ACS). This is an on-going survey which surveys populations throughout the United States and thus includes the 11 study areas.
+
+MWCOG-Commuter Connections— 2010 State of the Commute Report
+
+GEOGRAPHIC ANALYSIS
+The SOC analysis focused primarily on the region as a whole. However, for some questions, the analysis examined results for individual jurisdictions or other geographic sub-areas of the region. The primary sub-area categorization divided the region into three categories roughly representing concentric rings around the central core (Figure 1). The Inner Core area included the City of Alexandria, Arlington County, and the District of Columbia. The Middle Ring, surrounding the core, included Fairfax, Montgomery, and Prince George’s counties. The Outer Ring included Calvert, Charles, Frederick, Loudoun, and Prince William counties.
+
+16
+
+Survey and Sampling Methodology
+
+
+<!----##SPLITTER##-->
+SURVEY RESULTS
+
+The key findings of the survey are in this section of the report. The 6,629 completed surveys were weighted to represent the number of employed residents of the metropolitan region and to correct for under-representation of some racial/ethnic groups in the sample. This expansion methodology allows the proper representation of employed residents in each of the 11 jurisdictions in the survey area. Survey result percentages shown in the tables and figures are weighted to the total working population, and in some cases also show the raw number of respondents (e.g., n=__) who answered the question. Some results are basesd on smaller samples of respondents because some questions did not apply to the total sample of 6,629. Survey results are compared for sub-groups of respondents where relevant. Survey results also are compared with corresponding data from the 2007, 2004, and 2001 SOC surveys, where the
+
+comparison is notable. A section comparing key results from the four SOC surveys is also in this report. The results presented include the following: n Transportation satisfaction n Availability of and attitudes toward transportation options n Awareness of commute advertising and services n Awareness of use of commuter assistance resources n Employer-based commuter assistance services n Telecommuting n Guaranteed Ride Home n Commute patterns n Characteristics of the sample
+
+17
+
+
+<!----##SPLITTER##-->
+TRANSPORTATION SATISFACTION
+A series of questions were added to the 2010 SOC survey to explore commuters’ impressions of the role transportation plays in creating a livable region. These questions focused on: n Quality of life n Satisfaction with transportation and desired improvements n Benefits of ridesharing
+
+Figure 2 - Ratings for Transportation Satisfaction Rating of 4 or 5
+5–Very Satisfied 4 3 2 1–Not at all satisfied 9% 18% 11% 27% 35%
+
+38%
+
+QUALITY OF LIFE
+The survey asked respondents to rate quality of life in the Washington region, using a five-point scale in which 1 meant “poor” and 5 meant “excellent.” Two-thirds (66%) of respondents gave a high rating for quality of life in the Washington region (rating of 4 or 5 on a 5-point scale). Only nine percent gave a low rating (1 or 2).
+
+TRANSPORTATION SATISFACTION
+Figure 1 - Ratings for Quality of Life
+5–Excellent 4 3 2 1–Poor 6% 3% 25% 21% 45%
+
+66%
+
+Commuters gave lower ratings for their satisfaction with transportation in the region (Figure 2). Only 38% said they were satisfied (rating of 4 or 5 on a 5-point scale) and more than a quarter (27%) said they were not satisfied (rating of 1 or 2)
+
+Satisfaction by Home Location – Respondents who lived in the Inner Core gave somewhat higher ratings for both quality of life and transportation, as shown in Figure 3, than did respondents in either the Middle Ring or Outer Ring. Three quarters of Inner Core respondents rated quality of life a 4 or 5, compared with 65% of Middle Ring respondents and 61% of Outer Ring respondents. About half of Inner Core respondents gave high marks to transportation satisfaction, while only 38% of Middle Ring respondents and 29% of Outer Ring respondents rated transportation satisfaction as high.
+
+Two-thirds (66%) of respondents gave a high rating for quality of life in the Washington region (rating of 4 or 5 on a 5-point scale).
+
+MWCOG-Commuter Connections— 2010 State of the Commute Report
+
+Figure 3 Ratings for Quality of Life and Transportation Rating of 4 or 5
+By Home Location 74%
+
+65%
+
+61% 49% 38% 29%
+
+Quality of life rating of 4 or 5
+Inner Core
+
+Transportation satisfaction rating of 4 or 5
+Middle Ring Outer Ring
+
+18
+
+Survey Results
+
+
+<!----##SPLITTER##-->
+Satisfaction by Commute Mode
+Respondents who drove alone and those who carpooled/vanpooled gave the lowest ratings for transportation satisfaction; only 35% were satisfied (Figure 4). Respondents who used transit or bike/walk for commuting gave higher satisfaction ratings. One common trait of these other modes is that the commuters do not need to drive, so they can avoid congestion.
+
+Figure 4 Ratings for Transportation Satisfaction–Rating of 4 or 5
+By Primary Commute Mode
+
+52% 35% 35%
+
+46%
+
+44%
+
+49%
+
+al on e
+
+ro ra il
+
+rp oo l/V an
+
+rr ai l
+
+Figure 5 Ratings for Transportation Satisfaction–Rating of 4 or 5
+By Commute Travel Time (minutes)
+
+Ca
+
+47%
+
+44%
+
+40%
+
+37%
+
+31%
+
+29%
+
+1-10 min
+
+11-20 min
+
+21-30 min
+
+31-45 min
+
+46-60 min
+
+60+ min
+
+Satisfaction by Travel Time – There was a clear pattern between commute travel time and transportation satisfaction. Satisfaction declined as the length of the commute increased, from a high of 47% satisfaction for respondents who had very short commutes of 10 minutes or less, to 29% for respondents who traveled more than an hour to work.
+
+Satisfaction by Proximity to Transit – A pattern emerged also between satisfaction with transportation and the respondent’s proximity to bus and train stops. Respondents who lived close to transit gave higher marks for transportation satisfaction than did respondents who lived farther away. The pattern was particularly striking for distance to train. Almost six in ten respondents who lived within easy walking distance of a train station were satisfied with transportation, compared with only four in ten or less respondents who lived one mile or more from a train station.
+
+Co m mu te
+
+Dr
+
+Bi ke /
+
+iv e
+
+Me t
+
+Wa lk
+
+po ol
+
+Bu s
+
+Figure 6 Ratings for Transportation Satisfaction–Rating of 4 or 5
+By Distance from Home to Bus Stop and Distance from Home to Rail Station (miles) 58% 44% 34% 34% 29% 27% 27% 47% 40% 36% 33%
+
+28%
+
+Home to bus distance
+Less than 0.5 mi 0.5–0.9 mi 1.0–2.9 mi 3.0–4.9 mi
+
+Home to train distance
+5.0–9.9 mi 10.0 mi or more
+
+Survey Results
+
+19
+
+MWCOG-Commuter Connections— 2010 State of the Commute Report
+
+
+<!----##SPLITTER##-->
+Figure 7
+
+Suggestions to Improve Transportation – The survey interview gave
+respondents an opportunity to provide suggestions for how they thought the transportation system could be improved. The question was open-ended, so respondents were free to make any recommendation and to offer multiple ideas. About two in ten respondents said they did not think any improvements were needed and another 10% said they didn’t have any suggestions. Figure 7 presents the ideas proposed by the remaining respondents. A large share of the recommendations focused on ways to improve transit service in the region, with particular emphasis on increasing transit availability and safety. Two in ten respondents proposed Metrorail expansions to more destinations and 17% wanted more bus and train service. Eight percent suggested that Metrorail safety be enhanced. Some respondents noted other types of improvements, such as better regional management/planning of transportation facilities, more funding, and reducing traffic congestion. About four percent volunteered that the region should build more roads or repair existing roads.
+
+Recommendations to Improve Regional Transportation
+
+Transit Recommendations
+Expand Metrorail to more locations More bus/train service Improve Metrorail safety Upgrade/maintain equipment Reduce transit fares Improve bus safety Improve employee training Improve on-time performance
+
+19% 17% 8% 4% 4% 3% 3% 3%
+
+Other Recommendations
+Better management/planning More funding Reduce traffic/congestion More roads Roads need repair Wilden lanes, overpasses, bridges More bicycle lanes/paths
+
+6% 4% 4% 4% 4% 3% 2%
+
+Figure 8
+Personal Benefits of Alternative Mode/Use Save money/save gas Avoid stress
+MWCOG-Commuter Connections— 2010 State of the Commute Report
+
+BENEFITS OF RIDESHARING
+55% 17% 17% 15%
+
+Use time productively Help environment Reduce wear & tear on car Have companionship No need for a car Arrive on time Use HOV lane Reduce greenhouse gas Less traffic, avoid traffic Save gas, energy
+
+11% 10% 6% 5% 5% 4% 4% 4%
+
+Questions were added to the 2010 SOC survey to assess commuters’ opinions about the benefits generated by use of alternative modes and the importance of future investment in alternative transportation. Respondents were asked about the following: 	 n What personal benefits do people who use alternative modes receive from using these types of transportation? 	 n What impacts or benefits does a community or region receive when people use alternative modes?
+
+Personal Benefits of Alternative Mode Use
+When asked what personal benefits users of alternative modes receive from using those modes, 90% named at least one benefit and 53% reported two or more personal benefits. Figure 8 details the responses to this question. Saving money or gas topped the list of personal benefits, cited by 55% of respondents. No other benefit came close in the percentage of responses. Eleven percent noted a related cost-saving benefit of reducing wear and tear on one’s personal vehicle. Almost two in ten
+
+20
+
+Survey Results
+
+
+<!----##SPLITTER##-->
+Figure 9
+Regional/Community Benefits of Alternative Mode/Use Less traffic, less congestion Reduce pollution Reduce greenhouse gasses Less wear & tear on roads Save energy Safety/less road rage Reduce government costs 11% 6% 5% 4% 4% 45% 64%
+
+respondents said alternative mode users received a benefit of reducing stress (17%) and using travel time productively (17%). One in ten noted that alternative modes offer companionship on the commute. Respondents noted three benefits related to environmental concerns. Fifteen percent said commuters who use alternative modes help the environment, indicating awareness that use of alternative modes has an impact of environmental quality and suggesting that alternative mode users can take pleasure in contributing to cleaner air. Four percent noted reducing greenhouse gases and four percent said saving gas or energy, a benefit related to sustainability.
+
+Societal Benefits of Alternative Mode Use
+
+When asked what benefits a region or community receives from use of alternative modes, 85% of responReduce accidents 3% dents named at least one benefit. Figure 9 displays these responses. 3% Save money Nearly two-thirds (64%) of respondents said that use of alternative modes could reduce traffic congestion and 45% said it could reduce pollution or help the environment. One in ten (11%) cited reduced greenhouse gases and six percent noted that society could benefit because roads did not deteriorate as quickly, presumably reducing the cost to maintain or repair roads. Smaller percentages of respondents noted energy savings, reduced government costs, reducing road rage, and reducing accidents.
+
+EASE OF COMMUTE AND COMMUTE SATISFACTION Ease of Commute Compared to Last Year
+Respondents who did not telecommute or work at home all the time were asked if their commute time was easier, more difficult, or about the same as it was a year prior. As seen in Figure 10, the majority of respondents (62%) said their commute was about the same as a year ago. A quarter (25%) said their commute was more difficult and 12% said their commute was easier. One percent of respondents said they were not commuting in the Washington region a year ago, so a comparison was not provided. Respondents who said their commute had changed were asked in what way it was easier or more difficult. The top section of Figure 11 presents reasons that respondents’ commutes had worsened. The bottom section of the Figure shows the reasons that respondents’ commutes had improved.
+
+Figure 10
+Commute Easier, More Difficult, or About the Same as Last Year
+
+N/A 1%
+
+About the same 62%
+
+More difficult 25%
+
+More Difficult Commute – Six in ten respondents who said
+their commute was more difficult said their route had become more congested. About two in ten respondents said the trip took more time and 14% said new construction along the route made the trip more difficult. About one in ten said the distance was longer (11%) or that the trains/buses were more crowded (8%).
+
+Easier Commute – The most common reason for an easier commute was that it was shorter, cited by 34% of the respondents. This is likely due to a change in either a work location or home location. About three in ten respondents said the trip was faster (29%) and 26% said the route they used was less congested or that the road had been improved. One in ten respondents (11%) said the commute was easier because construction along the route had ended. A similar share of respondents attributed their easier commute to a change they had made in their travel mode: started using bus/train (5%), started driving to work (4%), or started carpooling/ vanpooling to work (3%).
+
+Survey Results
+
+21
+
+MWCOG-Commuter Connections— 2010 State of the Commute Report
+
+Easier 12%
+
+
+<!----##SPLITTER##-->
+Influence of Changes in Residence or Work Location
+Because it was expected that a commute might have become easier or more difficult because the origin and/or destination of the commute changed, all respondents were asked if they had made a change in their work location and/or home location in the past year. Table 1 displays results of commute ease for respondents who did and did not make a move. About 17% made a change and 83% made no change. Three-quarters (76%) said they moved within the Washington metropolitan region. The other 24% moved from a location outside the Washington area. Because those who moved from outside the region could not provide a before-the-move comparison, they were excluded from the base for Table 1. The percentages shown in the table suggest the ease or difficulty of the commute appears to have been related to moves for at least some of the respondents. The majority (67%) of respondents who did not move said their commutes were about the same. Nine percent said their commute had improved and about a quarter (24%) said it had gotten more difficult. About a third (33%) of respondents who moved said they had a more difficult commute. But almost as large a share (29%) said
+
+Figure 11 Reasons Commute is More Difficult or Easier (multiple responses permitted) Reason Commute is More Difficult
+Route is more congested Trip is slower, takes more time Construction on route to work Longer distance Trains/buses more crowded Gas prices are higher More stressful
+
+59% 19% 14% 11% 8% 4% 3%
+
+Reason Commute is Easier
+Shorter distance Trip is faster, takes less time Route is less congested, road improvements Construction on route has ended Started using bus/train Started driving to work Less stressful New transit vehicles/improved service Started carpool/vanpool to work Gas prices are lower
+
+34% 29% 26% 11% 5% 4% 4% 4% 3% 2%
+
+Table 1 Commute Compared to Last Year by Made a Change in Home or Work Location
+Changed Home or Work Location No change Yes Type of change made Changed home Changed work Changed home and work Easier 9% 29% 25% 32% 32% More Difficult About the Same 24% 67% 33% 38% 34% 34% 34% 41% 34% 34%
+MWCOG-Commuter Connections— 2010 State of the Commute Report
+
+their commute had improved. This percentage was much higher than the percentage of respondents who had an easier commute without a move. This suggests that the move might have played a role in either improving or worsening a commute, but that the move improved the commute as often as it worsened it. The table also shows a breakdown of change in commute conditions by the type of move made: home only, work only, or both home and work. The differences between responses for these groups are small and within the statistical margin of error.
+
+About a third (33%) of respondents who moved said they had a more difficult commute.
+
+Commuting as a Factor in Location Change Decisions – Anecdotal reports have suggested that some
+commuters might move their residences and/or seek new jobs at least in part because they wanted to make their commute easier or less costly. Several questions were included in the SOC survey in 2007 to examine if commute factors had an influence on regional residents’ home or work location decisions. Respondents who said they had made a change were asked what factors they considered in making the change and how important to their decision the ease of the trip to work was compared to other factors
+
+22
+
+Survey Results
+
+
+<!----##SPLITTER##-->
+Survey Results
+
+23
+
+MWCOG-Commuter Connections— 2010 State of the Commute Report
+
+Figure 12 they considered. Figure 12 displays the decision Factors Considered in Home or Work Location Changes factors respondents mentioned. Respondents who Made a Change in Work or Residence Location About two in ten respondents cited a commute-related factor as one factor that they Commute Factors considered in the moving decision. Length or Length or ease of commute 15% ease of commute was cited by 15%; smaller Commuting options available percentages said the cost of commuting or the 3% range of commuting options available at the new Cost of commute 2% location had been a factor. Residential Factors The job factor of career advancement was 7% noted by 17% of respondents as a factor in the Cost of living decision; job transfers (11%), job satisfaction 6% Size of house (10%), and income/salary (10%) each were 6% Cost of house named by at about one in ten respondents. About a third named a residential factor, such 5% Quality of neighborhood as the cost of living (7%), size of the house 4% Closeness to family/friends (6%), cost of the house (6%), and quality of the neighborhood (5%) as factors they considered. 4% Quality of schools/stay in school system Three groups of respondents were more likely 2% Bought new house than were others to cite commute factors as important to their decision, presumably, because Job/Career Factors they expected to encounter a more difficult com17% Career advancement mute with their move or because they wanted to 11% Job transfer improve their commute with the move: n Respondents who lived in the Inner Core – 10% Job satisfaction 24% of respondents who lived in the Inner 10% Income, salary Core noted commute factors compared with 16% of Middle Ring and 17% of Outer Ring 7% Job opportunities for spouse/self respondents Laid off, no job, job ended 5% n Respondents who worked in the Middle Ring – 22% named commute factors compared with Job requirement, no choice 2% 15% of Inner Core and 15% of Outer Ring workers. n Respondents who moved from another location in the Washington region – 20% of respondents who moved within the region named commute factors compared with 12% for respondents who moved from outside the region Respondents who had made a move were asked how Table 2 important commuting factors had been in their decision, Importance of Commute Ease Relative to relative to the other factors they considered. Table 2 shows Other Factors Considered in Home that three in ten (29%) said the commute factors were or Work Location Changes more important than others, four in ten (38%) said they Respondents who Made a Change in Work or were about equally important, and a third said commuting Residence Location factors were less important. Importance of Commute Ease Percentage Finally, respondents who made a residential location More important than other factors 29% change were asked if their employers had offered any About the same importance as other factors 38% information about financial incentives that might be availLess important than other factors 33% able if the respondent moved to a home that was closer to the work location or moved closer to a bus stop or transit station. These questions were designed to measure the impact of the “Live Near Your Work” program that Commuter Connections implemented in 2008. This program encourages employers to inform employees of several state and/or federal financial incentives offered to employees who choose a home location that reduces the distance they travel to work or who choose a home location near a transit stop. In 2010, six percent of respondents who had moved their homes had received information from their employers. This was about the same percentage as reported receiving information in 2007 (7%). Four percent said they received information on financial incentives to move closer to transit, again about the same as the five percent who noted this information in the 2007 SOC survey.
+
+
+<!----##SPLITTER##-->
+Commute Satisfaction
+The 2010 survey included a new question that asked commuters to rate how satisfied they were with their trip to work. As shown in Figure 13, 62% rated their commute satisfaction as a “4” or “5” on a 5-point scale, where “5” meant “very satisfied.” Two in ten gave a rating of “3.” Sixteen percent rated their satisfaction as either a “1” – not at all satisfied (7%) or “2” (9%).
+
+Figure 13 - Satisfaction with Commute
+5–Very Satisfied 4 3 2 1–Not at all satisfied 9% 7% 24% 22% 38%
+
+Figure 14 - Satisfaction with Commute – Percent Rating Commute a 4 or 5
+by Ease of Commute Easier commute Commute about the same More difficult commute 29% 25% 21% 15%
+4 -Satisfied
+
+47% 46% 36%
+5 - Very satisfied
+
+76% 71%
+
+Satisfaction by Commute Ease – Respondents’ level of satisfaction with their commute was influenced by the ease of the commute. As illustrated in Figure 14, 76% of respondents who said they had an easier commute than last year and 71% who said their commute had not changed were satisfied with their commute, compared to only 36% who said their commute had become more difficult.
+
+Satisfaction by Home and Work Location
+– Commute satisfaction also differed by where in the region the respondent lived and worked. Figure 15 presents the percentages of commuters in each of the three areas of the region who gave a rating of 4 or 5 for commute satisfaction. Respondents who lived in the Inner Core were notably more satisfied with their commute than were respondents who lived in the Middle Ring or Outer Ring areas. But respondents who worked in the Outer Ring were more satisfied than were respondents who worked in the Inner Core and Middle Ring.
+
+Respondents’ level of satisfaction with their commute was influenced by the ease of the commute... 76% of respondents who said they had an easier commute than last year and 71% who said their commute had not changed were satisfied with their commute.
+
+MWCOG-Commuter Connections— 2010 State of the Commute Report
+
+24
+
+Survey Results
+
+
+<!----##SPLITTER##-->
+Figure 15 - Satisfaction with Commute – Percent Rating Commute a 4 or 5
+by Home and Work Location
+
+Home Location
+Inner Core Middle Ring Outer Ring 27% 24% 22% 36% 36% 46% 60% 58% 73%
+
+Work Location
+Inner Core Middle Ring Outer Ring 27% 22% 23%
+4 -Satisfied 5 - Very satisfied
+
+32% 39% 54%
+
+59% 61% 77%
+
+Figure 16 - Satisfaction with Commute – Percent Rating Commute a 4 or 5
+By Length of Commute in Minutes 10 minutes or less 11-20 minutes 21-30 minutes 31-45 minutes 46-60 minutes More than 60 minutes 11% 23% 34% 24% 28% 19% 11%
+4 -Satisfied
+
+Satisfaction by Commute Travel Time – Commute satisfaction declined dramatically as commute length increased. As shown in Figure 16, 96% of commuters who had very short commutes – 10 minutes or less – gave a 4 or 5 rating for satisfaction. When the commute was between 11 and 20 minutes, 84% were satisfied. At 21 to 30 minutes, satisfaction dropped still further; only 71% gave a 4 or 5 rating. Less than half of commuters who traveled 31 to 45 minutes were satisfied and satisfaction dropped to 44% for travel times of 46 to 60 minutes. When travel time exceeded 60 minutes, only three in ten said they could rate their commute a 4 or 5.
+
+85% 61% 37% 24% 16% 30%
+5 - Very satisfied
+
+96% 84% 71%
+
+48% 44%
+
+Figure 17 - Satisfaction with Commute – Percent Rating Commute a 4 or 5
+By Primary Commute Mode Bike/walk Bus Carpool/vanpool Drive alone Metrorail 16% 34% 28% 22% 34%
+4 -Satisfied
+
+77% 32% 35% 40% 26%
+5 - Very satisfied
+
+93% 66% 63% 62% 60%
+
+Satisfaction by Mode – As evident in Figure 17, more than nine in ten bikers/walkers reported high commute satisfaction. But other respondents were about equally satisfied with their commute, regardless of the mode they primarily used to get to work.
+
+Survey Results
+
+25
+
+MWCOG-Commuter Connections— 2010 State of the Commute Report
+
+(1-10 min n = 735, 11-20 min n = 1,247, 21-30 min n = 1,010, 31-45 min n = 1,282, 46-60 min n = 871, More than 60 min n = 702)
+
+
+<!----##SPLITTER##-->
+AVAILABILITY OF AND ATTITUDES TOWARD TRANSPORTATION OPTIONS
+PUBLIC TRANSPORTATION
+Respondents who worked outside their homes were asked to name any public transportation companies that provided service in the area where they lived and the area where they worked. Respondents also were asked how far their homes were from the nearest bus stop and the nearest train station.
+
+Table 3 Transit Service Operating in Home Area and Work Area
+Transit Service Operating Bus and train Bus only–no train service Train only–no bus service No transit in area/don’t know transit Home Area Percentage 70% 19% 3% 8% 70% 18% 2% 10%
+
+Work Area Percentage
+
+Transit Companies Operating
+
+Table 3 presents the results for the first question. As shown, nine in ten (92%) respondents said that they knew of some public transportation that provided service in their home area. Seven in ten (70%) said they knew of both bus and train service, two in ten (19%) said they knew of bus service but not train, and three percent said they knew of train service but not bus service. The remaining respondents said either that no bus or train companies provided service or that they didn’t know of any service (8%). The percentage who said they knew of transit companies that provided service in their work area was approximately the same as for the home area. Seven in ten (70%) said they knew of both bus and train service, about two in ten (18%) said they knew of bus service only, and two percent said they knew only that train service was provided. One in ten (10%) said that no transit companies operated either bus or rail service in their work area. The specific companies that respondents could Table 4 name are presented in Table 4. Not surprisingly, the Public Transportation Companies that Provide two companies mentioned most frequently for both Service in Home Area and Work Area home and work area were those that operate through(multiple responses permitted) out the region. More than half (54%) noted Metrobus provided service in their home area and six in ten Home Area Work Area Transit Available Percentage Percentage (59%) said Metrobus provided service in the area where Bus Available – Bus Companies they worked. Similar percentages said that Metrorail/ Metrobus 54% 59% subway operated in their home area (55%) and at work (60%). RideOn 13% 9% Two bus companies that provide service in part of Fairfax Connector 8% 7% the region were noted by at least five percent of reTHE BUS 3% 2% spondents. Thirteen percent of respondents said RideOn Loudoun Commuter Bus 4% 3% operated in their home area (Montgomery County, MD) Arlington Transit (ART) 3% 3% and eight percent mentioned Fairfax Connector, which OmniRide 3% 2% serves Fairfax County, VA. These bus companies also Alexandria DASH 3% 2% topped the list of services available in respondents’ PRTC 2% 1% work areas, mentioned by nine percent and seven percent of respondents, respectively. MTA Bus 2% 2% In addition to Metrorail, respondents noted names DC Circulator 1% 2% of three commuter rail companies. MARC, operating Other* 8% 5% several lines in Maryland, and Virginia Railway Express Don’t know name of company 15% 18% (VRE), serving Northern Virginia areas, were cited Train Available – Train Companies by 12% and 11% of respondents, respectively. Eight Metrorail/subway 55% 60% percent of respondents said AMTRAK provided service from their home area. These services also were noted MARC 12% 10% as serving work areas, in percentages similar to those Virginia Railway Express 11% 9% for the home areas. AMTRAK/ACELA 8% 9%
+
+MWCOG-Commuter Connections— 2010 State of the Commute Report
+
+Don’t know name of company
+
+6%
+
+8%
+
+* Each response in the “Other” category mentioned by less than one percent of respondents.
+
+26
+
+
+<!----##SPLITTER##-->
+Distance to Bus Stop and Train Station
+The results presented in Table 4 reflect respondents’ perception of transit availability; they are not an objective measure of transit availability or level of transit access. A respondent who is willing to drive to a bus stop or rail station might consider service that operates within five miles of his home to be “in my home area,” while another respondent who lives within one mile could feel that “no transit operates.” The survey also did not address other factors that might enter into a respondent’s assessment of the practical feasibility of using transit, such as the directness of the trip or the time needed to make the trip. Thus, some respondents might have considered these factors in assessing whether “service was provided” and others might have excluded them from their assessment. To assess a measure of the closeness of transit, all respondents, including those who said no transit operated, were asked the distance from their homes to the nearest bus stop and nearest train station. Figure 18 displays the distribution of access distance. More than half of respondents said they lived less than one-half mile from a bus stop and 67% said they lived less than one mile. Among respondents who could provide a distance to a bus stop, the average distance was 1.4 miles.
+
+Figure 18
+53% Distance from Home to Bus Stop and Train Station
+
+14%
+
+13%
+
+24% 4% 4% 3% 9% 6% 10%
+
+13%
+
+17%
+
+21% 9%
+
+Bus Stop
+0.1-0.4 mi 0.5-0.9 mi 1.0-2.9 mi 3.0-4.9 mi 5.0-9.9 mi
+
+Train Station
+10.0 mi + Don’t know
+
+Availability of and Attitudes Toward Transportation Options
+
+27
+
+MWCOG-Commuter Connections— 2010 State of the Commute Report
+
+Table 5 Train stations were quite a bit farther away for most Mean Distance from Home to Bus Stop and Train Station respondents. Only six percent said they lived less than By Type of Transit Service Operating in Home Area one-half mile from a Metrorail or commuter rail station Bus Stop Train Station and only 16% lived less than one mile. About half (51%) Bus and train provided 0.9 miles 3.8 miles said they lived three or more miles away from the nearest Bus only–no train service provided 1.8 miles 14.5 miles train station. On average, respondents who provided a Train only–no bus service provided 4.9 miles 7.4 miles distance lived 6.4 miles away. No bus or train service/don’t know transit 5.4 miles 13.8 miles Table 5 compares transit access distances for the four “bus available – train available” categories. Again, it is important to emphasize that “service provided” was defined by respondents’ perception. Respondents who said both bus and train service operated in their home area, reported the shortest distance to both bus and train transit access points; they lived 0.9 miles from the nearest bus stop and 3.8 miles from the nearest train station. Respondents who said only bus operated in their home area lived an average of 1.8 miles from a bus stop and 14.5 miles from a train station. Among respondents who reported only access to train, the average bus stop distance was 4.9 miles, greater than in the “bus only” category. But the train station distance of 7.4 miles was much shorter. Respondents were asked to estimate the distance to bus and rail, even if they said neither bus nor rail operated in the area where they lived. As seen in Table 5, respondents who reported no service at all estimated the average bus access distance (5.4 miles) at approximately the More than half of same distance as did respondents who reported access respondents said to “train only” (4.9 miles); that is, no bus access. Similarly, they estimated their train access distance they lived less than (13.8 miles) approximately the same as reported by one-half mile from respondents who said they had “bus only” access a bus stop and 67% (14.5 miles). Because these respondents reported no said they lived less service operating, these distances were clearly beyond the area these respondents classified as their than one mile. “home area.”
+
+
+<!----##SPLITTER##-->
+Transit Service Provided by Home Area
+
+The analysis examined availability Bus and Train Service by Home Area Inner Core Middle Ring Outer Ring of transit services by respondents’ home Transit Operating (n = 1,667) (n = 1,685) (n = 2,837) location within the “ring” designaBus and train 88% 75% 41% tions defined earlier: Inner Core (City of Bus only–no train service 10% 17% 36% Alexandria, Arlington County, and the Train only–no bus service 1% 2% 5% District of Columbia), Middle Ring (Fairfax, No bus or train service/don’t know service 1% 6% 18% Montgomery, and Prince George’s counties), and Outer Ring (Calvert, Charles, Frederick, Loudoun, and Prince William counties). Table 6 presents the percentage of respondents in each area who said bus and/or rail operated in their home area. Both bus and train services were more available in the central part of the region than in the outer jurisdictions. In the Inner Core, 99% of respondents said some transit service operated in their home area and 88% said that both bus and train operated. Within the Middle Ring, three-quarters of respondents said both bus and train operated. Transit availability dropped off markedly in the Outer Ring; 82% of respondents said any service operated and only 41% said they had access to both bus and train. Distance to Transit by Home Area Figure 19 presents the distribution of distance for the three area rings. Eighty-five percent of respondents in the Inner Core reported living less than one-half mile from a bus stop, compared to 56% of respondents in the Middle Ring, and 16% of respondents in the Outer Ring. Only three percent of Inner Core respondents lived one or more miles from a bus stop, compared with 55% of Outer Ring respondents. It is also notable that two in ten Outer Ring respondents said they didn’t know how far they lived from a bus stop.
+
+Table 6
+
+85%
+
+Figure 19
+Distance from Home to Bus Stop by Home Location 56% 34% 16% 19% 9% 8%
+0.5–0.9 mi
+Inner Core
+
+21% 12% 3%
+1.0–2.9 mi
+Middle Ring
+
+21% 0% 6% 3% 7%
+Don’t know
+
+Less than 0.5 mi
+
+3.0 mi or more
+Outer Ring
+
+The average transit access distance was the shortest for respondents who lived in the Inner Core; just 0.3 miles to the nearest bus stop and 1.5 miles to the nearest train station. Respondents in the Middle Ring said they would have to travel 0.9 miles to the nearest bus stop and 4.8 miles to the nearest train station. Respondents who lived in the Outer Ring reported that the nearest bus stop was an average of 4.2 miles away and train was 15.5 miles away.
+
+MWCOG-Commuter Connections— 2010 State of the Commute Report
+
+More than a quarter (27%) of commuters who live less than one-half mile from a bus stop commute primarily by bus or train.
+
+Commute Mode by Distance to Bus Stop – As might be expected, the commute mode share of transit declines with increasing distance from a bus stop. Figure 20 presents the mode shares of driving alone, bus/train, and carpool/vanpool for respondents who live various distances from a bus stop. More than a quarter (27%) of commuters who live less than one-half mile from a bus stop commute primarily by bus or train. As the distance from home to a bus stop increases, the transit share falls steadily. When the nearest bus stop is 10 miles from home, only six percent of respondents commute by transit, a drop of 21 percentage points.
+
+28
+
+Availability of and Attitudes Toward Transportation Options
+
+
+<!----##SPLITTER##-->
+Figure 20
+Commute Mode by Distance from Home to Bus Stop 81% 74% 58% 69% 72% 75%
+
++23%
+
+27% 7%
+Less than 0.5 mi
+
+13%
+
+17% 7% 8%
+1.0–2.9 mi
+Drive alone Bus/Train
+
+14%
+
+10%
+
+11%
+
+8%
+
+6%
+
+9%
+
+-21%
+
+0.5–0.9 mi
+
+3.0-4.9
+Carpool/Vanpool
+
+5.0-9.9
+
+10 mi or more
+
+These commuters shift almost entirely to driving alone. As the figure shows, the drive alone rate for commuters who live more than 10 miles from a bus stop is 81%, compared to 58% for commuters who live within one-half mile of a bus stop. This represents a 23 percentage point increase for driving alone. Use of carpool/vanpool remains fairly constant at all bus access distances.
+
+HIGH OCCUPANCY VEHICLE (HOV) AND HIGH OCCUPANCY TOLL (HOT) LANES
+Availability and Use of HOV Lanes
+
+Figure 21
+
+Travel Time Savings of HOV Users The survey also examined the availability and use of High Occupancy Vehicle (HOV) lanes. Three in ten (30%) of the respon33% 30% dents who commuted one or more days per week said there was 20% 17% a special HOV lane along their route to work. Of these commuters, 27% said they used these lanes. This equated to about nine percent of commuters region-wide. These percentages of HOV avail10 min or less 11-20 min 21-30 min 31 min or more ability and HOV use were essentially the same as reported in 2007. Respondents who regularly used the HOV lane for commuting estimated that using the lane saved them an average of 23 minutes for each one-way trip. As displayed in Figure 21, a third (33%) said they saved 10 minutes or less and three in ten (30%) saved between 11 and 20 minutes. The remaining HOV users were evenly split between savings of 21 to 30 minutes (20%) and saving more than 30 minutes one-way (17%).
+MWCOG-Commuter Connections— 2010 State of the Commute Report
+
+Figure 22
+Availability and Use of HOV Lanes by Home Area 33% 23% 23% 39% 25% 25% 27% 39%
+
+HOV Available
+Region Wide Inner Core Middle Ring
+
+Used HOV
+Outer Ring
+
+HOV Lanes by Home Area – Figure 22 shows availability and use of HOV lanes by respondents’ home location within the three “ring” categories. Commuters who lived in Middle Ring and Outer Ring jurisdictions were more likely to say they have HOV lanes available on their route to work than were commuters who lived in the Inner Core. Commuters who lived in the Outer Ring used HOV lanes at a higher rate than did commuters in other areas. Nearly four in ten (39%) Outer Ring respondents who had access to HOV lanes said they used them, compared to about a quarter of Inner Core and Middle Ring respondents.
+
+Availability of and Attitudes Toward Transportation Options
+
+29
+
+
+<!----##SPLITTER##-->
+Table 7 shows availability and use of HOV Table 7 lanes by respondents’ home county or city. Virginia Availability and Use of HOV Lanes residents had higher HOV availability than did by Residence Jurisdiction Respondents With HOV residents of Maryland or the District of Columbia. Percentage Home Available At least one-third of respondents in each of the Percentage Percentage five Virginia jurisdictions said an HOV lane was (n=___) with HOV lane (n=___)* using HOV available to them and in Prince William County, Virginia Jurisdictions available lane six in ten (60%) respondents reported HOV lanes Prince William County 548 60% 322 45% available. City of Alexandria 533 52% 250 28% By comparison, HOV was available to about Fairfax County 547 49% 260 30% three in ten respondents in only two Maryland Loudoun County 537 42% 220 35% jurisdictions, Frederick County (34%) and Arlington County 527 35% 182 24% Montgomery County (31%). And only one in ten Maryland Jurisdictions respondents from the District of Columbia reported Frederick County 542 34% 177 28% having access to HOV lanes along their route to Montgomery County 522 31% 154 23% work. Prince George’s County 558 13% 73 23% The last column of Table 7 illustrates the use Charles County 550 7% 36 23% of HOV lanes by residence jurisdiction for responCalvert County 559 6% 32 19% dents who said they had HOV lanes available. Two District of Columbia 511 9% 40 21% jurisdictions, Prince William and Loudoun counties, * Respondents in the jurisdiction who have an HOV lane available along their route to work. had considerably higher use of HOV lanes; in these counties, 45% and 35%, respectively, of respondents who had access to HOV used the lanes. In other jurisdictions, HOV use varied from 19% to 30% of respondents using the lanes.
+
+Figure 23
+Primary Commute Mode by Availability of HOV Lanes 71% 63%
+
+22% 11%
+Drive alone
+
+19%
+
+6%
+Transit
+HOV Not Available
+
+Carpool/vanpool
+HOV Available
+
+HOV Lane Influence on Commute Choice – HOV lanes appear to have an impact on choice of commute modes. More than half (54%) of the respondents who used the lanes for commuting said availability of the HOV lane influenced their decision to carpool, vanpool, or ride transit for their commute. The influence on carpooling is best illustrated by the drive alone and carpool/vanpool mode shares when HOV lanes are available and when they are not. As shown in Figure 23, about 11% of respondents who said an HOV lane was available to them were carpooling or vanpooling to work, compared with six percent of respondents who did not have access to HOV. Transit use also was higher for respondents who said an HOV lane was available. Conversely, the drive alone rate for respondents who had access to HOV was 63%, compared to 71% for respondents who could not use HOV.
+Figure 24
+HOV Influence on Choice of Commute Mode and Time Saved by HOV Lane Use By Home Location Average one-way time savings 13 min 22 min 53% 26%
+
+MWCOG-Commuter Connections— 2010 State of the Commute Report
+
+Various HOV studies have suggested that the influence of HOV lanes is due to both the amount of time saved by HOV lanes and the reliability of travel time that HOV lanes afford. Overall, 54% of HOV users said that availability of the lane influenced their decision to choose an alternative mode for commuting. On average, these users saved 23 minutes one-way in their commute time. Figure 24 shows these results. Figure 24 also presents comparison results for the each of the three ring designations. About a quarter of HOV users who lived in the Inner Core reported that HOV availability influenced their mode choice and they saved an average of 13 minutes one-way. HOV lanes’ influence on HOV users who lived in the Middle Ring and Outer Ring was much higher; 53% of Middle Ring respondents and 63% of Outer Ring respondents said the HOV lanes influenced their commute mode choice. They also reported much greater time savings in their commute; 22 minutes and 28 minutes one-way, respectively.
+
+23 min 54%
+
+28 min 63%
+
+All region
+
+Inner Core
+
+Middle Ring
+
+Outer Ring
+
+30
+
+Availability of and Attitudes Toward Transportation Options
+
+
+<!----##SPLITTER##-->
+Interest in HOT Lanes
+
+Figure 25 The 2010 survey included two new questions related to commuters’ Likely to try Carpool/Vanpool interest in High Occupancy Toll (HOT) lanes, which are under construcor to Register Existing Carpool/Vanpool tion or being proposed for several jurisdictions. Respondents were to Receive HOT Lane Discount asked about their interest in carpooling or vanpooling on a toll road 74% that was free or reduced cost for carpools and vanpools. Respondents who were not ridesharing were asked: “Several jurisdictions in the Washington region are building or considering building toll roads. If 39% 34% you could use one of these roads for your trip to work and carpools and 27% vanpools traveled for free or for a reduced toll, how likely would you be 14% 12% to start carpooling or vanpooling to use these roads?” Respondents who were carpooling or vanpooling were asked how likely they would be to register their carpool or vanpool with a regional Try carpool/vanpool Register carpool/vanpool commute organization to be able to receive the discount: “… If you could use one of these roads for your trip to work and carpools and Very likely Somewhat likely Not likely vanpools that registered with a regional commute organization could use these roads for free or for a reduced toll, how likely would you be to register your carpool or vanpool?” Results for both of these questions are presented in Figure 25. About a quarter (26%) of non-ridesharers said they were either very likely (12%) or somewhat likely (14%) to start ridesharing to use the lanes. Current ridesharers were more willing to register their carpools/vanpools to receive the discount; two-thirds said they were either very likely (39%) or somewhat likely (27%) to register their carpool/vanpool to use the lanes at a discount. Interest in HOT lanes did not vary substantially across the three “ring” sub-areas of the region. About 22% of respondents who lived in the Inner Core said they would be likely to try ridesharing. Middle Ring and Outer Ring respondents were only slightly more interested; about 26% of Middle Ring and 30% of Outer Ring respondents said they were likely to try ridesharing to use the lanes at a
+reduced price.
+
+PARK AND RIDE LOTS
+Figure 26 depicts respondents’ awareness of the locations of Park and Ride (P&R) lots along their route to work. Forty-five percent of respondents across the region said they knew the locations of P&R lots along their commuting route. About a third (32%) said they did not know the locations. A quarter (23%) said there were no P&R lots along their route to work. The figure also shows that awareness/availability of lots varied substantially by home location in the region. Respondents who lived in the Inner Core were least likely to say they knew of a P&R lot on their route; only 23% of these respondents knew of a lot, while 47% of respondents who lived in the Middle Ring and 60% of respondents in the Outer Ring knew of a lot along their route to work. Two in ten (21%) of those who knew Park and Ride lot locations had used these lots when commuting during the past year. These respondents represented nine percent of total respondents in the survey, slightly higher than the seven percent of respondents who reported use of P&R lots in the 2007 SOC survey. Use of P&R lots was more common among respondents who lived in the Middle Ring (24%) and Outer Ring (19%) than for Inner Core (15%) residents. But respondents who worked in the Inner Core used P&R lots at a much higher rate than did other respondents. A third of Inner Core workers who knew of the lots had used them in the past year, compared with just one in ten respondents who worked in the Middle Ring (11%) or Outer Ring (9%).
+
+Figure 26
+Awareness of Park & Ride Lots Along Route to Work – By Home Location 60% 45% 23% 47% 32% 44% 32% 22% 23% 33% 21% 18%
+
+Know P&R location
+All region
+
+Don't know location
+Inner Core Middle Ring Outer Ring
+
+No P&R lots
+
+Availability of and Attitudes Toward Transportation Options
+
+31
+
+MWCOG-Commuter Connections— 2010 State of the Commute Report
+
+
+<!----##SPLITTER##-->
+ATTITUDES TOWARD TRANSPORTATION OPTIONS Carpool/Vanpool Barriers
+Respondents who did not carpool or vanpool to work were asked why they did not use these modes. Table 8 shows respondents’ barriers to rideshare use, grouped into three reason categories: service availability, service characteristics, and personal preferences/needs. The most common reason, cited by nearly half (45%) of respondents was one of service availability; that they didn’t know anyone to carpool or vanpool with. Only a small share of respondents noted concerns or barriers related to service characteristics. The most common concern here was that carpooling and vanpooling take too much time. Respondents noted greater barriers related to personal preferences/needs. The most common reason was an irregular schedule, cited by 28% of respondents. About one in ten said they needed a personal vehicle for trips before or after work or that their work responsibilities required use of a vehicle. Six percent of respondents said they lived too close to work to make carpooling or vanpooling attractive and six percent said they did not want to ride with strangers or preferred to be alone during commuting.
+
+Table 8 Reasons for Not Using Carpool/Vanpool to Work (multiple responses permitted) Reasons Percentage
+Service Availability Don’t know anyone to carpool/vanpool with Service Characteristics Takes too much time Bus/train/carpool partner could be unreliable/late Doesn’t save time Personal Preferences/Needs Work schedule irregular Need my car for work Need car before/after work Live close to work, can walk, use other mode Don’t like to ride with strangers, prefer to be alone Need car for emergencies/overtime Just not interested Prefer to drive, want freedom/flexibility Trip is too long/distance too far Other 45% 5% 2% 2% 28% 10% 1% 6% 6% 3% 2% 1% 1% 5%
+
+Transit Barriers
+Respondents who did not use a bus or train for commuting were asked why they did not use transit. Table 9 shows respondents’ barriers to transit use, grouped in the three reason categories: service availability, service characteristics, and personal preferences/needs. Respondents cited reasons in each category. About half of the respondents said they did not use transit because they did not have train service available and three in ten said bus service was not available in either the home or work area. Respondents who did not use bus or train also noted several characteristics of the services as barriers to their use. The top reason in this group was that transit “takes too much time,” mentioned by a third of respondents. Small percentages of respondents noted issues with cost, convenience, comfort, and safety. Common reasons in the personal preferences/needs category included needing a vehicle for work or before or after work, having an irregular work schedule, and that the trip was too long. Smaller shares of respondents said the commute was too short, they needed or wanted travel freedom and flexibility, and that they did not want to ride with strangers.
+
+Table 9 Reasons for Not Using Transit to Work (multiple responses permitted) Reasons
+
+Percentage
+52% 29% 2% 32% 5% 4% 3% 2% 2% 2% 11% 10% 9% 8% 5% 4% 4% 1% 5%
+
+More than half (54%) of the respondents who used HOV lanes for commuting said availability of the lanes influenced their decision to carpool, vanpool, or ride transit for their commute.
+
+Service Availability * No train service available in home/work area No bus service available in home/work area Don’t know if service is available/location of service Service Characteristics Takes too much time Too expensive Have to transfer/too many transfers Bus/train could be unreliable/late Have to wait too long for service Too uncomfortable/crowded Might not be safe Personal Preferences/Needs Need my car for work Work schedule irregular Need car before/after work Trip is too long/distance too far Commute is too short Prefer to drive, want freedom/flexibility Don’t like to ride with strangers, prefer to be alone Need car for emergencies/overtime Other
+
+MWCOG-Commuter Connections— 2010 State of the Commute Report
+
+* Respondents who said no train or bus service was available also were permitted to answer other reasons why they could not use bus or train.
+
+32
+
+Availability of and Attitudes Toward Transportation Options
+
+
+<!----##SPLITTER##-->
+AWARENESS OF COMMUTE ADVERTISING AND SERVICES
+COMMUTE ADVERTISING RECALL
+The next set of questions in the survey inquired about respondents’ awareness of commute information advertising. Nearly six in ten (58%) respondents said they had seen, heard, or read advertising about commuting in the six months prior to the survey. This was slightly higher than the 52% recall noted in the 2007 SOC survey.
+
+Message Recall
+These respondents were then asked what messages they recalled from this advertising. Seven in ten (70%) could cite a specific message, slightly higher than the 65% who could recall a message in 2007. Figure 27 lists messages respondents in the 2010 survey remembered and the percentage of respondents who cited each message. The messages are divided into two categories: general rideshare messages and commute services messages.
+
+Figure 27
+Commute Information/Advertising Messages Recalled
+
+General Rideshare Messages
+Use bus/train Help environment Save money Carpool/vanpool Reduces traffic
+
+14% 6% 5% 5% 4% 2% 2%
+
+HOV lanes Regional commute services available Telework Center/telework
+
+3% 3% 2%
+
+Commute Program/Service Messages – Commuters cited several com-
+
+HOT lanes 2% mute program or service messages. About 11% mentioned “you can call for carpool/ Employer will give financial incentive 2% vanpool information” and six percent said Transit cost increasing 2% they had heard that “new trains or buses are coming.” These were similar percentages to those found for these messages in 2007. Nine percent of respondents mentioned Guaranteed Ride Home, higher than the six percent who volunteered this response in 2007. Four percent mentioned “contact Commuter Connections,” about the same percentage as gave this response in 2007. An additional three percent said the ad mentioned that regional services were available to help with commuting. Two percent mentioned Telework Centers or telecommuting.
+
+Availability of and Attitudes Toward Transportation Options
+
+33
+
+MWCOG-Commuter Connections— 2010 State of the Commute Report
+
+General Rideshare Messages – The top reason noted was a general rideshare message, “use the bus, train, Metrorail,” which was recalled by 14% of respondents. This was less than the 18% who noted this message in 2007. About five percent said they recalled a general message of “carpool or vanpool.” Small numbers of respondents mentioned rideshare benefit messages: helps the environment (6%), saves money (5%), reduces traffic (4%), saves time (2%), and less stressful (2%). Recall of all of these messages was essentially the same as in 2007.
+
+Saves time Less stressful
+
+Commute Services Messages
+Call for CP/VP info Guaranteed Ride Home New trains/buses coming Contact Commuter Connections
+
+11% 9% 6% 4%
+
+
+<!----##SPLITTER##-->
+Seven in ten (70%) could cite a specific message, slightly higher than the 65% who could recall a message in 2007.
+
+Recall of Advertising Sponsors
+Forty-five percent of respondents who had heard or seen ads said they remembered who sponsored the ad. These respondents mentioned the organizations listed in Table 10. The Washington Metropolitan Area Transit Authority (WMATA, Metro) was named by 20% of respondents, the same percentage as noted this sponsor in 2007. Commuter Connections or COG were named by 13% of respondents, slightly higher than the nine percent who gave this response in 2007. The Virginia Department of Transportation and Arlington County Commuter Services each was named by about two percent of respondents. Numerous other organizations were named in 2010, but each was named by less than one percent of respondents.
+
+Table 10 Recall of Advertising Sponsors
+Advertising Sponsor Metro, WMATA Commuter Connections, MWCOG Virginia Dept. of Transportation (VDOT) Arlington County Commuter Services Virginia Railway Express (VRE) Maryland Mass Transit Administration (MTA) Don’t remember, don’t know Other* Percentage 20% 13% 2% 2% <1% <1% 55% 11%
+
+* Each response in “other” category mentioned by less than one percent of the respondents.
+
+Advertising Sources/Media
+Table 11 presents the primary sources or media through which respondents heard, saw, or read commute advertising in 2010, * Respondents who in ten respondents who recalled an ad said they 2007, and 2004. The 2010 sources were very similar to those noted in 2007. Foursaid no train or bus service was available also were permitted to answer other reasons why they could not use bus or train heard it on the radio, slightly higher than the 35% share who mentioned this source in 2007, but still significantly lower than the 55% who mentioned radio as their source in 2004. Other common sources named in 2010 included television (24%), sign on a transit vehicle or at a bus stop or Metro station (22%), and in a newspaper (18%). Smaller shares of respondents cited other sources.
+MWCOG-Commuter Connections— 2010 State of the Commute Report
+
+Table 11 Advertising Source/Media
+Advertising Source/Media* Radio Television
+
+2010 SOC 40% 24% 22% 18% 6% 2% 5% 3% 4%
+
+2007 SOC 35% 25% 20% 22% 5% 2% 2% 3% 3%
+
+2004 SOC 55% 25% 9% 12% <1% 2% 2% 1% 4%
+
+Sign on transit vehicle, at bus stop, or Metro station Newspaper At work Website/internet Roadside billboard/ad Postcard in the mail Other**
+
+* Might add to more than 100% because multiple responses were permitted. ** Each response in “other” category mentioned by less than one percent of the respondents.
+
+34
+
+Availability of and Attitudes Toward Transportation Options
+
+
+<!----##SPLITTER##-->
+Figure 28 Likely to Consider Ridesharing After Hearing/Seeing Ads
+49% 31%
+By Respondent Age
+
+26%
+
+22%
+
+17%
+
+8%
+65 or older
+
+Under 25
+
+25-34 years
+
+35-44 years
+
+45-54 years
+
+55-64 years
+
+COMMUTE ADVERTISING IMPACT Persuasiveness of Advertising Messages
+The advertising appeared to have an effect for some respondents. Almost a quarter (24%) of respondents who had seen, heard, or read advertising said they were more likely to consider ridesharing or using public transportation after seeing or hearing the advertising, higher than the 18% who noted this willingness in 2007 and the same percentage as in 2004. The respondents who were most persuaded by the advertising were those who were already using alternative modes. About 48% of bus riders, 25% of Metrorail riders, and 30% of carpoolers and vanpoolers said they were likely to consider using an alternative after hearing the ads, compared with only 21% of respondents who were driving alone. The advertising appeared to have more impact on younger respondents. As shown in Figure 28, willingness to consider ridesharing declined steadily with increasing age. Nearly half of respondents who were under 25 said they would consider ridesharing, compared with only 17% of those who were 55 to 64 years old and only eight percent of respondents who were 65 or older.
+
+Commute Actions Taken After Hearing or Seeing Commute Advertising
+Respondents who said they were more likely to consider alternative modes after hearing the ads were asked if they had taken any actions to try to change how they commuted. About 19% of these respondents said they did take some action. These respondents comprised about two percent of all regional commuters. Specific actions noted are presented in Figure 29. The majority of respondents who took an action said they sought information or services for commuting. Five percent said they looked for a carpool or vanpool partner. Three percent said they looked for more information on the internet, two percent contacted a local or regional commute organization, and one percent contacted a transit operator. Five percent (23 respondents) said they tried or started using an alternative mode for commuting. Two percent tried or started using a bus to get to work, two percent tried or started bicycling or walking to work, and one percent tried or started using a train. Prior to starting these new modes, half of the respondents had been driving alone to work. The other half had been using a different alternative mode.
+
+The respondents who were most persuaded by the advertising were those who were already using alternative modes.
+
+Availability of and Attitudes Toward Transportation Options
+
+35
+
+MWCOG-Commuter Connections— 2010 State of the Commute Report
+
+
+<!----##SPLITTER##-->
+A large majority (83%) of respondents who took an action to change their commute said the advertising they saw or heard encouraged the action.
+
+Influence of Ads on Commute Change Actions
+A large majority (83%) of respondents who took an action to change their commute said the advertising they saw or heard encouraged the action. And more than 70% of respondents who took an action were driving alone at that time. This suggests that the advertising, although having a small impact on mode shifts, is acquainting drive alone commuters with other commuting opportunities and encouraging them to seek more information on these options. This conclusion is supported by results of one additional question asked in this section about commute advertising. Respondents who sought information but had not made a commute mode change were asked how likely they were to try a form of transportation other than driving alone for their commute within the next year. As shown in Figure 30, 23% said they were very likely and 40% said they were somewhat likely to try an alternative mode. This is likely an overstatement of actual future changes, but it suggests that an initial effort to seek information might lead to commute changes at a later time.
+
+Figure 29
+Actions Taken to Change Commute After Hearing/Seeing Commute Advertising (multiple responses permitted)
+
+Figure 30
+Likely to Try Using an Alternative Mode Within the Next Year (n = 43)
+
+Sought more information
+Looked for carpool/vanpool partner Looked for commute information on internet Contacted local/regional commute organization Contacted transit operator Looked for information on GRH Other information response
+MWCOG-Commuter Connections— 2010 State of the Commute Report
+
+5% 3% 2% 1% 1% 1%
+
+Very likely 23% Not at all likely 37% Somewhat likely 40%
+
+Changed Commute Mode
+Tried/started using bus Tried/started bicycling/walking Tried/started using train 2% 2% 1% 5% tried or started using an alternative mode for commuting
+
+Other change
+
+3%
+
+36
+
+Availability of and Attitudes Toward Transportation Options
+
+
+<!----##SPLITTER##-->
+AWARENESS AND USE OF COMMUTER ASSISTANCE RESOURCES
+AWARENESS OF COMMUTER ASSISTANCE NUMBERS/WEBSITES
+The next set of questions in the survey investigated commuters’ knowledge and use of regional commute assistance services. First, respondents were asked if they were aware of a telephone number or web site they could use to obtain information on ridesharing, public transportation, HOV lanes, and telecommuting in the Washington region. Two-thirds (66%) of respondents said they knew such a number existed. The remaining respondents either said there was not such a phone number or website (15%) or that they did not know if a phone number or web site existed (19%). As illustrated in Figure 31, awareness of regional commute information resources has grown steadily over the past nine years. The current level of 66% awareness is 15 percentage points higher than in 2007 and twice as high as in 2001.
+
+Figure 31
+Awareness of Regional Commute Information Resources
+
+66% 46% 33% 51%
+
+2001
+
+2004
+
+2007
+
+2010
+
+Table 12 Recall of Regional Commuter Assistance Telephone Number or Web Site
+Number or Web site Not aware of phone number/web site Don’t know if a phone number exists Aware of phone number/web site, but cannot name it Aware of phone number/web site and can name it Telephone numbers recalled: 1-800-745-RIDE (7433) Commuter Connections 202-637-7000 Metro, WMATA Web sites recalled: www.mwcog.org www.commuterconnections.org www.commuterconnections.com wwww.wmata.com www.MetroOpensDoors.com WMATA web site (unspecified) www.vre.org Other** 2010 SOC* 15% 19% 40% 26% 0.7% 2.4% 0.4% 0.8% 1.1% 6.9% 2.9% 3.9% 0.5% 12.4% 2007 SOC* 31% 18% 30% 21% 0.8% 3.5% 0.2% 0.3% 1.0% 6.8% 0.5% N/A 0.3% 4.7% 2004 SOC* 38% 16% 31% 15% 1.5% 1.4% 0.2% 0.3% 1.0% 6.8% N/A N/A 0.3% 3.0%
+
+Recall of Web Sites and Phone Numbers
+When respondents who had said there was a regional phone number or web site were questioned on their recall of the actual number or web site, about four in ten, or 25% of all regional workers, could name a specific number or web site. Table 12 summarizes the awareness of all numbers/web sites, as percentages of the regional population. About 12% named a specific WMATA phone number or web site and three percent mentioned WMATA or Metro, but did not specify the number or site. Commuter Connections was second only to WMATA as a regional information source, named by almost three percent of all respondents. Respondents named more than 20 additional organizations that they knew or believed offered commuter assistance and information. Each of these was named by less than one percent of respondents, but collectively they accounted for 12% of additional responses. This was much higher than the number of resources mentioned in 2007, suggesting that commuters are more aware of resources and/or that more resources are available now than in 2007.
+
+* Might add to more than 100% because multiple responses were permitted. ** Each response in the “Other” category mentioned by less than one percent of respondents.
+
+The current level of Awareness of regional 66% awareness is 15 commute information percentage points higher resources has grown than in 2007 and twice steadily over the past as high as in 2001. nine years.
+
+Awareness and Use of Commuter Assistance Resources
+
+37
+
+MWCOG-Commuter Connections— 2010 State of the Commute Report
+
+
+<!----##SPLITTER##-->
+AWARENESS AND USE OF COMMUTER CONNECTIONS PROGRAM
+The “awareness” section of the questionnaire also explored respondents’ awareness of the Commuter Connections Network and the services it offers commuters. Some indications of respondents’ awareness of the program appeared in unprompted questions about regional commute advertising messages, advertising sponsors, and regional commuter information resources. As noted earlier, two percent of the regional population named Commuter Connections as a regional information source without being prompted with the organization’s name. But when directly asked if they had heard of an organization in the Washington region called Commuter Connections, an additional 62% of respondents said they had heard of the program, for a total of 64%. This was higher than the percentage who knew of Commuter Connections in 2007 (53%) and about the same level of name recognition that was observed in 2004 (66%). (See Figure 32).
+
+Figure 32
+Awareness of Commuter Connections (Prompted or Unprompted) 66% 53% 64%
+
+2004
+
+2007
+
+2010
+
+Referral Sources to Commuter Connections Program
+Table 13 displays the methods by which respondents reported learning about Commuter Connections in 2010, with comparisons to sources named in 2007 and in 2004. In 2010, almost half (48%) of respondents cited the radio as their source of information and about 15% named television. Word of mouth/referrals (9%), sign/billboard (7%), and newspaper ads or articles (6%), were other common sources. Smaller percentages cited other sources, including internet (4%), employer (4%), sign on a transit vehicle (4%), or brochure (1%). About 11% said they didn’t remember how they heard about Commuter Connections. The 2010 results were very similar to those observed in 2007.
+
+Figure 33
+Table 13 Commuter Connections Program Referral Sources
+Information Source Radio Television Word of mouth, friend, co-worker Sign/billboard Newspaper ads/article Internet Employer Sign on transit vehicle, bus stop Brochure Don’t know Other* 2010 SOC Percentage 48% 15% 9% 7% 6% 4% 4% 4% 1% 11% 3%
+
+Awareness of Commuter Connections’ Services
+2004 SOC Percentage 56% 19% 5% 5% 4% 2% 2% N/A 1% 10% 4%
+
+2007 SOC Percentage 43% 16% 8% 7% 7% 3% 4% 2% 1% 14% 3%
+
+28% Rideshare/ CP/VP info 24% 30% 16% Help finding CP/VP partners 22% 30% 40% Guaranteed Ride Home 23% 26%
+
+MWCOG-Commuter Connections— 2010 State of the Commute Report
+
+* Each response in “Other” category mentioned by less than one percent of respondents.
+
+Awareness and Use of Commuter Connections’ Services
+Respondents who knew of Commuter Connections were asked what services the organization provided. Their responses are shown in Figure 33. About three in ten said they didn’t know specific services offered by the program, but respondents who did mention a service largely cited services that Commuter Connections actually does provide. Six in ten knew the program offered either general rideshare information (30%) or help finding a carpool or vanpool partner (30%). About a quarter (26%) knew that Commuter Connections offered a regional Guaranteed Ride Home program. Nine percent said Commuter Connections offered transit route and schedule information, which can be accessed through links on Commuter Connections’ web site.
+Transit information
+
+5% 6% 9% 2004 SOC 0% Park and Ride information 1% 2% 2007 SOC 2010 SOC
+
+1% Other 4% 6%
+
+38
+
+Awareness and Use of Commuter Assistance Resources
+
+
+<!----##SPLITTER##-->
+Figure 33 also shows service awareness in Table 14 2007 and 2004. Awareness of either general Information and Services Sought rideshare assistance or help finding a carpool/ in Contact to Commuter Connections vanpool partner grew from 44% in 2004 to Commuter Connections Services 2010 SOC 2007 SOC 46% in 2007 to 60% in 2010. Awareness of the Percentage Percentage GRH program grew slightly between 2007 and Carpool/vanpool information, help 2010, from 23% to 26%, but it remained well finding carpool/vanpool partner 40% 35% below the 40% awareness observed in the 2004 Transit route/schedule information 24% 33% SOC survey. Guaranteed Ride Home (GRH) 12% 19% Respondents who knew of Commuter MetroChek/SmarTrip 4% 3% Connections also were asked if they had Bicycle/walking information 2% N/A contacted the program or visited a Commuter Telecommute information 1% 1% Connections or COG website in the past year General information/traffic and weather 8% N/A and if so, what information or services they Other * 6% 9% were seeking. Seven percent of respondents * Each response in the “Other” category mentioned by less than one percent of respondents. who knew of Commuter Connections had contacted the program, representing about five percent of all employed residents of the region. Table 14 lists the information respondents said they were seeking in this contact. The largest share (40%) of respondents who contacted Commuter Connections said they were seeking carpool/vanpool information or help finding a carpool or vanpool partner. About a quarter (24%) said they were looking for transit route or schedule information. About one in ten (12%) said they were looking for information about Guaranteed Ride Home.
+
+AWARENESS AND USE OF LOCAL COMMUTER ASSISTANCE PROGRAMS
+Finally, respondents were asked about their awareness and use of local jurisdiction commuter programs that delivered commute assistance services in the areas where they lived and/or worked. If they lived and worked in different jurisdictions, they were asked about both the organization in their home area and the organization in their work area. Figure 34 presents the percentage of respondents who said they had heard of each of the nine organizations, when prompted with the organizations’ names. Awareness of these programs ranged from 10% to 53% of respondents who were asked the questions. Five of nine programs examined were known to at least a third of the target area respondents.
+
+Figure 34 - Heard of Local Jurisdiction Commute Assistance Program
+Of Respondents who had Heard of Program
+(Prince William n = 604, Frederick n = 732, Arlington n = 958, Loudoun n = 660, Southern Maryland n = 1,224, Prince George’s n = 894, Montgomery n = 928, Alexandria n = 732, Fairfax n = 1,253)
+
+Prince William (PRTC/OmniMatch) TransIT Services of Frederick Co Arlington Co Commuter Services Loudoun Co Office of Transportation Tri-County Council (Southern MD) RideSmart (Prince George’s) 20%
+
+53% 51% 44% 40% 37%
+MWCOG-Commuter Connections— 2010 State of the Commute Report
+
+Use of Local Jurisdiction Services – Montgomery Co Commuter Services 19% Respondents who knew of a local organization were asked if they had contacted it. Figure 35 presents these results for the nine Alexandria Rideshare 13% organizations, listed in Figure 34. Use ranged from two percent to 28% of Fairfax RideSources respondents who had heard of the services. 10% Twenty-eight percent of respondents in the Loudoun County service area said they had contacted this organization, 21% of respondents who lived or worked in Arlington County said they contacted Arlington County Commuter Services, and 20% of respondents in Frederick and Prince William Counties contacted the commuter service organizations in their areas. All other local organizations had lower contact levels.
+
+Awareness and Use of Commuter Assistance Resources
+
+39
+
+
+<!----##SPLITTER##-->
+Table 15 Information and Services Sought from Local Commute Assistance Programs (n = 364)
+Commute Assistance Services Transit route/schedule information Travel directions, traffic, weather information Metrochek/SmarTrip Help finding carpool/vanpool partners Rideshare (carpool/vanpool) information Metro passes, transit tickets/fare media Park & Ride lot information, parking information Bicycle/walking information Road construction information Other *
+
+Percentage 65% 9% 9% 5% 4% 4% 4% 4% 2% 9%
+
+With the exception of Arlington County Commuter Services, use was generally higher for programs in outer jurisdictions (Frederick, Loudoun, and Prince William). The relationship to the location in the region is likely because outer jurisdiction commuters encounter more congestion in their travel and have longer commute times and distances, which would encourage them to seek options for travel to work. Use also was higher for programs associated with transit agencies (Frederick, Loudoun, and Prince William). This connection might be due to higher visibility of the services, but 65% of respondents who contacted a local program said they were seeking transit information. In the inner jurisdictions, transit assistance is provided by transit organizations that are separate from the local commute assistance program.
+
+* Each response in the “Other” category mentioned by less than one percent of respondents.
+
+Information and Services Sought from Local Organizations – Respondents who had contacted a local jurisdiction program were asked what information or services they were seeking. The services desired are shown in Table 15. By far, the most prominent service sought by respondents was transit information, sought by 65% of respondents who contacted a local program. Much smaller percentages said they were looking for Metrochek/SmarTrip fare information (9%), help finding a carpool or vanpool partner (5%), or general rideshare information (4%). The predominance of transit information is reasonable, given that several of the local programs are administered by transit organizations.
+
+Figure 35 - Used Local Jurisdiction Commute Assistance Program
+
+By far, the most prominent service sought by respondents was transit information, sought by 65% of respondents who contacted a local program.
+
+Of Respondents who had Heard of Program
+(Loudoun n = 259, Arlington n = 421, Prince William n = 314, Frederick n = 326, Montgomery n = 168, Southern Maryland n = 435, Alexandria n = 127, Prince George’s n = 177, Fairfax n = 121)
+
+Loudoun Co Office of Transportation Arlington Co Commuter Servies Prince William (PRTC/OmniMatch) TransIT Services of Frederick Co Montgomery Co Commuter Servies Tri-County Council (Southern MD) Alexandria Rideshare 2% 2% 21% 20% 18% 13% 11%
+
+28%
+
+MWCOG-Commuter Connections— 2010 State of the Commute Report
+
+9%
+
+RideSmart (Prince George’s) Fairfax RideSources
+
+40
+
+Awareness and Use of Commuter Assistance Resources
+
+
+<!----##SPLITTER##-->
+EMPLOYER-PROVIDED COMMUTER ASSISTANCE SERVICES
+The SOC survey also included questions on commute assistance services and benefits that an employer might provide to employees. Respondents were asked about two types of services: 	n Alternative mode incentives and support services 	n Parking facilities and services This section presents results regarding respondents’ availability of and use of these services in 2010. Results also are presented for some questions from the 2007 and 2004 SOC surveys.
+
+INCENTIVES/SUPPORT SERVICES
+More than six in ten (61%) respondents said their employer offered one or more incentives or support services (Figure 36). This is higher than the percentages of respondents who reported having access to these services in 2007 (54%) and 2004 (53%).
+
+Figure 36 Employer Offers any Incentive/Support Services
+– 2004, 2007, 2010
+
+61% 53% 54%
+
+Individual Incentives/Support Services Offered
+The percentages for individual services offered are shown in Figure 37. Four in ten (39%) of respondents said their employers offered one or two of these services. An additional 23% said their employers offered three or more services.
+
+04
+
+07
+
+20
+
+20
+
+Figure 37—Alternative Mode Incentives and Support Services Offered by Employers
+2007 and 2010 Transit/ vanpool subsidy 33% 45%
+
+Bicycling/ walking services
+
+17% 24%
+
+Preferential parking for CP/VP
+
+16% 21%
+
+Incentives/Support Services Offered by Employer Type
+Respondents who worked for federal agencies were most likely to have incentives/support services available at their worksites; 89% of federal workers said they had at least one of these services, compared with 64% of respondents who worked for non-profit organizations. Respondents who worked for private employers and state/local agencies were least likely to have incentives/support services; only about half of respondents who worked for these types of employeres had access to commuter benefit services.
+
+Guaranteed Ride Home
+
+12% 14% 2007 5% 2010
+
+Carpool subsidy
+
+7%
+
+Employer-Provided Commuter Assistance Services
+
+41
+
+MWCOG-Commuter Connections— 2010 State of the Commute Report
+
+Info on travel options
+
+20% 26%
+
+The most commonly offered services were SmarTrip/other subsidies for transit/vanpool, available to 45% of respondents, and information on commuter transportation options, available to 26% of respondents. Nearly a quarter (24%) of respondents said their employers here offered services for bikers and walkers, 21% were offered preferential parking for vanpools and carpools, 14% were offered GRH services, and only seven percent were offered carpool subsidies. As shown in the figure, availability of transit/ vanpool subsidies has grown substantially, from 33% to 45% since 2007. Availability of other services also appears to have risen since 2007.
+
+20
+
+10
+
+
+<!----##SPLITTER##-->
+Table 16 Commuter Services/Benefits Offered by Employer Type
+Incentives/Support Services
+
+Any services offered Transit/VP subsidy Commute information Preferential parking GRH Carpool subsidy/cash payment Bike/walk services
+
+Percentage of Employers Offering Services Federal State/local Non-profit Private (n = 1,290) (n = 774) (n = 696) (n = 2,281) 89% 46% 64% 50% 80% 30% 46% 30% 50% 25% 26% 19% 51% 15% 10% 12% 16% 10% 12% 17% 17% 9% 4% 5% 37% 20% 27% 16%
+
+Table 16 compares the percentages of employers that offered various incentives/support services and parking services by employer type. Not surprisingly, federal agency workers also had greater access than other respondents to individual incentive/support service. This was especially true for transit/vanpool subsidies 80% of federal workers said these subsidies were offered, while only 46% of nonprofit workers and three in ten respondents who worked for private firms and state/local agencies had this benefit. Commute information and preferential parking also were disproportionately available to federal agency workers.
+
+Commuter Services Offered by Employer Size
+Large employers were more likely to offer commuter services than were small employers. As indicated by Table 17, only 44% of respondents who worked for employers with 100 or fewer employees and 58% of respondents who worked for employers with 101-250 employees said they had any services. By contrast, seven in ten (71%) respondents employed by large (251-999 employees) employers and more than eight in ten (82%) respondents who worked for very large firms (1,000+ employees) had one or more employer-provided commuter service. Table 17 compares availability of Table 17 specific commuter assistance services Commuter Services/Benefits Offered by employer size. Respondents who by Employer Size (number of employees) worked for employers with 251 or more Incentives/Support Services Percentage of Employers Offering Services employees had substantially greater 1-100 101-250 251-999 1,000+ access to most incentive/support Any services offered 44% 58% 71% 82% services, compared with employees of Transit/VP subsidy 28% 39% 56% 67% smaller firms. This trend of increasing Commute information 14% 29% 34% 48% services with increasing size was most Preferential parking 9% 13% 22% 48% striking with transit/vanpool subsidies, GRH 15% 13% 16% 16% commute information, preferential Carpool subsidy/cash payment 5% 6% 10% 15% parking, and bicycle/walking services.
+Bike/walk services 14% 19% 29% 38%
+
+MWCOG-Commuter Connections— 2010 State of the Commute Report
+
+Respondents who worked for employers with 251 or more employees had substantially greater access to most incentive/ support services, compared with employees of smaller firms.
+
+42
+
+
+<!----##SPLITTER##-->
+...availability of transit/ vanpool subsidies has grown substantially, from 33% to 45% since 2007.
+
+Services Offered by Employer Location
+
+Finally, the analysis examined the Incentives/Support Services Percentage of Employers Offering Service availability of services by respondents’ work Inner Core Middle Ring Outer Ring locations, divided into the three “ring” Any services offered 74% 53% 40% designations described earlier: Inner Core Transit subsidy 65% 31% 14% (Alexandria, Arlington, and the District of Commute information 33% 27% 17% Columbia), Middle Ring (Fairfax, Montgomery, Preferential parking 27% 22% 13% and Prince George’s), and Outer Ring (Calvert, GRH 16% 15% 15% Charles, Frederick, Loudoun, and Prince Carpool subsidy/cash payment 10% 8% 4% William). As shown in Table 18, Inner Core Bike/walk services 28% 21% 14% respondents had greater access to incentive/ support services than did other respondents. Three-quarters of Inner Core workers said they had commute services, while only half of Middle Ring workers and 40% of Outer Ring workers had access to these services. Inner Core workers also had greater access to each individual service; two-thirds of these respondents were offered transit subsidies, compared to a third of respondents who worked in the Middle Ring, and only 14% of respondents who worked in the Outer Ring. Inner Core workers had somewhat higher access to other commute services also. These differences were less dramatic, but there was a clear pattern of highest availability in the Inner Core, moderate availability in the Middle Ring, and significantly lower availability of most services in the Outer Ring.
+
+Table 18 Commuter Services Offered by Employer Location
+
+Respondents also were asked about the Parking Facilities/Services Offered by Employers – 2010, 2007, 2004 Parking Facilities and Services Employer Offered Service parking services available at their worksites. 2010 SOC 2007 SOC 2004 SOC These results are displayed in Table 19 for Free on-site parking 63% 65% 66% 2010, 2007, and 2004. Free off-site parking 2% 4% 3% The majority of respondents (63%) across Employee pays all parking charges 22% 21% 21% the region said their employers provided “free Employee and employer share parking charge 7% 7% 6% parking” at the worksite. An additional two Parking discounts for CP/VP* 16% 15% 14% percent said they had access to “free parking *Note that percentages of parking discounts for CP/VP are calculated on a base of respondents who do off-site.” About three in ten said they paid at not have free parking available. least part of the cost of parking; 22% paid the total cost and seven percent paid a portion of the cost with the balance paid by their employers. The availability of free parking appears to be the same as in 2007 and 2004.
+
+Parking by Employer Type – Federal agency workers and respondents who worked for non-profit organizations were least likely to have free parking at work. About 49% of respondents who worked for federal agencies and 50% of respondents who worked for a non-profit said their employer provided free parking. Other workers in these two groups either had no parking at all or had to pay all or part of the cost of parking. By contrast, 77% of respondents who worked for state and local agencies and 71% of respondents who worked for private employers said they had free parking.
+
+Employer-Provided Commuter Assistance Services
+
+43
+
+MWCOG-Commuter Connections— 2010 State of the Commute Report
+
+PARKING FACILITIES AND SERVICES
+
+Table 19
+
+
+<!----##SPLITTER##-->
+Three-quarters of Inner Core workers said they had commute services, while only half of Middle Ring workers and 40% of Outer Ring workers had access to these services.
+
+Parking by Employer Size – Figure 38 also shows parking availability by employer size. Respondents who worked for large employers were less likely to have free parking. About half (51%) of respondents who worked for companies with 1,000 or more employees had free parking, compared with nearly seven in ten respondents who worked for employers with 250 or fewer employees. Parking Services by Work Location –
+Dramatic differences between respondents who worked in different parts of the region also are evident for parking availability. As can be seen in Figure 38, only a third (34%) of respondents employed in the Inner Core area said they had free parking on-site, compared to nearly nine in ten (88%) respondents who worked in the Middle Ring and (90%) of respondents who worked in the Outer Ring.
+
+Figure 38
+On-site Free Parking Availability by Employer Type, Employer Size, and Work Area
+
+Employer Type
+Federal agency State/local agency Non-profit organization Private employer
+
+49% 77% 50% 71%
+
+Employer Size
+1 - 100 employees 101 - 250 employees 251 - 999 employees 1,000 or more employees
+
+68% 68% 63% 51%
+
+Work Location
+Inner Core Middle Ring
+
+34% 88% 90%
+
+USE AND IMPACT OF COMMUTER ASSISTANCE SERVICES/BENEFITS
+Respondents whose employers offered incentives/support services were asked if they had ever used these services. These results are provided in Figure 39. The most commonly used incentives/support services were transit/vanpool subsidies, used by 54% of respondents whose employers offered this service, commute information, used by 33% of respondents who had access to this service, and Guaranteed Ride Home, used by about a quarter of respondents. About one in five had used preferential parking, bike/walk services, and carpool subsidies.
+
+Outer Ring
+
+MWCOG-Commuter Connections— 2010 State of the Commute Report
+
+More than six in ten (61%) respondents said their employer offered one or more incentives or support services.
+Employer-Provided Commuter Assistance Services
+
+44
+
+
+<!----##SPLITTER##-->
+Figure 39 - Use of Employer-Provided Incentives/Support Services
+Of Employees Who had Access to Services
+
+Commute Mode by Commuter Assistance Services/Benefits Offered
+
+Bus
+
+4%
+
+8% 6% 21%
+
+Train
+
+Services not offered
+
+Services offered
+
+Employer-Provided Commuter Assistance Services
+
+45
+
+MWCOG-Commuter Connections— 2010 State of the Commute Report
+
+Figure 40 presents the percentages of respondents who used various commute modes by whether or not their employer provides commuter Transit/vanpool subsidy 54% assistance services or benefits. As the figure clearly illustrates, respondents 33% Info on travel options whose employers provided alternative mode incentives and support services were less likely to drive alone (57%) than were respondents whose Guaranteed Ride Home 26% employers did not provide these services (80%). Respondents who had these services at their 18% Bicycling/walking services worksites used all alternative modes at higher rates than did respondents who did not have these services. Train use was particularly higher; 21% of 18% Preferential parking for CP/VP respondents whose employers offered incentives/ support services rode the train to work, compared 16% with six percent of respondents whose employer Carpool subsidy did not offer these services. These differences were significant at the 95% confidence level, but it is not possible to say that the availability of these services was the only reason, or even the primary reason, for the differences in mode use. As noted before, employers in the Inner Core were much more likely than were employers in the Middle Ring and Outer Ring to offer commuter assistance services and drive alone rates were much lower for respondents who worked in the Inner Core (46%) than for respondents who worked in either the Middle Ring (65%) or Outer Ring (76%). But respondents who work in the Inner Core also could be faced with greater impediments to driving alone. For example, respondents who work in the Inner Core traveled an average of 41 minutes to work, compared with 34 minutes for Middle Ring workers and 29 minutes for Outer Ring workers. And respondents who work in the Inner Figure 40 Core also might experience Primary Commute Mode greater congestion levels by Commuter Services/Benefits Reported Offered and have greater avail80% ability of commute options, Drive alone such as transit, than would 57% be experienced by workers outside this area. Any of 5% these factors might have Carpool/ been at least as important Vanpool 9% in influencing respondents’ commute mode choices.
+
+
+<!----##SPLITTER##-->
+Figure 41 Primary Commute Mode
+by Free Parking Available at Work Drive alone 41% 6% 10% 3% 11% 5% 32% 82%
+
+Carpool/Vanpool
+
+Bus
+
+Train
+
+Free parking offered
+
+No free parking
+
+Commute Mode by Parking Services Offered
+Figure 41 presents a comparison of mode use rates for respondents who had free on-site parking at work and those who either had to pay for parking or who had no parking at all. The difference in drive alone rates for these two groups was dramatic; 82% of respondents who had free parking drove alone, compared with only four in ten (41%) respondents who did not have this benefit. Respondents who had to pay for parking used all alternative modes at higher rates than did respondents who had free parking. The difference was especially striking for use of the train; train mode share was more than six times as high for respondents who did not have free parking as for respondents who did. Many other surveys and research studies have documented the important role parking availability and cost play in commute decisions. But as was noted above, many factors influence commuters’ mode choice.
+
+MWCOG-Commuter Connections— 2010 State of the Commute Report
+
+82% of respondents who had free parking drove alone, compared with only four in ten (41%) respondents who did not have this benefit.
+
+46
+
+Employer-Provided Commuter Assistance Services
+
+
+<!----##SPLITTER##-->
+TELECOMMUTING
+tion was rewritten in 2004 to exclude these cases and they would The SOC survey also explored respondents’ telecommute not have been counted as telecommute in 2010, 2007, or 2004. experience. For purposes of this survey, telecommuters were defined as “wage and salary employees who at least occasionally work at home or at a telework or satellite center during an entire CURRENT AND POTENTIAL TELECOMMUTING work day, instead of traveling to their regular work place.” Respondents who This section presents these results Currently Telecommute for 2010 and, in some tables, results Respondents were read the for 2007, 2004, and 2001, but a few current definition of telecommute points on the definition of telecomand asked if they would consider mute should be noted. themselves telecommuters based The definition presented above on this definition. A total of was used in the 2004, 2007, and 2010 23.5% of all regional workers SOC surveys. But the definition was said they telecommute, either changed in 2004 to limit telecomregularly or occasionally. This repmute to arrangements that reduced resented about 600,000 workers vehicle trips; the 2001 definition had region-wide. interpreted telecommute more broadly. But telecommuters accounted To enable a valid comparison of later for a higher percentage, 25%, years’ surveys with the 2001 data, the of all regional commuters, that 2001 telecommute results were revised is, workers who travel to a main to exclude respondents who would not work location on non-telecomhave been counted as telecommuters mute days. Using this base of under the current definition. These commuters excludes workers who adjusted data are used in all tables are self-employed and for whom that show 2001 results. home is their only workplace. The 2001 SOC definition described These workers do not have an telecommuters as, “wage and salary outside work location, thus employees who at least occasionally never make commute trips. The A total of 25% of all regional workers work at home or at a location other calculation of telecommuters as a telecommute, either regularly or than their central work place durproportion of commuters reflects ing their normal work hours.” This occasionally. This represented about a more realistic picture of the role definition would have included workers of telecommuting in eliminating 600,000 workers region-wide. who work at client sites outside of the commute trips, thus is relevant Washington region and workers, such for assessing travel and air qualas sales or equipment repair staff, who ity benefits of telecommuting. travel to multiple customer locations The 25% telecommuting during the course of the day. The 2001 percentage represents a steady Figure 42 definition also could have included growth over the telecommutPercentage of Commuters who Telecommute respondents who worked a portion ing percentage from past SOC 2001, 2004, 2007, 2010 of the normal workday at home, for surveys. As illustrated in Figure 25% example while waiting for a delivery, 19% 42, 11% of regional commuters 13% 11% but traveled to the regular workplace telecommuted in 2001 and 13% for another part of the day. These telecommuted in 2004. By 2007, situations are not generally considered the percentage had risen to 19% telecommute for transportation-related 2001 2004 2007 2010 and grew still further in the past purposes, thus the telecommute definithree years.
+
+Telecommuting
+
+47
+
+MWCOG-Commuter Connections— 2010 State of the Commute Report
+
+
+<!----##SPLITTER##-->
+Interest in Telecommuting
+Respondents who did not telecommute and who were not self-employed/work at home full-time were asked if their job responsibilities would allow them to work at a location other than their main work place, at least occasionally. Approximately 40% said it would be possible. These respondents were then asked if they would want to telecommute. Seven in ten said they would be interested in telecommuting on either an occasional basis (42%) or a regular basis (27%). These interested respondents equal about 28% of non-telecommuters and 21% of all commuters. These results suggest additional telecommute growth potential exists in the Washington metropolitan region. Figure 43 summarizes the telecommute status of all respondents who are “commuters,” that is, not self-employed/work at home full-time. A quarter of regional commuters currently telecommute. An additional 21% of commuters “could and would” telecommute, that is, they have job responsibilities that could be done away from the main work place and they would be interested in telecommuting, if given an opportunity. These commuters represent about 500,000 potential telecommuters. The remaining respondents said they would not be interested in telecommuting (9%) or that their job responsibilities could only be performed at the main workplace (45%). Table 20 presents the results shown above, with additional comparisons for current and potential telecommute percentages measured in 2007 and in 2004. As shown in the table, the percentage of current plus potential telecommuting has grown
+
+Figure 43
+Telecommute Status Distribution
+
+Job not telecommute appropriate 45%
+
+Telecommute now 25% Could and would telecommute 21%
+
+600,000 current telecommute 500,000 “could and would” telecommute
+
+Could telecommute, not interested 9%
+occasionally. This could be related to increasing availability of communication and computer technology, such as broadband internet, lower cost telephone options, and computer networking, or perhaps from greater understanding of telecommuting options and a broader definition of what responsibilities are “telecommute-compatible.”
+
+Telecommuting is not distributed equally by demographic group. 2010 SOC 2007 SOC 2004 SOC Table 21 compares the incidence of Telecommute Status Percentage Percentage Percentage telecommuting by respondents’ sex, Currently telecommuting 25% 19% 13% ethnic group, age, income, commute Not telecommuting 75% 81% 87% distance, and home and work areas. -Job responsibilities allow telecommuting and 21% 24% 16% The third column shows the percentINTERESTED in telecommuting (“could and would”) age of each demographic group -Job responsibilities allow telecommuting, but 9% 6% 6% who telecommutes today (e.g., NOT INTERESTED in telecommuting 26% of men and 24% of women -Job responsibilities would NOT allow telecommuting 45% 52% 65% telecommute now). The last column shows the percentage of non-telecommuters in the group who “could since 2004, from 29% to 46% and the share of commuters who and would” telecommute if given the opportunity (e.g., 29% of could telecommute but are not interested has remained relatively non-telecommuting women would telecommute). Note that this constant. should be compared against the 28% of all non-telecommuters in Interestingly, the percentage of commuters who said their the region who “could and would” telecommute. jobs were incompatible with telecommuting dropped, from 65% Some demographic groups telecommute more than do others. in 2004 to 45% in 2010. Because it seems unlikely that the For example, a much larger share (30%) of Whites telecomcomposition of jobs changed substantially in the region, these muted than did either African-Americans (18%) or Hispanics results suggest a shift in commuters’ ability, or perception of (18%). Telecommuting appeared to increase with age up to the their ability, to perform their work at home or another location 35-54 years old group, peaking at 27%, and then declining as away from their primary work location. It appears that a larger age increased further. And telecommuting increased as income share of commuters believe they could telecommute, at least increased; 26% of workers with household incomes between
+
+Table 20 Summary of Current and Potential Telecommuting All Respondents who are not Self-Employed/Work at Home
+
+Telecommuting by Personal Characteristics
+
+MWCOG-Commuter Connections— 2010 State of the Commute Report
+
+48
+
+Telecommuting
+

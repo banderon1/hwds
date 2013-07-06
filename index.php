@@ -56,7 +56,7 @@
 						<li><a href="/editorial">Editorial/Illustrations</a></li>
 						<li><a href="http://www.westdesign.com/Issuez1/">Newsletters</a></li>
 						<li><div rel="#ecardspopup">E-Cards</div></li>
-						<li><div rel="#imagspopup">iMags</div></li>
+						<li><div rel="#imagspopup">iMags/e-Pubs</div></li>
 						<li><a href="#4">Events</a></li>
 						<li><a href="#5">Bilingual Publications</a></li>
 						<li><div rel="#timelesspopup">Multi-year Projects</div></li>
@@ -111,7 +111,7 @@
 				<a href="/editorial">Editorial/Illustrations</a>&nbsp;<span>&bull;</span>
 				<a href="http://www.westdesign.com/Issuez1/">Newsletters</a>&nbsp;<span>&bull;</span>
 				<div rel="#ecardspopup">E-cards</div>&nbsp;<span>&bull;</span>
-				<div rel="#imagspopup">iMags</div>&nbsp;<span>&bull;</span>
+				<div rel="#imagspopup">iMags/e-Pubs</div>&nbsp;<span>&bull;</span>
 				<a href="#11">Events</a>&nbsp;<span>&bull;</span>
 				<div rel="#timelesspopup">Multi-year Projects</div>
 				<div rel="#advertisingpopup">Advertising</div>&nbsp;<span>&bull;</span>

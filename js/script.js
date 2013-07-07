@@ -14,6 +14,8 @@ angular.module('hwds', ['ngSanitize']).
 	  when('/bilingual', {templateUrl: 'partials/bilingual.html', controller: BilingualCtrl}).
 	  when('/events', {templateUrl: 'partials/events.html', controller: EventsCtrl}).
 	  when('/minisamplebooks', {templateUrl: 'partials/minisamplebooks.html', controller: MiniSampleBooksCtrl}).
+	  when('/contact', {templateUrl: 'partials/contact.html', controller: ContactCtrl}).
+	  when('/memberships', {templateUrl: 'partials/memberships.html', controller: MembershipsCtrl}).
 	  otherwise({redirectTo: '/'});
 
   $locationProvider.html5Mode(true);
@@ -85,7 +87,6 @@ angular.module('hwds', ['ngSanitize']).
 });
 
 /* Controllers */
-
 function IndexCtrl($scope){
 	setPageFunctions();
 	setPopupLoaders();
@@ -205,6 +206,12 @@ function EventsCtrl($scope,$http){
 function MiniSampleBooksCtrl(){
 	setPageFunctions();
 }
+function ContactCtrl(){
+	setPageFunctions();
+}
+function MembershipsCtrl(){
+	setPageFunctions();
+}
 function setPopupLoaders(){
 	var query = window.location.search.substring(1);
 	if(query == 'clients'){
@@ -225,8 +232,6 @@ function setPopupLoaders(){
 		$("#pages div[rel=#webmarketingpopup]").click();
 	} else if(query == 'green'){
 		$("#pages div[rel=#greenpopup]").click();
-	} else if(query == 'contactus'){
-		$("#pages div[rel=#contactuspopup]").click();
 	}
 }
 function setPageFunctions(){

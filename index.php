@@ -44,7 +44,7 @@
 					<ul id="section1drop">
 						<li><a href="/ourfirm">The HWDS Team</a></li>
 						<li><div rel="#clientspopup">Clients</div></li>
-						<li><a href="#2">Memberships</a></li>
+						<li><a href="/memberships">Memberships</a></li>
 					</ul>
 				</li>
 				<li>
@@ -79,8 +79,8 @@
 				<li>
 					<div id="section5">The Connection</div>
 					<ul id="section5drop">
-						<li><div rel="#contactuspopup">Contact Us</div></li>
-						<li><a href="#7">Request a Quote</a></li>
+						<li><div rel="/contact">Contact Us</div></li>
+						<li><a href="#1">Request a Quote</a></li>
 						<li><a href="/minisamplebooks">Mini Sample Books</a></li>
 					</ul>
 				</li>
@@ -117,7 +117,7 @@
 			<div id="pages">
 				<a href="/ourfirm">The HWDS Team</a>&nbsp;<span>&bull;</span>
 				<div rel="#clientspopup">Clients</div>&nbsp;<span>&bull;</span>
-				<a href="#9">Memberships</a>&nbsp;<span>&bull;</span>
+				<a href="/memberships">Memberships</a>&nbsp;<span>&bull;</span>
 				<a href="/publications">Printed Publications</a>&nbsp;<span>&bull;</span>
 				<a href="/identity">Identity</a>&nbsp;<span>&bull;</span>
 				<a href="/interactive">Interactive/Online</a>&nbsp;<span>&bull;</span>
@@ -134,8 +134,8 @@
 				<div rel="#webmarketingpopup">Web Marketing</div>&nbsp;<span>&bull;</span>
 				<div rel="#greenpopup">Green Commitment</div>&nbsp;<span>&bull;</span>
 				<a href="http://successfulcorporatecommunications.com/">The Blog</a>&nbsp;<span>&bull;</span>
-				<div rel="#contactuspopup">Contact Us</div>&nbsp;<span>&bull;</span>
-				<a href="#13">Request A Quote</a>&nbsp;<span>&bull;</span>
+				<div rel="/contact">Contact Us</div>&nbsp;<span>&bull;</span>
+				<a href="#2">Request A Quote</a>&nbsp;<span>&bull;</span>
 				<a href="/minisamplebooks">Mini Sample Books</a>
 			</div>
 		</div>

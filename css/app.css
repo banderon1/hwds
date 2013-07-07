@@ -88,7 +88,7 @@ li.h1{font-size:17px;list-style-type:none !important;height:60px}
 #section3{background:url('/images/section3.png') bottom;width:185px}
 #section4{background:url('/images/section4.png') bottom;width:145px}
 #section5{background:url('/images/section5.png') bottom;width:185px}
-area,#green,#contactus,#section1,#section2,#section3,#section4,#section5,.popflash,.ecardflash,.ecardsreturn,.timelesscontent,.timelessreturn{cursor:pointer}
+area,#green,#section1,#section2,#section3,#section4,#section5,.popflash,.ecardflash,.ecardsreturn,.timelesscontent,.timelessreturn{cursor:pointer}
 #section1,#section2,#section3,#section4,#section5{display:block;height:100px;text-indent:-99999px}
 #section1:hover,#section2:hover,#section3:hover,#section4:hover,#section5:hover{background-position:0 0}
 
@@ -99,7 +99,6 @@ area,#green,#contactus,#section1,#section2,#section3,#section4,#section5,.popfla
 
 #stuffabusmain,#csnmain,#trainpostermain{padding:0 15px !important}
 .returnClick{padding:10px 30px !important;text-align:left}
-#contactus{float:left;padding-left:35px}
 .newbutton{background:url('/images/NewButton.png') top no-repeat;width:60px;height:63px;padding-bottom:10px}
 
 #footer{text-align:center;padding-top:20px}

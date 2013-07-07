@@ -13,6 +13,7 @@ angular.module('hwds', ['ngSanitize']).
 	  when('/newsletters', {templateUrl: 'partials/newsletters.html', controller: NewslettersCtrl}).
 	  when('/bilingual', {templateUrl: 'partials/bilingual.html', controller: BilingualCtrl}).
 	  when('/events', {templateUrl: 'partials/events.html', controller: EventsCtrl}).
+	  when('/minisamplebooks', {templateUrl: 'partials/minisamplebooks.html', controller: MiniSampleBooksCtrl}).
 	  otherwise({redirectTo: '/'});
 
   $locationProvider.html5Mode(true);
@@ -200,6 +201,9 @@ function EventsCtrl($scope,$http){
 	$http.get('data/events.json').success(function(data){
 		$scope.sections = data;
 	});
+}
+function MiniSampleBooksCtrl(){
+	setPageFunctions();
 }
 function setPopupLoaders(){
 	var query = window.location.search.substring(1);

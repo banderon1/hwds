@@ -81,7 +81,7 @@
 					<ul id="section5drop">
 						<li><div rel="#contactuspopup">Contact Us</div></li>
 						<li><a href="#7">Request a Quote</a></li>
-						<li><a href="#8">Mini Sample Books</a></li>
+						<li><a href="/minisamplebooks">Mini Sample Books</a></li>
 					</ul>
 				</li>
 			</ul>
@@ -136,7 +136,7 @@
 				<a href="http://successfulcorporatecommunications.com/">The Blog</a>&nbsp;<span>&bull;</span>
 				<div rel="#contactuspopup">Contact Us</div>&nbsp;<span>&bull;</span>
 				<a href="#13">Request A Quote</a>&nbsp;<span>&bull;</span>
-				<a href="#14">Mini Sample Books</a>
+				<a href="/minisamplebooks">Mini Sample Books</a>
 			</div>
 		</div>
 <?php include 'popups.php'; ?>

@@ -10,6 +10,9 @@ angular.module('hwds', ['ngSanitize']).
 	  when('/interactive', {templateUrl: 'partials/interactive.html', controller: InteractiveCtrl}).
 	  when('/identity', {templateUrl: 'partials/identity.html', controller: IdentityCtrl}).
 	  when('/editorial', {templateUrl: 'partials/editorial.html', controller: EditorialCtrl}).
+	  when('/newsletters', {templateUrl: 'partials/newsletters.html', controller: NewslettersCtrl}).
+	  when('/bilingual', {templateUrl: 'partials/bilingual.html', controller: BilingualCtrl}).
+	  when('/events', {templateUrl: 'partials/events.html', controller: EventsCtrl}).
 	  otherwise({redirectTo: '/'});
 
   $locationProvider.html5Mode(true);
@@ -83,7 +86,7 @@ angular.module('hwds', ['ngSanitize']).
 /* Controllers */
 
 function IndexCtrl($scope){
-	setPageFunctions(0);
+	setPageFunctions();
 	setPopupLoaders();
 	//add the slideshow
 	$("#showcase").awShowcase(
@@ -123,24 +126,24 @@ function IndexCtrl($scope){
 }
 
 function OurFirmCtrl($scope){
-	setPageFunctions(1);
+	setPageFunctions();
 	$('#scrollbar1').tinyscrollbar();
 	$('#scrollbar2').tinyscrollbar();
 }
 function PublicationsCtrl($scope,$http){
-	setPageFunctions(2);
+	setPageFunctions();
 	$http.get('data/publications.json').success(function(data){
 		$scope.sections = data;
 	});
 }
 function PromotionsCtrl($scope,$http){
-	setPageFunctions(3);
+	setPageFunctions();
 	$http.get('data/promotions.json').success(function(data){
 		$scope.sections = data;
 	});
 }
 function InteractiveCtrl($scope,$http){
-	setPageFunctions(4);
+	setPageFunctions();
 	$('#scrollbar0').tinyscrollbar();
 	
 	var flashvideos = [
@@ -169,14 +172,32 @@ function InteractiveCtrl($scope,$http){
 	});
 }
 function IdentityCtrl($scope,$http){
-	setPageFunctions(5);
+	setPageFunctions();
 	$http.get('data/identity.json').success(function(data){
 		$scope.sections = data;
 	});
 }
 function EditorialCtrl($scope,$http){
-	setPageFunctions(6);
+	setPageFunctions();
 	$http.get('data/editorial.json').success(function(data){
+		$scope.sections = data;
+	});
+}
+function NewslettersCtrl($scope,$http){
+	setPageFunctions();
+	$http.get('data/newsletters.json').success(function(data){
+		$scope.sections = data;
+	});
+}
+function BilingualCtrl($scope,$http){
+	setPageFunctions();
+	$http.get('data/bilingual.json').success(function(data){
+		$scope.sections = data;
+	});
+}
+function EventsCtrl($scope,$http){
+	setPageFunctions();
+	$http.get('data/events.json').success(function(data){
 		$scope.sections = data;
 	});
 }
@@ -204,11 +225,10 @@ function setPopupLoaders(){
 		$("#pages div[rel=#contactuspopup]").click();
 	}
 }
-function setPageFunctions(page){
+function setPageFunctions(){
+	//hide the pre-loader animation
 	$('#floatingCirclesG').hide();
-	$('#page1,#page2,#page3,#page4,#page5,#page6').removeAttr('style');
-	$('#page'+page).css('backgroundPosition','0 0');
-
+	
 	//hide whichever popup view is showing
 	$("a.ecardsreturn").on("click",function(e){
 		e.preventDefault();

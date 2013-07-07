@@ -1,7 +1,10 @@
 *{padding:0;margin:0;font-family:Verdana, Geneva, sans-serif}
+html,body{height:100%}
 body{background-image:url('/images/bg.jpg')}
 /* -----------------------*/
-#entirepage{font-size:11px;line-height:16px;background-color:#FFFFFF;color:#666666;vertical-align:middle;height:100%;width:1015px;margin:0 auto;box-shadow: 0 10px 30px #666}
+div#wrapper{display:table;height:100%;margin:0 auto;min-width:1015px}
+div#entirepage{font-size:11px;line-height:16px;color:#666;display:table-cell;position:relative;text-align:center;vertical-align:middle;height:100%;margin:0 auto}
+div#innerwrap{background-color:#FFF;box-shadow: 0 10px 30px #666}
 a{text-decoration:none;cursor:pointer}
 
 ul,li{list-style-type:none}

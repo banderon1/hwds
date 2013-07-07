@@ -32,7 +32,7 @@
   </script>
 </head>
 <body popups-directive>
-	<div id="entirepage">
+	<div id="wrapper"><div id="entirepage"><div id="innerwrap">
 		<!--[if lte IE 8]>
 		    <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a target="_blank" href="http://browsehappy.com/">upgrade your browser</a> or <a target="_blank" href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
 		<![endif]-->
@@ -128,6 +128,6 @@
 			</div>
 		</div>
 <?php include 'popups.php'; ?>
-	</div>
+	</div></div></div>
 </body>
 </html>

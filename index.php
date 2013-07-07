@@ -79,7 +79,7 @@
 				<li>
 					<div id="section5">The Connection</div>
 					<ul id="section5drop">
-						<li><div rel="/contact">Contact Us</div></li>
+						<li><a href="/contact">Contact Us</div></li>
 						<li><a href="#1">Request a Quote</a></li>
 						<li><a href="/minisamplebooks">Mini Sample Books</a></li>
 					</ul>
@@ -134,7 +134,7 @@
 				<div rel="#webmarketingpopup">Web Marketing</div>&nbsp;<span>&bull;</span>
 				<div rel="#greenpopup">Green Commitment</div>&nbsp;<span>&bull;</span>
 				<a href="http://successfulcorporatecommunications.com/">The Blog</a>&nbsp;<span>&bull;</span>
-				<div rel="/contact">Contact Us</div>&nbsp;<span>&bull;</span>
+				<a href="/contact">Contact Us</div>&nbsp;<span>&bull;</span>
 				<a href="#2">Request A Quote</a>&nbsp;<span>&bull;</span>
 				<a href="/minisamplebooks">Mini Sample Books</a>
 			</div>

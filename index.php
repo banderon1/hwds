@@ -101,10 +101,12 @@
 		<div ng-view></div>
 		
 		<div id="footer">
-			<div class="contact-links">
+			<div id="contact-links">
 				<div class="social">
 					<a target="_blank" href="http://www.linkedin.com/in/harlanwest"><img alt="LinkedIn" src="/images/linked-in.png" width="30" height="25"/></a>
 					<a target="_blank" href="https://twitter.com/HWDSInc"><img alt="Twitter" src="/images/twitter.png" width="25" height="25"/></a>
+					<div><a target="_blank" href="http://visitor.r20.constantcontact.com/d.jsp?llr=7qnrezcab&p=oi&m=1102502737436"><img alt="Subscribe to Newsletter" src="/images/subscribe-to-newsletter.png" width="87" height="33"/></a></div>
+					<div rel="#promotionspopup"><img alt="Current Promotions" src="/images/current-promotions.png" width="87" height="33"/></div>
 				</div>
 				<div class="personal">
 					818.707.4455 <span class="green">&bull;</span> e-mail: <a href="mailto:hwdesign@west.net">hwdesign@west.net</a>

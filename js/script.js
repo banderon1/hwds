@@ -232,6 +232,8 @@ function setPopupLoaders(){
 		$("#pages div[rel=#webmarketingpopup]").click();
 	} else if(query == 'green'){
 		$("#pages div[rel=#greenpopup]").click();
+	} else if(query == 'promotions'){
+		$("div[rel=#promotionspopup]").click();
 	}
 }
 function setPageFunctions(){

@@ -25,6 +25,7 @@ img{border:0}
 .popupswap{display:none;text-align:center}
 .popupswap div{padding:10px 30px}
 #greenpopup ul{padding-left:20px}
+#promotionspopup{width:477px}
 .close{position:absolute;display:block;right:-15px;top:-15px;width:26px;height:26px;background:transparent url("/images/close.png") no-repeat 0 0;text-indent:-5000px;z-index:9999}
 .contact-link{padding-top:10px}
 .firstcol,.secondcol{float:left}
@@ -102,9 +103,13 @@ area,#green,#section1,#section2,#section3,#section4,#section5,.popflash,.ecardfl
 .newbutton{background:url('/images/NewButton.png') top no-repeat;width:60px;height:63px;padding-bottom:10px}
 
 #footer{text-align:center;padding-top:20px}
-#footer .contact-links{height:30px;margin:0 30px}
-#footer .social{float:left}
-#footer .personal{text-align:right}
+#footer #contact-links{height:40px;margin:0 30px}
+#footer .social{float:left;width:270px}
+#footer .social a img{padding-bottom:3px}
+#footer .social div{display:inline;margin-left:10px}
+#footer .social div a img{padding:0}
+#footer .social div:hover{cursor:pointer}
+#footer .personal{text-align:right;padding-top:5px}
 #footer .personal a{color:#FAA61B}
 #footer .personal a:hover{color:#A6CE39}
 #footer .personal,#footer h1{font-size:15px;line-height:23px;margin-bottom:10px;color:#666666;width:100%;border:none}

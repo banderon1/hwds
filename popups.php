@@ -1,3 +1,6 @@
+<div id="promotionspopup" class="popup">
+	<img src="/images/popups/promotions.png" alt="Save $1000s on Publication Costs; iMags Have Arrived!"/>
+</div>
 <div id="advertisingpopup" class="popup">
 	<div class="masthead">&nbsp;</div>
 	<div class="popupContent">

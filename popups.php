@@ -85,7 +85,7 @@
 				<li><span>Marc Rail</span></li>
 			</ul>
 			<ul class="gray bullets threecol">
-				<li><span>Metro West/Pulte Home</span></li>
+				<li><span>Metro West/Pulte Homes</span></li>
 				<li><span>Orange County Transportation Commission (OCTA)</span></li>
 				<li><span>Pearson Education/Regents Prenctice Hall</span></li>
 				<li><span>Potomoc Crossing Consultants</span></li>
@@ -94,7 +94,7 @@
 				<li><span>Tashman and Associates</span></li>
 				<li><span>Transportation Management Services</span></li>
 				<li><span>Ventura County Transportation Commission (VCTC)</span></li>
-				<li><span>Washington DC Recycling</span></li>
+				<li><span>Washington D.C. Recycling</span></li>
 				<li><span> Women and Words</span></li>
 				<li><span>WomenandWords.com</span></li>
 			</ul>

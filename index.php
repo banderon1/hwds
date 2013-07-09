@@ -129,7 +129,7 @@
 				<div rel="#imagspopup">iMags/e-Pubs</div>&nbsp;<span>&bull;</span>
 				<a href="/bilingual">Bilingual</a><br/>
 				<a href="/events">Events</a>&nbsp;<span>&bull;</span>
-				<div rel="#timelesspopup">Multi-year Projects</div>
+				<div rel="#timelesspopup">Multi-year Projects</div>&nbsp;<span>&bull;</span>
 				<div rel="#advertisingpopup">Advertising</div>&nbsp;<span>&bull;</span>
 				<div rel="#brandingpopup">Branding</div>&nbsp;<span>&bull;</span>
 				<div rel="#promotingpopup">Promoting</div>&nbsp;<span>&bull;</span>

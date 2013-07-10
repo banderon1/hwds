@@ -4,21 +4,21 @@
   <meta charset="utf-8">
   <meta name="fragment" content="!" />
   <title>HWDS and Associates, Inc.</title>
-  <link rel="stylesheet" href="css/app.css">
+  <link rel="stylesheet" href="css/app.css?v=2">
   <!--[if lte IE 8]>
-  	<script src="/js/json3.js"></script>
-  	<link rel="stylesheet" href="css/ie8.css">
+  	<script src="/js/json3.js?v=2"></script>
+  	<link rel="stylesheet" href="css/ie8.css?v=2">
   <![endif]-->
-  <script src="/js/jquery.tools.min.js"></script>
-  <script src="/js/jquery.tinyscrollbar.min.js"></script>
-  <script src="/lib/angular/angular.min.js"></script>
-  <script src="/lib/angular/angular-sanitize.min.js"></script>
+  <script src="/js/jquery.tools.min.js?v=2"></script>
+  <script src="/js/jquery.tinyscrollbar.min.js?v=2"></script>
+  <script src="/lib/angular/angular.min.js?v=2"></script>
+  <script src="/lib/angular/angular-sanitize.min.js?v=2"></script>
   
-  <link rel="stylesheet" href="css/awkward.css">
-  <script type="text/javascript" src="/js/jquery.aw-showcase.min.js"></script>
+  <link rel="stylesheet" href="css/awkward.css?v=2">
+  <script type="text/javascript" src="/js/jquery.aw-showcase.min.js?v=2"></script>
 
-  <script src="/js/swfobject.js"></script>
-  <script src="/js/script.js"></script>
+  <script src="/js/swfobject.js?v=2"></script>
+  <script src="/js/script.js?v=2"></script>
   <script type="text/javascript">
     var _gaq = _gaq || [];
   	_gaq.push(['_setAccount', 'UA-31040007-1']);

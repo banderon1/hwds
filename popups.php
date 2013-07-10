@@ -409,3 +409,6 @@
 	</div>
 	<!--end sub-popups for Holiday Train Poster -->
 </div>
+<div id="degaspopup" class="popup">
+	<img src="/images/popups/DegasReganPopup.png" alt="Degas and Regan artwork" height="600" width="774"/>
+</div>

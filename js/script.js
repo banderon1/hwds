@@ -28,14 +28,21 @@ angular.module('hwds', ['ngSanitize']).
   };
 }).directive('popupsDirective', function(){
   return function(scope, element, attrs){
-	$("div[rel]").overlay({
-		mask: { color: '#000', loadSpeed: 200, opacity: 0.75 },
-		onClose: function (){
-			$(".popupswap").hide();
-			$("#ecardsmain,#imagsmain,#timelessmain,#stuffabusmain").show();
+	$("div[rel]").live('click', function(e) {
+		if($(this).attr('rel'))
+		{
+			e.preventDefault();
+			$(this).overlay({
+				mask: { color: '#000', loadSpeed: 200, opacity: 0.75 },
+				load: true,
+				onClose: function (){
+					$(".popupswap").hide();
+					$("#ecardsmain,#imagsmain,#timelessmain,#stuffabusmain").show();
+				}
+			});
 		}
 	});
-	
+
 	var flashecards = [
 		{"id":0,"img":"Bell_Large.jpg","video":"HWDSHolidayCard.swf","w":550,"h":320},
 		{"id":1,"img":"LLGEnvelope2-Holidays2009_u.jpg","video":"LLGCard2009.swf","w":720,"h":480},

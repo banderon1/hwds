@@ -1,5 +1,8 @@
 <div id="promotionspopup" class="popup">
-	<img src="/images/popups/promotions.png" alt="Save $1000s on Publication Costs; iMags Have Arrived!"/>
+	<img id="promotions-popup-map" src="/images/popups/promotions.png" alt="Save $1000s on Publication Costs; iMags Have Arrived!" usemap="#promotions-popup-map" border="0" width="477" height="554"/>
+	<map id="_promotions-popup-map" name="promotions-popup-map">
+		<area shape="rect" coords="223,469,434,507" target="_blank" href="mailto:hwdesign@west.net" alt="email link" title="email link" />
+	</map>
 </div>
 <div id="advertisingpopup" class="popup">
 	<div class="masthead">&nbsp;</div>

@@ -9,16 +9,7 @@
   	<script src="/js/json3.js?v=2"></script>
   	<link rel="stylesheet" href="css/ie8.css?v=2">
   <![endif]-->
-  <script src="/js/jquery.tools.min.js?v=2"></script>
-  <script src="/js/jquery.tinyscrollbar.min.js?v=2"></script>
-  <script src="/lib/angular/angular.min.js?v=2"></script>
-  <script src="/lib/angular/angular-sanitize.min.js?v=2"></script>
-  
-  <link rel="stylesheet" href="css/awkward.css?v=2">
-  <script type="text/javascript" src="/js/jquery.aw-showcase.min.js?v=2"></script>
-
-  <script src="/js/swfobject.js?v=2"></script>
-  <script src="/js/script.js?v=2"></script>
+  <link rel="stylesheet" href="/css/awkward.css?v=2">
   <script type="text/javascript">
     var _gaq = _gaq || [];
   	_gaq.push(['_setAccount', 'UA-31040007-1']);
@@ -105,7 +96,7 @@
 				<div class="social">
 					<a target="_blank" href="http://www.linkedin.com/in/harlanwest"><img alt="LinkedIn" src="/images/linked-in.png" width="30" height="25"/></a>
 					<a target="_blank" href="https://twitter.com/HWDSInc"><img alt="Twitter" src="/images/twitter.png" width="25" height="25"/></a>
-					<div><a target="_blank" href="http://visitor.r20.constantcontact.com/d.jsp?llr=7qnrezcab&p=oi&m=1102502737436"><img alt="Subscribe to Newsletter" src="/images/subscribe-to-newsletter.png" width="87" height="33"/></a></div>
+					<div><a target="_blank" href="http://www.westdesign.com/Issuezsignupmain"><img alt="Subscribe to Newsletter" src="/images/subscribe-to-newsletter.png" width="87" height="33"/></a></div>
 					<div rel="#promotionspopup"><img alt="Current Promotions" src="/images/current-promotions.png" width="87" height="33"/></div>
 				</div>
 				<div class="personal">
@@ -143,5 +134,6 @@
 		</div>
 <?php include 'popups.php'; ?>
 	</div></div></div>
+<script src="/js/all.js?v=1"></script>
 </body>
 </html>

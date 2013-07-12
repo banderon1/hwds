@@ -357,7 +357,7 @@
 	</div>
 	<div class="popupswap" id="csn2010popup">
 		<div class="returnClick"><a class="csnreturn" href="#">Return to CommuteSmart News Main Section</a></div>
-		<img class="subpop" src="/images/popups/timeless/CommuteSmart News/csn10-2010.png" border="0" width="461" height="597" alt="2010 CommuteSmart News"/>
+		<img class="subpop" src="/images/popups/timeless/CommuteSmart News/csn10-2010.png" border="0" width="462" height="597" alt="2010 CommuteSmart News"/>
 	</div>
 	<div class="popupswap" id="csn2011popup">
 		<div class="returnClick"><a class="csnreturn" href="#">Return to CommuteSmart News Main Section</a></div>

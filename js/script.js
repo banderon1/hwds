@@ -44,13 +44,13 @@ angular.module('hwds', ['ngSanitize']).
 	});
 
 	var flashecards = [
-		{"id":0,"img":"Bell_Large.jpg","video":"HWDSHolidayCard.swf","w":550,"h":320},
+		{"id":0,"img":"Bell_Large.jpg","video":"HWDSHolidayCard.swf","w":412,"h":439},
 		{"id":1,"img":"LLGEnvelope2-Holidays2009_u.jpg","video":"LLGCard2009.swf","w":720,"h":480},
-		{"id":2,"img":"Bell_Large.jpg","video":"HWDSHalloweenCarcd2.swf","w":720,"h":480},
+		{"id":2,"img":"Gumdrops_Large.jpg","video":"HWDSHalloweenCarcd2.swf","w":756,"h":439},
 		{"id":3,"img":"MetrolinkEnvelope2010.jpg","video":"MetrolinkHoliday2011_22.swf","w":720,"h":480},
 		{"id":4,"img":"EnvelopePenguins.jpg","video":"HWDS-Flash-Card07.swf","w":800,"h":400},
 		{"id":5,"img":"LLGEnvelope2Holidays2010.jpg","video":"LLGHoliday2011_10.swf","w":720,"h":480},
-		{"id":6,"img":"HDWSEnvelopeHolidays2012open.jpg","video":"HWflash14.swf","w":360,"h":460},
+		{"id":6,"img":"HDWSEnvelopeHolidays2012open.jpg","video":"HWflash14.swf","w":720,"h":480},
 	];
 	scope.flashecards = flashecards;
 	
@@ -98,39 +98,41 @@ function IndexCtrl($scope){
 	setPageFunctions();
 	setPopupLoaders();
 	//add the slideshow
-	$("#showcase").awShowcase(
-	{
-		content_width:			1000,
-		content_height:			300,
-		fit_to_parent:			false,
-		auto:					true,
-		interval:				5000,
-		continuous:				false,
-		loading:				false,
-		tooltip_width:			200,
-		tooltip_icon_width:		32,
-		tooltip_icon_height:	32,
-		tooltip_offsetx:		18,
-		tooltip_offsety:		0,
-		arrows:					true,
-		buttons:				true,
-		btn_numbers:			false,
-		keybord_keys:			true,
-		mousetrace:				false, /* Trace x and y coordinates for the mouse */
-		pauseonover:			true,
-		stoponclick:			false,
-		transition:				'hslide', /* hslide/vslide/fade */
-		transition_delay:		0,
-		transition_speed:		1000,
-		show_caption:			'onload', /* onload/onhover/show */
-		thumbnails:				false,
-		thumbnails_position:	'outside-last', /* outside-last/outside-first/inside-last/inside-first */
-		thumbnails_direction:	'vertical', /* vertical/horizontal */
-		thumbnails_slidex:		1, /* 0 = auto / 1 = slide one thumbnail / 2 = slide two thumbnails / etc. */
-		dynamic_height:			false, /* For dynamic height to work in webkit you need to set the width and height of images in the source. Usually works to only set the dimension of the first slide in the showcase. */
-		speed_change:			true, /* Set to true to prevent users from switching more then one slide at once. */
-		viewline:				false, /* If set to true content_width, thumbnails, transition and dynamic_height will be disabled. As for dynamic height you need to set the width and height of images in the source. */
-		custom_function:		null /* Define a custom function that runs on content change */
+	$.getScript("/js/jquery.aw-showcase.min.js?v=2", function(data, textStatus, jqxhr) {
+	   $("#showcase").awShowcase(
+		{
+			content_width:			1000,
+			content_height:			300,
+			fit_to_parent:			false,
+			auto:					true,
+			interval:				5000,
+			continuous:				false,
+			loading:				false,
+			tooltip_width:			200,
+			tooltip_icon_width:		32,
+			tooltip_icon_height:	32,
+			tooltip_offsetx:		18,
+			tooltip_offsety:		0,
+			arrows:					true,
+			buttons:				true,
+			btn_numbers:			false,
+			keybord_keys:			true,
+			mousetrace:				false, /* Trace x and y coordinates for the mouse */
+			pauseonover:			true,
+			stoponclick:			false,
+			transition:				'hslide', /* hslide/vslide/fade */
+			transition_delay:		0,
+			transition_speed:		1000,
+			show_caption:			'onload', /* onload/onhover/show */
+			thumbnails:				false,
+			thumbnails_position:	'outside-last', /* outside-last/outside-first/inside-last/inside-first */
+			thumbnails_direction:	'vertical', /* vertical/horizontal */
+			thumbnails_slidex:		1, /* 0 = auto / 1 = slide one thumbnail / 2 = slide two thumbnails / etc. */
+			dynamic_height:			false, /* For dynamic height to work in webkit you need to set the width and height of images in the source. Usually works to only set the dimension of the first slide in the showcase. */
+			speed_change:			true, /* Set to true to prevent users from switching more then one slide at once. */
+			viewline:				false, /* If set to true content_width, thumbnails, transition and dynamic_height will be disabled. As for dynamic height you need to set the width and height of images in the source. */
+			custom_function:		null /* Define a custom function that runs on content change */
+		});
 	});
 }
 
@@ -284,9 +286,10 @@ function setPageFunctions(){
 	//setup the dropdown menu animation
     $(function() {
     	$('#nyMenu li').hover(function(){
-			$('ul', this).slideDown('fast').show();
+			$('ul', this).stop().slideDown(600).show();
+			console.log(2);
 		}, function () {
-			$('ul', this).slideUp('fast');
+			$('ul', this).stop().slideUp(400);
 		});
     });
 }

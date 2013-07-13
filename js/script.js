@@ -286,10 +286,10 @@ function setPageFunctions(){
 	//setup the dropdown menu animation
     $(function() {
     	$('#nyMenu li').hover(function(){
-			$('ul', this).stop().slideDown(600).show();
+			$('ul', this).slideDown(600).show();
 			console.log(2);
 		}, function () {
-			$('ul', this).stop().slideUp(400);
+			$('ul', this).slideUp(400);
 		});
     });
 }

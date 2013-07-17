@@ -408,6 +408,7 @@ function MembershipsCtrl(){
 }
 function setPopupLoaders(){
 	var query = window.location.search.substring(1);
+	console.log(query);
 	if(query == 'clients'){
 		$("#pages div[rel=#clientspopup]").click();
 	} else if(query == 'ecards'){
@@ -430,6 +431,8 @@ function setPopupLoaders(){
 		$("#pages div[rel=#contactuspopup]").click();
 	} else if(query == 'promotions'){
 		$("div[rel=#promotionspopup]").click();
+	} else if(query == 'tuneup'){
+		$("div[rel=#tuneuppopup]").click();
 	}
 }
 function setPageFunctions(){

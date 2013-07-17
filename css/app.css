@@ -26,6 +26,7 @@ img{border:0}
 .popupswap div{padding:10px 30px}
 #greenpopup ul{padding-left:20px}
 #promotionspopup{width:477px}
+#tuneuppopup{width:937px}
 #degaspopup{width:774px}
 .close{position:absolute;display:block;right:-15px;top:-15px;width:26px;height:26px;background:transparent url("/images/close.png") no-repeat 0 0;text-indent:-5000px;z-index:9999}
 .contact-link{padding-top:10px}

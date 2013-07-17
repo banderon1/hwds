@@ -132,7 +132,7 @@
 				<a href="/minisamplebooks">Mini Sample Books</a>
 			</div>
 		</div>
-<?php include 'popups.php'; ?>
+		<div id="popups-container"></div>
 	</div></div></div>
 <script src="/js/all.js?v=1"></script>
 </body>

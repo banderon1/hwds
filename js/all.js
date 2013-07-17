@@ -211,69 +211,72 @@ angular.module('hwds', ['ngSanitize']).
   };
 }).directive('popupsDirective', function(){
   return function(scope, element, attrs){
-  	$('#popups-container').load('/popups.html', function() {
-  		$("div[rel]").live('click', function(e) {
-			if($(this).attr('rel'))
-			{
-				e.preventDefault();
-				$(this).overlay({
-					mask: { color: '#000', loadSpeed: 200, opacity: 0.75 },
-					load: true,
-					onClose: function (){
-						$(".popupswap").hide();
-						$("#ecardsmain,#imagsmain,#timelessmain,#stuffabusmain").show();
-					}
-				});
-			}
-		});
+  	$(document).ready(function() {
+  		$('#popups-container').load('/popups.html', function() {
+  			$("div[rel]").live('click', function(e) {
+				if($(this).attr('rel'))
+				{
+					e.preventDefault();
+					$(this).overlay({
+						mask: { color: '#000', loadSpeed: 200, opacity: 0.75 },
+						load: true,
+						onClose: function (){
+							$(".popupswap").hide();
+							$("#ecardsmain,#imagsmain,#timelessmain,#stuffabusmain").show();
+						}
+					});
+				}
+			});
 
-		var flashecards = [
-			{"id":0,"img":"Bell_Large.jpg","video":"HWDSHolidayCard.swf","w":412,"h":439},
-			{"id":1,"img":"LLGEnvelope2-Holidays2009_u.jpg","video":"LLGCard2009.swf","w":720,"h":480},
-			{"id":2,"img":"Gumdrops_Large.jpg","video":"HWDSHalloweenCarcd2.swf","w":756,"h":439},
-			{"id":3,"img":"MetrolinkEnvelope2010.jpg","video":"MetrolinkHoliday2011_22.swf","w":720,"h":480},
-			{"id":4,"img":"EnvelopePenguins.jpg","video":"HWDS-Flash-Card07.swf","w":800,"h":400},
-			{"id":5,"img":"LLGEnvelope2Holidays2010.jpg","video":"LLGHoliday2011_10.swf","w":720,"h":480},
-			{"id":6,"img":"HDWSEnvelopeHolidays2012open.jpg","video":"HWflash14.swf","w":720,"h":480},
-		];
-		scope.flashecards = flashecards;
-		
-		$(".ecardflash").click(function(){
-			var id = getID(this);
-			swfobject.embedSWF("images/popups/ecards/"+flashecards[id].video, "ecardflashcontent"+id, flashecards[id].w, flashecards[id].h, "9.0.0",null,{},{wmode:"transparent"},{});
+			var flashecards = [
+				{"id":0,"img":"Bell_Large.jpg","video":"HWDSHolidayCard.swf","w":412,"h":439},
+				{"id":1,"img":"LLGEnvelope2-Holidays2009_u.jpg","video":"LLGCard2009.swf","w":720,"h":480},
+				{"id":2,"img":"Gumdrops_Large.jpg","video":"HWDSHalloweenCarcd2.swf","w":756,"h":439},
+				{"id":3,"img":"MetrolinkEnvelope2010.jpg","video":"MetrolinkHoliday2011_22.swf","w":720,"h":480},
+				{"id":4,"img":"EnvelopePenguins.jpg","video":"HWDS-Flash-Card07.swf","w":800,"h":400},
+				{"id":5,"img":"LLGEnvelope2Holidays2010.jpg","video":"LLGHoliday2011_10.swf","w":720,"h":480},
+				{"id":6,"img":"HDWSEnvelopeHolidays2012open.jpg","video":"HWflash14.swf","w":720,"h":480},
+			];
+			scope.flashecards = flashecards;
 			
-			$("#ecardsmain").hide();
-			$("#ecard"+id+"popup").show();
+			$(".ecardflash").click(function(){
+				var id = getID(this);
+				swfobject.embedSWF("images/popups/ecards/"+flashecards[id].video, "ecardflashcontent"+id, flashecards[id].w, flashecards[id].h, "9.0.0",null,{},{wmode:"transparent"},{});
+				
+				$("#ecardsmain").hide();
+				$("#ecard"+id+"popup").show();
+			});
+			$(".imagscontent").click(function(){
+				var id = getID(this);
+				$("#imagsmain").hide();
+				$("#imags"+id+"popup").show();
+			});
+			$(".timelesscontent").click(function(){
+				var id = getID(this);
+				$("#timelessmain").hide();
+				$("#timeless"+id+"popup").show();
+			});
+			$(".stuffabuscontent").click(function(){
+				var id = getID(this);
+				$("#timeless0popup").hide();
+				$("#stuffabus"+id+"popup").show();
+			});
+			$(".csncontent").click(function(){
+				var id = getID(this);
+				$("#timeless1popup").hide();
+				$("#csn"+id+"popup").show();
+			});
+			$(".traincontent").click(function(){
+				var id = getID(this);
+				$("#timeless2popup").hide();
+				$("#train"+id+"popup").show();
+			});
+			function getID(el){
+				var id = $(el).attr("rel");
+				return id.replace(/[^\d]/g, "");//get only the digits
+			}
+			setPopupLoaders();
 		});
-		$(".imagscontent").click(function(){
-			var id = getID(this);
-			$("#imagsmain").hide();
-			$("#imags"+id+"popup").show();
-		});
-		$(".timelesscontent").click(function(){
-			var id = getID(this);
-			$("#timelessmain").hide();
-			$("#timeless"+id+"popup").show();
-		});
-		$(".stuffabuscontent").click(function(){
-			var id = getID(this);
-			$("#timeless0popup").hide();
-			$("#stuffabus"+id+"popup").show();
-		});
-		$(".csncontent").click(function(){
-			var id = getID(this);
-			$("#timeless1popup").hide();
-			$("#csn"+id+"popup").show();
-		});
-		$(".traincontent").click(function(){
-			var id = getID(this);
-			$("#timeless2popup").hide();
-			$("#train"+id+"popup").show();
-		});
-		function getID(el){
-			var id = $(el).attr("rel");
-			return id.replace(/[^\d]/g, "");//get only the digits
-		}
 	});
   };
 });
@@ -281,7 +284,6 @@ angular.module('hwds', ['ngSanitize']).
 /* Controllers */
 function IndexCtrl($scope){
 	setPageFunctions();
-	setPopupLoaders();
 	//add the slideshow
 	$.getScript("/js/jquery.aw-showcase.min.js?v=2", function(data, textStatus, jqxhr) {
 	   $("#showcase").awShowcase(
@@ -408,7 +410,6 @@ function MembershipsCtrl(){
 }
 function setPopupLoaders(){
 	var query = window.location.search.substring(1);
-	console.log(query);
 	if(query == 'clients'){
 		$("#pages div[rel=#clientspopup]").click();
 	} else if(query == 'ecards'){

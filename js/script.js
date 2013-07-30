@@ -137,6 +137,7 @@ function IndexCtrl($scope){
 			viewline:				false, /* If set to true content_width, thumbnails, transition and dynamic_height will be disabled. As for dynamic height you need to set the width and height of images in the source. */
 			custom_function:		null /* Define a custom function that runs on content change */
 		});
+		$("#showcase").css("visibility", "visible");
 	});
 }
 

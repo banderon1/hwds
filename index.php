@@ -94,10 +94,13 @@
 		<div id="footer">
 			<div id="contact-links">
 				<div class="social">
+					<a target="_blank" href="https://www.facebook.com/HWDSinc"><img style="margin-right:5px;" alt="Facebook" src="/images/facebook.png" width="25" height="25"/></a>
 					<a target="_blank" href="http://www.linkedin.com/in/harlanwest"><img alt="LinkedIn" src="/images/linked-in.png" width="30" height="25"/></a>
 					<a target="_blank" href="https://twitter.com/HWDSInc"><img alt="Twitter" src="/images/twitter.png" width="25" height="25"/></a>
 					<div><a target="_blank" href="http://www.westdesign.com/Issuezsignupmain"><img alt="Subscribe to Newsletter" src="/images/subscribe-to-newsletter.png" width="87" height="33"/></a></div>
 					<div rel="#promotionspopup"><img alt="Current Promotions" src="/images/current-promotions.png" width="87" height="33"/></div>
+					<div><a target="_self" href="http://www.westdesign.com/uploads/"><img alt="Send Us Files" src="/images/files-upload.png" width="87" height="33"/></a></div>
+					<div><a target="_self" href="http://www.westdesign.com/downloads/"><img alt="Downloads" src="/images/files-download.png" width="87" height="33"/></a></div>
 				</div>
 				<div class="personal">
 					818.707.4455 <span class="green">&bull;</span> e-mail: <a href="mailto:hwdesign@west.net">hwdesign@west.net</a>

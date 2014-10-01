@@ -4,7 +4,7 @@ body{background-image:url('/images/bg.jpg')}
 /* -----------------------*/
 div#wrapper{display:table;height:100%;margin:0 auto;min-width:1015px}
 div#entirepage{font-size:11px;line-height:16px;color:#666;display:table-cell;position:relative;text-align:left;vertical-align:middle;height:100%;margin:0 auto}
-div#innerwrap{background-color:#FFF;box-shadow: 0 10px 30px #666}
+div#innerwrap{border:10px solid #FAA61B;border-radius:10px;background-color:#FFF;box-shadow: 0 10px 30px #666}
 a{text-decoration:none;cursor:pointer}
 
 ul,li{list-style-type:none}
@@ -48,12 +48,12 @@ ul.bullets li span{color:#666666}
 ul.threecol{float:left;width:190px;padding:5px 20px;line-height:15px}
 ul.threecol li span{font-size:12px}
 
-#scrollbar0{float:left;width:1000px;margin:10px 0}
-#scrollbar1{float:left;width:600px;margin:10px 0}
-#scrollbar2{float:left;width:410px;margin:10px 0}
-#scrollbar0 .viewport{width:980px;height:425px;overflow:hidden;position:relative}
-#scrollbar1 .viewport{width:580px;height:425px;overflow:hidden;position:relative}
-#scrollbar2 .viewport{width:390px;height:425px;overflow:hidden;position:relative}
+#scrollbar0{float:left;width:990px;margin:10px 0}
+#scrollbar1{float:left;width:590px;margin:10px 0}
+#scrollbar2{float:left;width:400px;margin:10px 0}
+#scrollbar0 .viewport{width:970px;height:425px;overflow:hidden;position:relative}
+#scrollbar1 .viewport{width:570px;height:425px;overflow:hidden;position:relative}
+#scrollbar2 .viewport{width:380px;height:425px;overflow:hidden;position:relative}
 #scrollbar0 .overview,#scrollbar1 .overview,#scrollbar2 .overview{list-style:none;position:absolute;left:0;top:0;padding:0 20px}
 #scrollbar0 .thumb .end,#scrollbar1 .thumb .end,#scrollbar2 .thumb .end,
 #scrollbar0 .scrollbar,#scrollbar1 .scrollbar,#scrollbar2 .scrollbar{position:relative;float:right;width:2px;padding-right:10px}
@@ -64,7 +64,7 @@ ul.threecol li span{font-size:12px}
 section{clear:both;padding-top:70px;height:390px}
 section:first-of-type{padding-top:0px}
 #content .column1{float:left;width:280px}
-#content .column2{float:left;width:660px}
+#content .column2{float:left;width:650px}
 #content p{margin:20px 0}
 #content .pubdesc{width:200px}
 #content .quoter{font-style:italic;margin:0;text-align:right}
@@ -104,19 +104,20 @@ div[rel]:hover,area,#green,#section1,#section2,#section3,#section4,#section5,.po
 .returnClick{padding:10px 30px !important;text-align:left}
 .newbutton{background:url('/images/NewButton.png') top no-repeat;width:60px;height:63px;padding-bottom:10px}
 
-#footer{text-align:center;padding-top:20px}
-#footer #contact-links{height:40px;margin:0 30px}
-#footer .social{float:left;width:500px}
-#footer .social a img{padding-bottom:3px}
-#footer .social div{display:inline;margin-left:10px}
-#footer .social div a img{padding:0}
-#footer .social div:hover{cursor:pointer}
-#footer .personal{text-align:right;padding-top:5px}
+#footer{padding-top:20px}
+#footer #contact-links{margin:15px 30px}
+#footer .social{float:right;width:100px}
+#footer .graylink{padding:10px 20px}
+#footer .graylink a{color:#999;font-size:14px}
+#footer #contact-links a img{padding-bottom:3px}
+#footer #contact-links div{display:inline;margin-left:10px}
+#footer #contact-links div a img{padding:0}
+#footer h1,#footer .personal{font-size:13px;line-height:23px}
+#footer .personal{text-align:right;padding-top:5px;padding-left:45px}
 #footer .personal a{color:#FAA61B}
-#footer .personal a:hover{color:#A6CE39}
-#footer .personal,#footer h1{font-size:15px;line-height:23px;margin-bottom:10px;color:#666666;width:100%;border:none}
-#orange-bottom{background:url('/images/orange-bottom.png') top no-repeat;width:100%;height:100px}
-#pages {padding-bottom:20px}
+#footer a:hover{color:#A6CE39}
+#footer h1{padding-left:15px;margin-bottom:10px;margin-left:20px;color:#666666;width:930px;border:none}
+#pages {padding-bottom:20px;text-align:center}
 #pages span{color:#FAA61B}
 #pages a,#pages div{color:#BDBDBD;display:inline}
 #pages a:hover,#pages div:hover{color:#A6CE39;cursor:pointer}
@@ -129,6 +130,38 @@ div[rel]:hover,area,#green,#section1,#section2,#section3,#section4,#section5,.po
 #clientspopup .masthead{background-image:url('/images/popups/masthead/clients.png')}
 #greenpopup .masthead{background-image:url('/images/popups/masthead/green-commitment.png')}
 #client-list{margin-top:-20px}
+
+/* ticker */
+#marquee-holder{
+  color:#FFF;
+  background-color:#FAA61B; /* Fallback */
+  background:hsla(37, 96%, 54%, 1.0);
+  font-size: 14px;
+  height:30px;
+}
+#marquee-start{
+width: 140px;
+margin-left: 15px;
+padding: 5px 8px;
+position:relative;
+top:8px;
+}
+#marquee{
+  height:20px;
+  width:795px;
+  overflow:hidden;
+  position:relative;
+  margin-left:205px;
+  margin-top:-8px;
+}
+#marquee-text{
+  cursor:pointer;
+  overflow:hidden;
+  position:absolute;
+  left:10px;
+  margin-right:10px;
+}
+/* ticker */
 /* nyMenu */
 ul#nyMenu{padding-top:25px;float:right}
 #nyMenu li{display:inline-block;position:relative;z-index:500;float:left}

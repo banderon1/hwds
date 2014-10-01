@@ -292,7 +292,7 @@ function IndexCtrl($scope){
 			content_height:			300,
 			fit_to_parent:			false,
 			auto:					true,
-			interval:				5000,
+			interval:				7500,
 			continuous:				false,
 			loading:				false,
 			tooltip_width:			200,
@@ -476,10 +476,52 @@ function setPageFunctions(){
 	//setup the dropdown menu animation
     $(function() {
     	$('#nyMenu li').hover(function(){
-			$('ul', this).slideDown(600).show();
+			$('ul', this).show();
 		}, function () {
-			$('ul', this).slideUp(400);
+			//$('ul', this).hide();
 		});
+        $(document).click(function(){
+            $('#nyMenu li ul').hide();
+        })
+        console.log('marquee');
+        marquee($('#marquee'), $('#marquee-text'));
+    });
+}
+function marquee(a, b) {
+    var width = b.width();
+    var start_pos = 0;
+    var end_pos = -width;
+
+    function scroll() {
+        if (b.position().left <= -width) {
+            b.css('left', start_pos);
+            scroll();
+        }
+        else {
+            time = (parseInt(b.position().left, 10) - end_pos) *
+                (100000 / (start_pos - end_pos)); // Increase or decrease speed by changing value 10000
+            b.animate({
+                'left': -width
+            }, time, 'linear', function() {
+                scroll();
+            });
+        }
+    }
+
+    b.css({
+        'width': width,
+        'left': start_pos
+    });
+    start_pos = a.width()
+    scroll(a, b);
+
+    // Remove these lines if you don't want marquee to pause on mouse over
+    b.mouseenter(function() {
+        b.stop();
+        b.clearQueue();
+    });
+    b.mouseleave(function() {
+        scroll(a, b);
     });
 }
 /* End script.js */

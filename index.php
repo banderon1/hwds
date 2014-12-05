@@ -49,7 +49,11 @@ if(empty($_COOKIE['mobileok'])) {
   </script>
 </head>
 <body popups-directive>
-	<div id="wrapper"><div id="entirepage"><div id="innerwrap">
+	<div id="wrapper"><div id="entirepage">
+    <div id="twentyfour_years">
+        <img src="/images/24years.png" alt="Celebrating 24 years serving corporate clients." width="200" height="74" />
+    </div>
+    <div id="innerwrap">
 		<!--[if lte IE 8]>
 		    <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a target="_blank" href="http://browsehappy.com/">upgrade your browser</a> or <a target="_blank" href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
 		<![endif]-->
@@ -68,7 +72,7 @@ if(empty($_COOKIE['mobileok'])) {
 					<div id="section2">The Work</div>
 					<ul id="section2drop">
 						<li><a href="/publications">Printed Publications</a></li>
-						<li><a href="/promotions">Promotional</a></li>
+						<li><a href="/promotions">Advertising &amp; Promotions</a></li>
 						<li><a href="/identity">Identity</a></li>
 						<li><a href="/interactive">Interactive/Online</a></li>
 						<li><a href="/editorial">Editorial/Illustrations</a></li>

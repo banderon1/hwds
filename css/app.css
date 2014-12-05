@@ -4,6 +4,7 @@ body{background-image:url('/images/bg.jpg')}
 /* -----------------------*/
 div#wrapper{display:table;height:100%;margin:0 auto;min-width:1015px}
 div#entirepage{font-size:11px;line-height:16px;color:#666;display:table-cell;position:relative;text-align:left;vertical-align:middle;height:100%;margin:0 auto}
+div#twentyfour_years{text-align:right}
 div#innerwrap{border:10px solid #FAA61B;border-radius:10px;background-color:#FFF;box-shadow: 0 10px 30px #666}
 a{text-decoration:none;cursor:pointer}
 

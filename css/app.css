@@ -118,7 +118,7 @@ div[rel]:hover,area,#green,#section1,#section2,#section3,#section4,#section5,.po
 #footer .personal a{color:#FAA61B}
 #footer a:hover{color:#A6CE39}
 #footer h1{padding-left:15px;margin-bottom:10px;margin-left:20px;color:#666666;width:930px;border:none}
-#pages {padding-bottom:20px;text-align:center}
+#pages {font-size:10px;padding-bottom:20px;text-align:center}
 #pages span{color:#FAA61B}
 #pages a,#pages div{color:#BDBDBD;display:inline}
 #pages a:hover,#pages div:hover{color:#A6CE39;cursor:pointer}

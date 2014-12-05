@@ -151,7 +151,8 @@ if(empty($_COOKIE['mobileok'])) {
 				<div rel="#clientspopup">Clients</div>&nbsp;<span>&bull;</span>
 				<a href="/memberships">Memberships</a>&nbsp;<span>&bull;</span>
 				<a href="/publications">Printed Publications</a>&nbsp;<span>&bull;</span>
-				<a href="/identity">Identity</a>&nbsp;<span>&bull;</span>
+                <a href="/promotions">Advertising &amp; Promotions</a>&nbsp;<span>&bull;</span>
+                <a href="/identity">Identity</a>&nbsp;<span>&bull;</span>
 				<a href="/interactive">Interactive/Online</a>&nbsp;<span>&bull;</span>
 				<a href="/editorial">Editorial/Illustrations</a>&nbsp;<span>&bull;</span>
 				<a href="/newsletters">Newsletters</a>&nbsp;<span>&bull;</span>

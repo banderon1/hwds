@@ -135,8 +135,8 @@ if(empty($_COOKIE['mobileok'])) {
             </div>
 
             <div id="contact-links">
-				<div class="graylink"><a target="_self" href="http://www.westdesign.com/uploads/">Send Us Files</a></div>
-				<div class="graylink"><a target="_self" href="http://www.westdesign.com/downloads/">Downloads</a></div>
+				<div class="graylink"><a target="_self" href="/uploads/">Send Us Files</a></div>
+				<div class="graylink"><a target="_self" href="/downloads/">Downloads</a></div>
                 <div class="personal">
                     818.707.4455 <span class="green">&bull;</span> e-mail: <a href="mailto:hwdesign@west.net">hwdesign@west.net</a>
                 </div>

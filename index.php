@@ -50,8 +50,8 @@ if(empty($_COOKIE['mobileok'])) {
 </head>
 <body popups-directive>
 	<div id="wrapper"><div id="entirepage">
-    <div id="twentyfour_years">
-        <img src="/images/24years.png" alt="Celebrating 24 years serving corporate clients." width="200" height="74" />
+    <div id="howmany_years">
+        <img src="/images/howmanyyears.png" alt="Celebrating 25 years serving corporate clients." width="200" height="118" />
     </div>
     <div id="innerwrap">
 		<!--[if lte IE 8]>

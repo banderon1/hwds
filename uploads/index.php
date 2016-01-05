@@ -20,14 +20,9 @@
 <meta name="description" content="File Upload widget with multiple file selection, drag&amp;drop support and progress bar for jQuery. Supports cross-domain, chunked and resumable file uploads. Works with any server-side platform (PHP, Python, Ruby on Rails, Java, Node.js, Go etc.) that supports standard HTML form file uploads.">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <!-- Bootstrap CSS Toolkit styles -->
-<link rel="stylesheet" href="http://blueimp.github.io/cdn/css/bootstrap.min.css">
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
 <!-- Generic page styles -->
 <link rel="stylesheet" href="css/style.css">
-<!-- Bootstrap styles for responsive website layout, supporting different screen sizes -->
-<link rel="stylesheet" href="http://blueimp.github.io/cdn/css/bootstrap-responsive.min.css">
-<!-- Bootstrap CSS fixes for IE6 -->
-<!--[if lt IE 7]><link rel="stylesheet" href="http://blueimp.github.io/cdn/css/bootstrap-ie6.min.css"><![endif]-->
-<!-- CSS to style the file input field as button and adjust the Bootstrap progress bars -->
 <link rel="stylesheet" href="css/jquery.fileupload-ui.css">
 </head>
 <body>
@@ -46,11 +41,29 @@
         <div class="bar" style="width: 0%;"></div>
     </div>
     <!-- The container for the uploaded files -->
-    <div id="files" class="files"></div>
+    <div id="status"></div>
     <br/>
     <div class="well">
         <ul>
             <li>You can <strong>drag &amp; drop</strong> files from your desktop on this webpage with Google Chrome, Mozilla Firefox and Apple Safari.</li>
+        </ul>
+    </div>
+
+    <div class="well">
+        <ul id="files">
+            <strong>Files already on the server:</strong>
+            <?php
+                $directory = 'php/files/';
+                $files = array_diff(scandir($directory), ['..', '.', '.htaccess', '.gitignore']);
+
+                if(empty($files)) {
+                    echo "<li>There are currently no files in the upload directory.</li>";
+                } else {
+                    foreach ($files as $file) {
+                        echo "<li><a href='$directory$file'>" . $file . "</a></li>";
+                    }
+                }
+            ?>
         </ul>
     </div>
 </div>
@@ -70,13 +83,14 @@ $(function () {
         url: '/uploads/php/',
         dataType: 'json',
         add: function (e, data) {
-            data.context = $('<p/>').text('Uploading...').appendTo(document.body);
+            $('#status').text('Uploading...');
             data.submit();
         },
         done: function (e, data) {
             $.each(data.result.files, function (index, file) {
-                data.context.text(file.name).appendTo('#files');
+                $('#files').append('<li><a href="<?php echo $directory; ?>' + file.name + '">' + file.name + '</a></li>');
             });
+            $('#status').text('Complete');
         },
         progressall: function (e, data) {
             var progress = parseInt(data.loaded / data.total * 100, 10);

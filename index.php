@@ -50,8 +50,8 @@ if(empty($_COOKIE['mobileok'])) {
 </head>
 <body popups-directive>
 	<div id="wrapper"><div id="entirepage">
-    <div id="twentyfour_years">
-        <img src="/images/24years.png" alt="Celebrating 24 years serving corporate clients." width="200" height="74" />
+    <div id="howmany_years">
+        <img src="/images/howmanyyears.png" alt="Celebrating 25 years serving corporate clients." width="200" height="118" />
     </div>
     <div id="innerwrap">
 		<!--[if lte IE 8]>
@@ -135,8 +135,8 @@ if(empty($_COOKIE['mobileok'])) {
             </div>
 
             <div id="contact-links">
-				<div class="graylink"><a target="_self" href="http://www.westdesign.com/uploads/">Send Us Files</a></div>
-				<div class="graylink"><a target="_self" href="http://www.westdesign.com/downloads/">Downloads</a></div>
+				<div class="graylink"><a target="_self" href="/uploads/">Send Us Files</a></div>
+				<div class="graylink"><a target="_self" href="/downloads/">Downloads</a></div>
                 <div class="personal">
                     818.707.4455 <span class="green">&bull;</span> e-mail: <a href="mailto:hwdesign@west.net">hwdesign@west.net</a>
                 </div>

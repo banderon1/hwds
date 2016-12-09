@@ -141,7 +141,7 @@
 </div>
 <div id="ecardspopup" class="popup popupBig">
 	<div class="popupContent" id="ecardsmain">
-		<img src="/images/popups/ECardsscreens.png" usemap="#ecards-map" border="0" width="800" height="566" alt=""/>
+		<img src="/images/popups/ECardsscreens.jpg" usemap="#ecards-map" border="0" width="800" height="566" alt=""/>
 		<map id="ecards-map" name="ecards-map">
 			<area href="#" shape="rect" coords="515,36,749,171" class="ecardflash" rel="#ecard0popup" alt="HWDS Holiday Card 2010" title="HWDS Holiday Card 2010"/>
 			<area href="#" shape="rect" coords="48,178,284,344" class="ecardflash" rel="#ecard1popup" alt="LLG Holiday Card 2009" title="LLG Holiday Card 2009"/>
@@ -150,15 +150,198 @@
 			<area href="#" shape="rect" coords="58,384,303,513" class="ecardflash" rel="#ecard4popup" alt="HWDS Holiday Card 2007" title="HWDS Holiday Card 2007"/>
 			<area href="#" shape="rect" coords="340,376,575,518" class="ecardflash" rel="#ecard5popup" alt="LLG 2011 Holiday Card" title="LLG 2011 Holiday Card"/>
 			<area href="#" shape="rect" coords="613,350,741,516" class="ecardflash" rel="#ecard6popup" alt="HWDS 2012 Holiday Card" title="HWDS 2012 Holiday Card"/>
+			<area href="#" shape="rect" coords="380,36,500,171" class="ecardflash" rel="#ecard7popup" alt="Market Street" title="Market Street"/>
 		</map>
 	</div>
 	<!--start sub-popups for ecards -->
-	<div class="popupswap" ng-repeat="flashecard in flashecards" id="ecard{{flashecard.id}}popup">
+	<div class="popupswap" id="ecard0popup">
 		<div class="returnClick"><a class="ecardsreturn" href="#">Return to Ecards Section</a></div>
 		<div class="popupContent">
-			<div id="ecardflashcontent{{flashecard.id}}">
-				<h1>You need Flash to view the proper content.</h1>
-				<img alt="Flash E-Card" height="{{flashecard.h}}" width="{{flashecard.w}}" ng-src="/images/popups/ecards/{{flashecard.img}}" />
+			<div id="ecardflashcontent0">
+				<object type="application/x-shockwave-flash" data="/images/popups/ecards/HWDSHolidayCard.swf" width="412" height="439" style="float: none; vertical-align:middle">
+					<param name="movie" value="/images/popups/ecards/HWDSHolidayCard.swf">
+					<param name="quality" value="high">
+					<param name="bgcolor" value="#ffffff">
+					<param name="play" value="true">
+					<param name="loop" value="true">
+					<param name="wmode" value="window">
+					<param name="scale" value="noscale">
+					<param name="menu" value="true">
+					<param name="devicefont" value="false">
+					<param name="salign" value="">
+					<param name="allowScriptAccess" value="sameDomain">
+					<a href="http://www.adobe.com/go/getflash">
+						<img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player">
+						<img alt="Flash E-Card" width="412" height="439" src="/images/popups/ecards/Bell_Large.jpg" />
+					</a>
+				</object>
+			</div>
+		</div>
+	</div>
+	<div class="popupswap" id="ecard1popup">
+		<div class="returnClick"><a class="ecardsreturn" href="#">Return to Ecards Section</a></div>
+		<div class="popupContent">
+			<div id="ecardflashcontent1">
+				<object type="application/x-shockwave-flash" data="/images/popups/ecards/LLGCard2009.swf" width="720" height="480" style="float: none; vertical-align:middle">
+					<param name="movie" value="/images/popups/ecards/LLGCard2009.swf">
+					<param name="quality" value="high">
+					<param name="bgcolor" value="#ffffff">
+					<param name="play" value="true">
+					<param name="loop" value="true">
+					<param name="wmode" value="window">
+					<param name="scale" value="noscale">
+					<param name="menu" value="true">
+					<param name="devicefont" value="false">
+					<param name="salign" value="">
+					<param name="allowScriptAccess" value="sameDomain">
+					<a href="http://www.adobe.com/go/getflash">
+						<img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player">
+						<img alt="Flash E-Card" width="720" height="480" src="/images/popups/ecards/LLGEnvelope2-Holidays2009_u.jpg" />
+					</a>
+				</object>
+			</div>
+		</div>
+	</div>
+	<div class="popupswap" id="ecard2popup">
+		<div class="returnClick"><a class="ecardsreturn" href="#">Return to Ecards Section</a></div>
+		<div class="popupContent">
+			<div id="ecardflashcontent2">
+				<object type="application/x-shockwave-flash" data="/images/popups/ecards/HWDSHalloweenCarcd2.swf" width="756" height="439" style="float: none; vertical-align:middle">
+					<param name="movie" value="/images/popups/ecards/HWDSHalloweenCarcd2.swf">
+					<param name="quality" value="high">
+					<param name="bgcolor" value="#ffffff">
+					<param name="play" value="true">
+					<param name="loop" value="true">
+					<param name="wmode" value="window">
+					<param name="scale" value="noscale">
+					<param name="menu" value="true">
+					<param name="devicefont" value="false">
+					<param name="salign" value="">
+					<param name="allowScriptAccess" value="sameDomain">
+					<a href="http://www.adobe.com/go/getflash">
+						<img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player">
+						<img alt="Flash E-Card" width="756" height="439" src="/images/popups/ecards/Gumdrops_Large.jpg" />
+					</a>
+				</object>
+			</div>
+		</div>
+	</div>
+	<div class="popupswap" id="ecard3popup">
+		<div class="returnClick"><a class="ecardsreturn" href="#">Return to Ecards Section</a></div>
+		<div class="popupContent">
+			<div id="ecardflashcontent3">
+				<object type="application/x-shockwave-flash" data="/images/popups/ecards/MetrolinkHoliday2011_22.swf" width="720" height="480" style="float: none; vertical-align:middle">
+					<param name="movie" value="/images/popups/ecards/MetrolinkHoliday2011_22.swf">
+					<param name="quality" value="high">
+					<param name="bgcolor" value="#ffffff">
+					<param name="play" value="true">
+					<param name="loop" value="true">
+					<param name="wmode" value="window">
+					<param name="scale" value="noscale">
+					<param name="menu" value="true">
+					<param name="devicefont" value="false">
+					<param name="salign" value="">
+					<param name="allowScriptAccess" value="sameDomain">
+					<a href="http://www.adobe.com/go/getflash">
+						<img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player">
+						<img alt="Flash E-Card" width="720" height="480" src="/images/popups/ecards/MetrolinkEnvelope2010.jpg" />
+					</a>
+				</object>
+			</div>
+		</div>
+	</div>
+	<div class="popupswap" id="ecard4popup">
+		<div class="returnClick"><a class="ecardsreturn" href="#">Return to Ecards Section</a></div>
+		<div class="popupContent">
+			<div id="ecardflashcontent4">
+				<object type="application/x-shockwave-flash" data="/images/popups/ecards/HWDS-Flash-Card07.swf" width="800" height="400" style="float: none; vertical-align:middle">
+					<param name="movie" value="/images/popups/ecards/HWDS-Flash-Card07.swf">
+					<param name="quality" value="high">
+					<param name="bgcolor" value="#ffffff">
+					<param name="play" value="true">
+					<param name="loop" value="true">
+					<param name="wmode" value="window">
+					<param name="scale" value="noscale">
+					<param name="menu" value="true">
+					<param name="devicefont" value="false">
+					<param name="salign" value="">
+					<param name="allowScriptAccess" value="sameDomain">
+					<a href="http://www.adobe.com/go/getflash">
+						<img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player">
+						<img alt="Flash E-Card" width="800" height="400" src="/images/popups/ecards/EnvelopePenguins.jpg" />
+					</a>
+				</object>
+			</div>
+		</div>
+	</div>
+	<div class="popupswap" id="ecard5popup">
+		<div class="returnClick"><a class="ecardsreturn" href="#">Return to Ecards Section</a></div>
+		<div class="popupContent">
+			<div id="ecardflashcontent5">
+				<object type="application/x-shockwave-flash" data="/images/popups/ecards/LLGHoliday2011_10.swf" width="720" height="480" style="float: none; vertical-align:middle">
+					<param name="movie" value="/images/popups/ecards/LLGHoliday2011_10.swf">
+					<param name="quality" value="high">
+					<param name="bgcolor" value="#ffffff">
+					<param name="play" value="true">
+					<param name="loop" value="true">
+					<param name="wmode" value="window">
+					<param name="scale" value="noscale">
+					<param name="menu" value="true">
+					<param name="devicefont" value="false">
+					<param name="salign" value="">
+					<param name="allowScriptAccess" value="sameDomain">
+					<a href="http://www.adobe.com/go/getflash">
+						<img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player">
+						<img alt="Flash E-Card" width="720" height="480" src="/images/popups/ecards/LLGEnvelope2Holidays2010.jpg" />
+					</a>
+				</object>
+			</div>
+		</div>
+	</div>
+	<div class="popupswap" id="ecard6popup">
+		<div class="returnClick"><a class="ecardsreturn" href="#">Return to Ecards Section</a></div>
+		<div class="popupContent">
+			<div id="ecardflashcontent6">
+				<object type="application/x-shockwave-flash" data="/images/popups/ecards/HWflash14.swf" width="720" height="480" style="float: none; vertical-align:middle">
+					<param name="movie" value="/images/popups/ecards/HWflash14.swf">
+					<param name="quality" value="high">
+					<param name="bgcolor" value="#ffffff">
+					<param name="play" value="true">
+					<param name="loop" value="true">
+					<param name="wmode" value="window">
+					<param name="scale" value="noscale">
+					<param name="menu" value="true">
+					<param name="devicefont" value="false">
+					<param name="salign" value="">
+					<param name="allowScriptAccess" value="sameDomain">
+					<a href="http://www.adobe.com/go/getflash">
+						<img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player">
+						<img alt="Flash E-Card" width="720" height="480" src="/images/popups/ecards/HDWSEnvelopeHolidays2012open.jpg" />
+					</a>
+				</object>
+			</div>
+		</div>
+	</div>
+	<div class="popupswap" id="ecard7popup">
+		<div class="returnClick"><a class="ecardsreturn" href="#">Return to Ecards Section</a></div>
+		<div class="popupContent">
+			<div id="ecardflashcontent7">
+				<object type="application/x-shockwave-flash" data="/images/popups/ecards/MarketStreet.swf" width="341" height="429" style="float: none; vertical-align:middle">
+					<param name="movie" value="/images/popups/ecards/MarketStreet.swf">
+					<param name="quality" value="high">
+					<param name="bgcolor" value="#666666">
+					<param name="play" value="true">
+					<param name="loop" value="true">
+					<param name="wmode" value="window">
+					<param name="scale" value="showall">
+					<param name="menu" value="true">
+					<param name="devicefont" value="false">
+					<param name="salign" value="">
+					<param name="allowScriptAccess" value="sameDomain">
+					<a href="http://www.adobe.com/go/getflash">
+						<img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player">
+					</a>
+				</object>
 			</div>
 		</div>
 	</div>

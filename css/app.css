@@ -5,6 +5,8 @@ body{background-image:url('/images/bg.jpg')}
 div#wrapper{display:table;height:100%;margin:0 auto;min-width:1015px}
 div#entirepage{font-size:11px;line-height:16px;color:#666;display:table-cell;position:relative;text-align:left;vertical-align:middle;height:100%;margin:0 auto}
 div#howmany_years{text-align:right}
+div#howmany_years img{margin:-12px 0}
+div#green_arrow{float: left; margin-top: -90px}
 div#innerwrap{border:10px solid #FAA61B;border-radius:10px;background-color:#FFF;box-shadow: 0 10px 30px #666}
 a{text-decoration:none;cursor:pointer}
 
@@ -15,6 +17,7 @@ img{border:0}
 .green{color:#A6CE39 !important}
 .gray,ul.gray li,ul.gray li span{color:#999 !important}
 
+.popupvideo{display:none;position:absolute;top:200px;left:200px;border:5px solid #888;border-radius:10px;-webkit-border-radius:10px;-moz-border-radius:10px;behavior:url("/css/PIE.htc");background:#fff;-moz-box-shadow:0 0 30px #000;-webkit-box-shadow:0 0 30px #000;box-shadow:0 0 30px #000;z-index:9999}
 .popupflash{display:none;border:5px solid #888;border-radius:10px;-webkit-border-radius:10px;-moz-border-radius:10px;behavior:url("/css/PIE.htc");background:#fff;-moz-box-shadow:0 0 30px #000;-webkit-box-shadow:0 0 30px #000;box-shadow:0 0 30px #000;z-index:9999}
 .popupflash h1{margin:10px}
 .popup{display:none;width:700px;border:5px solid #888;border-radius:10px;-webkit-border-radius:10px;-moz-border-radius:10px;behavior:url("css/PIE.htc");background:#fff;-moz-box-shadow:0 0 30px #000;-webkit-box-shadow:0 0 30px #000;box-shadow:0 0 30px #000;z-index:9999;font-size:13px;line-height:18px}
@@ -52,9 +55,9 @@ ul.threecol li span{font-size:12px}
 #scrollbar0{float:left;width:990px;margin:10px 0}
 #scrollbar1{float:left;width:590px;margin:10px 0}
 #scrollbar2{float:left;width:400px;margin:10px 0}
-#scrollbar0 .viewport{width:970px;height:425px;overflow:hidden;position:relative}
-#scrollbar1 .viewport{width:570px;height:425px;overflow:hidden;position:relative}
-#scrollbar2 .viewport{width:380px;height:425px;overflow:hidden;position:relative}
+#scrollbar0 .viewport{width:970px;height:445px;overflow:hidden;position:relative}
+#scrollbar1 .viewport{width:570px;height:445px;overflow:hidden;position:relative}
+#scrollbar2 .viewport{width:380px;height:445px;overflow:hidden;position:relative}
 #scrollbar0 .overview,#scrollbar1 .overview,#scrollbar2 .overview{list-style:none;position:absolute;left:0;top:0;padding:0 20px}
 #scrollbar0 .thumb .end,#scrollbar1 .thumb .end,#scrollbar2 .thumb .end,
 #scrollbar0 .scrollbar,#scrollbar1 .scrollbar,#scrollbar2 .scrollbar{position:relative;float:right;width:2px;padding-right:10px}
@@ -117,7 +120,7 @@ div[rel]:hover,area,#green,#section1,#section2,#section3,#section4,#section5,.po
 #footer .personal{text-align:right;padding-top:5px;padding-left:45px}
 #footer .personal a{color:#FAA61B}
 #footer a:hover{color:#A6CE39}
-#footer h1{padding-left:15px;margin-bottom:10px;margin-left:20px;color:#666666;width:930px;border:none}
+#footer h1{padding-left:15px;margin-bottom:10px;text-align:center;color:#666666;width:930px;border:none}
 #pages {font-size:10px;padding-bottom:20px;text-align:center}
 #pages span{color:#FAA61B}
 #pages a,#pages div{color:#BDBDBD;display:inline}
@@ -138,14 +141,14 @@ div[rel]:hover,area,#green,#section1,#section2,#section3,#section4,#section5,.po
   background-color:#FAA61B; /* Fallback */
   background:hsla(37, 96%, 54%, 1.0);
   font-size: 14px;
-  height:30px;
+  height:15px;
 }
 #marquee-start{
 width: 140px;
 margin-left: 15px;
 padding: 5px 8px;
 position:relative;
-top:8px;
+top:5px;
 }
 #marquee{
   height:20px;
@@ -153,7 +156,7 @@ top:8px;
   overflow:hidden;
   position:relative;
   margin-left:205px;
-  margin-top:-8px;
+  margin-top:-11px;
 }
 #marquee-text{
   cursor:pointer;

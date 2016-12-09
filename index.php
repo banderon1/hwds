@@ -50,10 +50,10 @@ if(empty($_COOKIE['mobileok'])) {
 </head>
 <body popups-directive>
 	<div id="wrapper"><div id="entirepage">
-    <div id="howmany_years">
-        <img src="/images/howmanyyears.png" alt="Celebrating 25 years serving corporate clients." width="200" height="118" />
-    </div>
-    <div id="innerwrap">
+		<div id="howmany_years">
+			<img src="/images/howmanyyears.png" alt="Celebrating 26 years serving corporate clients." width="200" height="137" />
+		</div>
+		<div id="innerwrap">
 		<!--[if lte IE 8]>
 		    <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a target="_blank" href="http://browsehappy.com/">upgrade your browser</a> or <a target="_blank" href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
 		<![endif]-->
@@ -69,6 +69,9 @@ if(empty($_COOKIE['mobileok'])) {
 					</ul>
 				</li>
 				<li>
+					<div id="green_arrow">
+						<img src="/images/greenarrow.png" alt="Check this out!" width="140" height="126" />
+					</div>
 					<div id="section2">The Work</div>
 					<ul id="section2drop">
 						<li><a href="/publications">Printed Publications</a></li>
@@ -95,7 +98,7 @@ if(empty($_COOKIE['mobileok'])) {
 					</ul>
 				</li>
 				<li>
-					<a href="http://successfulcorporatecommunications.com/" target="_blank"><div id="section4">The Blog</div></a>
+					<a href="https://successfulcorporatecommunications.com/" target="_blank"><div id="section4">The Blog</div></a>
 				</li>
 				<li>
 					<div id="section5">The Connection</div>
@@ -123,16 +126,8 @@ if(empty($_COOKIE['mobileok'])) {
 		
 		<div id="footer">
 			<h1>
-                HWDS, a full-service boutique creative agency, develops innovative marketing solutions for larger corporate, governmental and institutional clients. We specialize in healthcare marketing, public transportation projects and high-profile special events. Our award-winning firm provides creative marketing solutions for print, online and multi-media products including advertising, design and conceptual development. We have been serving corporate clients since 1991.
+                <b>HWDS, a full-service, award-winning creative firm, designs, prints and develops innovative<br/>marketing solutions for large corporate, governmental and institutional clients.</b>
             </h1>
-            <div id="marquee-holder">
-                <span id="marquee-start">Current Projects include:</span>
-                <div id="marquee">
-                    <span id="marquee-text">
-                        <?php include 'marquee.php'; ?>
-                    </span>
-                </div>
-            </div>
 
             <div id="contact-links">
 				<div class="graylink"><a target="_self" href="/uploads/">Send Us Files</a></div>
@@ -146,30 +141,12 @@ if(empty($_COOKIE['mobileok'])) {
                     <a target="_blank" href="https://twitter.com/HWDSInc"><img alt="Twitter" src="/images/twitter.png" width="25" height="25"/></a>
                 </div>
 			</div>
-            <div id="pages">
-				<a href="/ourfirm">The HWDS Team</a>&nbsp;<span>&bull;</span>
-				<div rel="#clientspopup">Clients</div>&nbsp;<span>&bull;</span>
-				<a href="/memberships">Memberships</a>&nbsp;<span>&bull;</span>
-				<a href="/publications">Printed Publications</a>&nbsp;<span>&bull;</span>
-                <a href="/promotions">Advertising &amp; Promotions</a>&nbsp;<span>&bull;</span>
-                <a href="/identity">Identity</a>&nbsp;<span>&bull;</span>
-				<a href="/interactive">Interactive/Online</a>&nbsp;<span>&bull;</span>
-				<a href="/editorial">Editorial/Illustrations</a>&nbsp;<span>&bull;</span>
-				<a href="/newsletters">Newsletters</a>&nbsp;<span>&bull;</span>
-				<div rel="#ecardspopup">E-cards</div>&nbsp;<span>&bull;</span>
-				<div rel="#imagspopup">iMags/e-Pubs</div>&nbsp;<span>&bull;</span>
-				<a href="/bilingual">Bilingual</a><br/>
-				<a href="/events">Events</a>&nbsp;<span>&bull;</span>
-				<div rel="#timelesspopup">Multi-year Projects</div>&nbsp;<span>&bull;</span>
-				<div rel="#advertisingpopup">Advertising</div>&nbsp;<span>&bull;</span>
-				<div rel="#brandingpopup">Branding</div>&nbsp;<span>&bull;</span>
-				<div rel="#promotingpopup">Promoting</div>&nbsp;<span>&bull;</span>
-				<div rel="#webmarketingpopup">Web Marketing</div>&nbsp;<span>&bull;</span>
-				<div rel="#greenpopup">Green Commitment</div>&nbsp;<span>&bull;</span>
-				<a href="http://successfulcorporatecommunications.com/">The Blog</a>&nbsp;<span>&bull;</span>
-				<a href="/contact">Contact Us</a>&nbsp;<span>&bull;</span>
-				<div rel="#contactuspopup">Request A Quote</div>&nbsp;<span>&bull;</span>
-				<a href="/minisamplebooks">Mini Sample Books</a>
+
+			<div id="marquee-holder">
+				<span id="marquee-start">Current Projects include:</span>
+				<div id="marquee">
+                    <span id="marquee-text"><nobr>2016 State of the Commute Report for Metropolitan Washington &bull; Elevator Wraps for Kaiser Permanente Baldwin Park Medical Center &bull; Old Towne Orange Map Update &bull; Quarterly City of Orange Recreation Magazine &bull; On the Go Rideshare eNewsmagazine &bull; Norwalk Transit Dial&ndash;A&ndash;Ride Brochure &bull; Kaiser Permanente Fontana/Ontario Focus Newsletter &bull; </nobr></span>
+				</div>
 			</div>
 		</div>
 		<div id="popups-container"></div>

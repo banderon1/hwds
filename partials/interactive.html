@@ -7,7 +7,23 @@
 
 				<section>
 					<div class="column1">
-						<h2><div class='newbutton'>&nbsp;</div></h2>
+						<h2><div class='newbutton'>&nbsp;</div>Video Animations</h2>
+						<div class="pubdesc">
+							The Kaiser Permanente San Diego Medical Center asked our firm to create a series of six animated white board videos to roll-out its “Yes, Culture of Care” program to physicians and staff.  We animated the characters, added graphics and music and Brana and Peter of our staff provided the voices of Adli and Ofi. Click on any of the links to the right to view these fun, 30-second videos with their lively music track.
+						</div>
+					</div>
+					<div class="column2">
+						<img id="img-map-video-links" src="images/interactive/WhiteBoard-Animation-FilmstripTemplate.jpg" border="0" width="720" height="400" orgWidth="720" orgHeight="400" usemap="#video-links" alt="" />
+						<map name="video-links" id="map-video-links">
+							<area class="popvideo" rel="#video0popup" href="#" shape="rect" style="outline:none;" target="_self" alt="The Journey Begins" title="The Journey Begins" coords="152,192,214,239"/>
+							<area class="popvideo" rel="#video1popup"  href="#" shape="rect" style="outline:none;" target="_self" alt="Goals" title="Goals" coords="269,241,322,293"/>
+							<area class="popvideo" rel="#video2popup"  href="#" shape="rect" style="outline:none;" target="_self" alt="Measurement" title="Measurement" coords="396,285,454,346"/>
+							<area class="popvideo" rel="#video3popup"  href="#" shape="rect" style="outline:none;" target="_self" alt="Service Recovery" title="Service Recovery" coords="522,323,589,373"/>
+						</map>
+				</section>
+
+				<section>
+					<div class="column1">
 						<div class="pubdesc">
 							On the Go is a bimonthly rideshare e-newsletter that contains user-friendly interactive flipping pages and resources links. It is sent out via an email link every other month (with a 1-page version for employees monthly).  In addition, this publication is funded by 4 southern California transportation commissions and includes expanded sections for local county news.
 							<br/><br/>
@@ -16,7 +32,7 @@
 					</div>
 					<div class="column2"><img width="680" height="378" src="images/interactive/eNews.jpg"/></div>
 				</section>
-				
+
 				<section>
 					<div class="column1">
 						<h2>Interactive CD-Rom</h2>
@@ -145,7 +161,7 @@
 						<h2>Cherriots Rideshare Web Site</h2>
 						<p class="bold">Client: Cherriots Rideshare, Salem, OR</p>
 						<div class="pubdesc">
-							HWDS was commissioned to design an interactive Web site, a new logo identity and a marketing package to promote ridesharing and commute alternatives for the Salem-Keizer Transit District in Salem, Oregon. The goal was to emphasize that ridesharing can improve one's quality of life by reducing stress, traffic congestion, air pollution and a reliance on gasoline. We created a unique curved layout of rollovers for the main home page and gave the site a branded look consistent with the program's logo identity. Please visit <a href="http://www.cherriotsrideshare.org" target="_blank">www.cherriotsrideshare.org</a>.
+							HWDS was commissioned to design an interactive Web site, a new logo identity and a marketing package to promote ridesharing and commute alternatives for the Salem-Keizer Transit District in Salem, Oregon. The goal was to emphasize that ridesharing can improve one's quality of life by reducing stress, traffic congestion, air pollution and a reliance on gasoline. We created a unique curved layout of rollovers for the main home page and gave the site a branded look consistent with the program's logo identity. Please visit <a href="http://cherriots.org/en/services/rideshare" target="_blank">cherriots.org/en/services/rideshare</a>.
 						</div>
 					</div>
 					<div class="column2"><img width="680" height="378" src="images/interactive/Cherriots.jpg"/></div>
@@ -240,7 +256,7 @@
 						<h2>Holiday Greeting Card</h2>
 						<p class="bold">Client: HWDS and Associates, Inc., Westlake Village, CA</p>
 						<div class="pubdesc">
-							HWDS created this beautiful Flash animation as an online holiday e-card to send to our clients.  This interactive piece received a 2010 Coastal ADDY Award from the American Advertising Federation of Santa Barbara. Please visit <a href="http://www.westdesign.com/2010HolidayCard" target="_blank">westdesign.com/2010HolidayCard</a>
+							HWDS created this beautiful Flash animation as an online holiday e-card to send to our clients.  This interactive piece received a 2010 Coastal ADDY Award from the American Advertising Federation of Santa Barbara. Please visit <a href="http://www.westdesign.com/HWDSHolidayCard2010" target="_blank">westdesign.com/HWDSHolidayCard2010</a>
 						</div>
 					</div>
 					<div class="column2"><img width="680" height="378" src="images/interactive/HWDS2010Holidaycardscreen.jpg"/></div>
@@ -267,4 +283,12 @@
 		<h1>You need Flash to view the proper content.</h1>
 		<img height="400" width="720" ng-src="images/interactive/{{flashvideo.img}}"/>
 	</div>
+</div>
+
+<div class="popupvideo" ng-repeat="mp4video in mp4videos" id="video{{mp4video.id}}popup">
+	<video id="videosource{{mp4video.id}}" width="640" height="360" controls>
+		<source ng-src="http://www.westdesign.com/WhiteBoardAnimations/{{mp4video.video}}.mp4" type="video/mp4" />
+		<source ng-src="http://www.westdesign.com/WhiteBoardAnimations/ogg/{{mp4video.video}}.ogg" type="video/ogg">
+	Your browser does not support the video tag.
+	</video>
 </div>

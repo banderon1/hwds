@@ -43,6 +43,8 @@ img{border:0}
 
 #content.nomargin{margin:0 !important;height:inherit}
 #content{width:100%;height:445px;margin:5px}
+img.homehead{position:relative;left:-75px}
+h1.homehead{color:#A6CE39;font-size:24px;margin:0 auto;width:100%;font-weight:bold;border:none;float:left;margin-top:10px;text-align:center}
 h1{color:#FAA61B;font-size:17px;font-weight:normal;border-bottom:1px solid #666;width:150px}
 h2{color:#A6CE39;font-size:15px;font-weight:normal;margin:10px 0}
 h7{color:#666666;font-size:17px;font-weight:normal}
